@@ -2,6 +2,9 @@ import { get } from "../utils/request";
 
 const url = 'https://x.com/i/api/graphql/jor5fVC4grHgHsSFWc04Pg/TweetDetail';
 
+/**
+ * detail里最多8条评论，加载更多的方法与一个名为cursor的参数有关，具体有待发掘。
+ */
 export async function getTweetDetail(tweetId: string) {
     const params = {
         variables: {
