@@ -7,7 +7,7 @@ def get_user_tweets(user_id: str, count: int = 20) -> dict:
         "variables": json.dumps({
             "userId": user_id,
             "count": count,
-            "includePromotedContent": True,
+            "includePromotedContent": False,
             "withQuickPromoteEligibilityTweetFields": True,
             "withVoice": True,
             "withV2Timeline": True

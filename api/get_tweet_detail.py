@@ -9,7 +9,7 @@ def get_tweet_detail(tweet_id: str) -> dict:
             "focalTweetId": tweet_id,
             "with_rux_injections": False,
             "rankingMode": "Relevance",
-            "includePromotedContent": True,
+            "includePromotedContent": False,
             "withCommunity": True,
             "withQuickPromoteEligibilityTweetFields": True,
             "withBirdwatchNotes": True,

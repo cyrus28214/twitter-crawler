@@ -1,13 +1,13 @@
 from utils.request import get
 import json
 
-url = 'https://x.com/i/api/graphql/8fXdisbSK0JGESmFrHcp1g/Retweeters'
+url = 'https://x.com/i/api/graphql/o5eNLkJb03ayTQa97Cpp7w/Following'
 
-def get_retweeters(tweet_id: str, count: int = 20) -> dict:
+def get_followings(user_id: str, count: int = 20) -> dict:
     params = {
         "variables": json.dumps({
-            "tweetId": tweet_id,
-            "count": count,
+            "userId": user_id,
+            "count": 20,
             "includePromotedContent": False
         }),
         "features": json.dumps({
@@ -32,6 +32,7 @@ def get_retweeters(tweet_id: str, count: int = 20) -> dict:
             "longform_notetweets_consumption_enabled": True,
             "responsive_web_twitter_article_tweet_consumption_enabled": True,
             "tweet_awards_web_tipping_enabled": False,
+            "responsive_web_grok_analysis_button_from_backend": True,
             "creator_subscriptions_quote_tweet_preview_enabled": False,
             "freedom_of_speech_not_reach_fetch_enabled": True,
             "standardized_nudges_misinfo": True,
@@ -43,4 +44,4 @@ def get_retweeters(tweet_id: str, count: int = 20) -> dict:
             "responsive_web_enhance_cards_enabled": False
         })
     }
-    return get(url, params) 
+    return get(url, params)

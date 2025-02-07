@@ -1,9 +1,5 @@
 import json
-from api.get_user_by_screen_name import get_user_by_screen_name
-from api.get_user_tweets import get_user_tweets
-from api.get_tweet_detail import get_tweet_detail
-from api.get_tweet_quotes import get_tweet_quotes
-from api.get_retweeters import get_retweeters
+from api import *
 
 def main():
     # 获取用户信息
@@ -34,6 +30,18 @@ def main():
     # res = get_retweeters("1883416606933680469")
     # print(json.dumps(res, indent=2))
     # with open("examples/retweeters.json", "w") as f:
+    #     json.dump(res, f, indent=2)
+
+    # 获取用户粉丝
+    res = get_followers("44196397")
+    print(json.dumps(res, indent=2))
+    with open("examples/followers.json", "w") as f:
+        json.dump(res, f, indent=2)
+        
+    # # 获取用户关注
+    # res = get_followings("44196397")
+    # print(json.dumps(res, indent=2))
+    # with open("examples/followings.json", "w") as f:
     #     json.dump(res, f, indent=2)
 
 if __name__ == "__main__":
