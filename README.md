@@ -3,25 +3,29 @@
 To install dependencies:
 
 ```bash
-bun install
+pip install requests
 ```
 
 To run:
 
-Create a new file `config.ts` and copy the headers from your browser to it:
+Create a new file `config.json` and add your headers to it:
 
-```ts
-export const headers = {
-    "authorization": "Bearer ******",
-    "Cookie": 'auth_token=******; ct0=******; ',
-    "x-csrf-token": "******"
-};
+```json
+{
+    "headers": {
+        "authorization": "Bearer ******",
+        "Cookie": "auth_token=******; ct0=******;",
+        "x-csrf-token": "******"
+    }
+}
 ```
+
+You can get them from your browser after your login x.com.
 
 Then run the script:
 
 ```bash
-bun run index.ts
+python main.py
 ```
 
 ## important fields
