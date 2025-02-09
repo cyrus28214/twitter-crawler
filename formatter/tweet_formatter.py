@@ -18,18 +18,28 @@ def tweet_formatter(data: dict) -> dict:
         assert data["__typename"] == "Tweet"
     user = user_formatter(data["core"]["user_results"]["result"])
     post_url = f"https://x.com/{user['user_name']}/status/{data['rest_id']}"
-    source_id = None
-    if data["legacy"]["is_quote_status"]:
-        source_id = data["legacy"]["quoted_status_id_str"]
-    source_tweet = data.get("quoted_status_result")
-    if source_tweet:
-        source_tweet = tweet_formatter(source_tweet["result"])
+    
+    is_quote = "quoted_status_result" in data
+    is_retweet = "retweeted_status_result" in data["legacy"]
+    
+    if is_quote:
+        source_tweet = tweet_formatter(data["quoted_status_result"]["result"])
+        source_id = source_tweet["tweet"]["post_id"]
+    elif is_retweet:
+        source_tweet = tweet_formatter(data["legacy"]["retweeted_status_result"]["result"])
+        source_id = source_tweet["tweet"]["post_id"]
+    else:
+        source_tweet = None
+        source_id = None
+
     tweet = {
         "post_id": data["rest_id"],
         "content": data["legacy"]["full_text"],
         "post_time": data["legacy"]["created_at"],
         "user_id": user["user_id"],
         "post_url": post_url,
+        "is_quote": is_quote,
+        "is_retweet": is_retweet,
         "source_id": source_id,
         "like_count": data["legacy"]["favorite_count"],
         "bookmark_count": data["legacy"]["bookmark_count"],
