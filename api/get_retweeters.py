@@ -1,9 +1,9 @@
-from utils.request import get
 import json
+import requests
 
 url = 'https://x.com/i/api/graphql/8fXdisbSK0JGESmFrHcp1g/Retweeters'
 
-def get_retweeters(tweet_id: str, count: int = 20) -> dict:
+def get_retweeters(session: requests.Session, tweet_id: str, count: int = 20) -> dict:
     params = {
         "variables": json.dumps({
             "tweetId": tweet_id,
@@ -43,4 +43,4 @@ def get_retweeters(tweet_id: str, count: int = 20) -> dict:
             "responsive_web_enhance_cards_enabled": False
         })
     }
-    return get(url, params) 
+    return session.get(url, params=params).json()

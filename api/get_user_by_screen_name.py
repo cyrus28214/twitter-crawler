@@ -1,9 +1,9 @@
-from utils.request import get
 import json
+import requests
 
 url = "https://x.com/i/api/graphql/32pL5BWe9WKeSK1MoPvFQQ/UserByScreenName"
 
-def get_user_by_screen_name(screen_name: str) -> dict:
+def get_user_by_screen_name(session: requests.Session, screen_name: str) -> dict:
     params = {
         "variables": json.dumps({
             "screen_name": screen_name
@@ -27,4 +27,4 @@ def get_user_by_screen_name(screen_name: str) -> dict:
             "withAuxiliaryUserLabels": False
         })
     }
-    return get(url, params) 
+    return session.get(url, params=params).json() 

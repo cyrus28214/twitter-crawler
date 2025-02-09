@@ -1,9 +1,9 @@
-from utils.request import get
 import json
+import requests
 
 url = 'https://x.com/i/api/graphql/jor5fVC4grHgHsSFWc04Pg/TweetDetail'
 
-def get_tweet_detail(tweet_id: str) -> dict:
+def get_tweet_detail(session: requests.Session, tweet_id: str) -> dict:
     params = {
         "variables": json.dumps({
             "focalTweetId": tweet_id,
@@ -54,4 +54,4 @@ def get_tweet_detail(tweet_id: str) -> dict:
             "withDisallowedReplyControls": False
         })
     }
-    return get(url, params) 
+    return session.get(url, params=params).json()

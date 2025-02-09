@@ -1,9 +1,9 @@
-from utils.request import get
 import json
+import requests
 
 url = 'https://x.com/i/api/graphql/KI9jCXUx3Ymt-hDKLOZb9Q/SearchTimeline'
 
-def get_tweet_quotes(tweet_id: str, count: int = 20) -> dict:
+def get_tweet_quotes(session: requests.Session, tweet_id: str, count: int = 20) -> dict:
     params = {
         "variables": json.dumps({
             "rawQuery": f"quoted_tweet_id:{tweet_id}",
@@ -44,4 +44,4 @@ def get_tweet_quotes(tweet_id: str, count: int = 20) -> dict:
             "responsive_web_enhance_cards_enabled": False
         })
     }
-    return get(url, params) 
+    return session.get(url, params=params).json() 

@@ -1,13 +1,13 @@
-from utils.request import get
+import requests
 import json
 
 url = 'https://x.com/i/api/graphql/o5eNLkJb03ayTQa97Cpp7w/Following'
 
-def get_followings(user_id: str, count: int = 20) -> dict:
+def get_followings(session: requests.Session,  user_id: str, count: int = 20) -> dict:
     params = {
         "variables": json.dumps({
             "userId": user_id,
-            "count": 20,
+            "count": count,
             "includePromotedContent": False
         }),
         "features": json.dumps({
@@ -44,4 +44,4 @@ def get_followings(user_id: str, count: int = 20) -> dict:
             "responsive_web_enhance_cards_enabled": False
         })
     }
-    return get(url, params)
+    return session.get(url, params=params).json()

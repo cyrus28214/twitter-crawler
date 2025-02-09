@@ -1,115 +1,12 @@
 {
-  "data": {
-    "user": {
-      "result": {
-        "__typename": "User",
-        "id": "VXNlcjo0NDE5NjM5Nw==",
-        "rest_id": "44196397",
-        "affiliates_highlighted_label": {
-          "label": {
-            "url": {
-              "url": "https://twitter.com/X",
-              "urlType": "DeepLink"
-            },
-            "badge": {
-              "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
-            },
-            "description": "X",
-            "userLabelType": "BusinessLabel",
-            "userLabelDisplayType": "Badge"
-          }
-        },
-        "has_graduated_access": true,
-        "parody_commentary_fan_label": "None",
-        "is_blue_verified": true,
-        "profile_image_shape": "Circle",
-        "legacy": {
-          "following": true,
-          "can_dm": false,
-          "can_media_tag": false,
-          "created_at": "Tue Jun 02 20:12:29 +0000 2009",
-          "default_profile": false,
-          "default_profile_image": false,
-          "description": "White House Tech Support",
-          "entities": {
-            "description": {
-              "urls": []
-            }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 119866,
-          "followers_count": 216434087,
-          "friends_count": 986,
-          "has_custom_timelines": true,
-          "is_translator": false,
-          "listed_count": 159156,
-          "location": "",
-          "media_count": 3213,
-          "name": "Elon Musk",
-          "normal_followers_count": 216434087,
-          "pinned_tweet_ids_str": [
-            "1887535165603561505"
-          ],
-          "possibly_sensitive": false,
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1726163678",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
-          "profile_interstitial_type": "",
-          "screen_name": "elonmusk",
-          "statuses_count": 69088,
-          "translator_type": "none",
-          "verified": false,
-          "want_retweets": true,
-          "withheld_in_countries": []
-        },
-        "professional": {
-          "rest_id": "1679729435447275522",
-          "professional_type": "Creator",
-          "category": []
-        },
-        "tipjar_settings": {
-          "is_enabled": false
-        },
-        "super_follow_eligible": true,
-        "legacy_extended_profile": {},
-        "is_profile_translatable": false,
-        "has_hidden_subscriptions_on_profile": true,
-        "verification_info": {
-          "is_identity_verified": false,
-          "reason": {
-            "description": {
-              "text": "This account is verified because it's an affiliate of @X on X. Learn more",
-              "entities": [
-                {
-                  "from_index": 54,
-                  "to_index": 56,
-                  "ref": {
-                    "url": "https://twitter.com/X",
-                    "url_type": "ExternalUrl"
-                  }
-                },
-                {
-                  "from_index": 63,
-                  "to_index": 73,
-                  "ref": {
-                    "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
-                    "url_type": "ExternalUrl"
-                  }
-                }
-              ]
-            },
-            "verified_since_msec": "-156836000000000",
-            "override_verified_year": -3000
-          }
-        },
-        "highlights_info": {
-          "can_highlight_tweets": true,
-          "highlighted_tweets": "542"
-        },
-        "user_seed_tweet_count": 0,
-        "premium_gifting_eligible": false,
-        "business_account": {},
-        "creator_subscriptions_count": 201
-      }
-    }
-  }
+  "user_id": "44196397",
+  "name": "Elon Musk",
+  "user_name": "elonmusk",
+  "user_description": "White House Tech Support",
+  "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+  "user_url": "https://x.com/elonmusk",
+  "followers_count": 216483568,
+  "following_count": 986,
+  "previous_post_count": 69155,
+  "location": ""
 }

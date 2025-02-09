@@ -1,9 +1,9 @@
-from utils.request import get
 import json
+import requests
 
 url = 'https://x.com/i/api/graphql/OGScL-RC4DFMsRGOCjPR6g/Followers'
 
-def get_followers(user_id: str, count: int = 20) -> dict:
+def get_followers(session: requests.Session, user_id: str, count: int = 20) -> dict:
     params = {
         "variables": json.dumps({
             "userId": user_id,
@@ -44,4 +44,4 @@ def get_followers(user_id: str, count: int = 20) -> dict:
             "responsive_web_enhance_cards_enabled": False
         })  
     }
-    return get(url, params)
+    return session.get(url, params=params).json()
