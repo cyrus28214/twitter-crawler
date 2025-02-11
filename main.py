@@ -32,20 +32,13 @@ def main():
 
     print("get_tweet_detail")
     res = get_tweet_detail(s, "1887535165603561505")
+    # res = get_tweet_detail(s, "1887872220279554140")
     with open("examples/tweet_detail_raw.json", "w") as f:
         json.dump(res, f, indent=2)
     res = tweet_detail_formatter(res)
     with open("examples/tweet_detail.json", "w") as f:
         json.dump(res, f, indent=2)
-
-    print("get_tweet_quotes")
-    res = get_tweet_quotes(s, "1883416606933680469")
-    with open("examples/tweet_quotes_raw.json", "w") as f:
-        json.dump(res, f, indent=2)
-    res = tweet_quotes_formatter(res)
-    with open("examples/tweet_quotes.json", "w") as f:
-        json.dump(res, f, indent=2)
-
+        
     print("get_retweeters")
     res = get_retweeters(s, "1883416606933680469")
     with open("examples/retweeters_raw.json", "w") as f:

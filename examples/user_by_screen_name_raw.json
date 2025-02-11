@@ -37,25 +37,25 @@
             }
           },
           "fast_followers_count": 0,
-          "favourites_count": 120043,
-          "followers_count": 216483568,
-          "friends_count": 986,
+          "favourites_count": 121380,
+          "followers_count": 217005023,
+          "friends_count": 1002,
           "has_custom_timelines": true,
           "is_translator": false,
-          "listed_count": 159229,
+          "listed_count": 159488,
           "location": "",
-          "media_count": 3222,
+          "media_count": 3261,
           "name": "Elon Musk",
-          "normal_followers_count": 216483568,
+          "normal_followers_count": 217005023,
           "pinned_tweet_ids_str": [
-            "1887867644814020902"
+            "1888860423648145525"
           ],
           "possibly_sensitive": false,
           "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1726163678",
           "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
           "profile_interstitial_type": "",
           "screen_name": "elonmusk",
-          "statuses_count": 69155,
+          "statuses_count": 69688,
           "translator_type": "none",
           "verified": false,
           "want_retweets": true,
@@ -69,6 +69,7 @@
         "tipjar_settings": {
           "is_enabled": false
         },
+        "super_follow_eligible": true,
         "legacy_extended_profile": {},
         "is_profile_translatable": false,
         "has_hidden_subscriptions_on_profile": true,
@@ -102,12 +103,12 @@
         },
         "highlights_info": {
           "can_highlight_tweets": true,
-          "highlighted_tweets": "543"
+          "highlighted_tweets": "547"
         },
         "user_seed_tweet_count": 0,
         "premium_gifting_eligible": false,
         "business_account": {},
-        "creator_subscriptions_count": 201
+        "creator_subscriptions_count": 202
       }
     }
   }

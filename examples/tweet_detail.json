@@ -6,13 +6,15 @@
       "post_time": "Thu Feb 06 16:13:46 +0000 2025",
       "user_id": "44196397",
       "post_url": "https://x.com/elonmusk/status/1887535165603561505",
+      "is_quote": true,
+      "is_retweet": false,
       "source_id": "1887502755943657481",
-      "like_count": 123700,
-      "bookmark_count": 3145,
-      "reply_count": 15230,
-      "quote_count": 1325,
-      "retweet_count": 36571,
-      "rec_count": "24757092"
+      "like_count": 128057,
+      "bookmark_count": 3235,
+      "reply_count": 15887,
+      "quote_count": 1365,
+      "retweet_count": 37538,
+      "rec_count": "27304781"
     },
     "user": {
       "user_id": "44196397",
@@ -21,9 +23,9 @@
       "user_description": "White House Tech Support",
       "created_at": "Tue Jun 02 20:12:29 +0000 2009",
       "user_url": "https://x.com/elonmusk",
-      "followers_count": 216483650,
-      "following_count": 986,
-      "previous_post_count": 69155,
+      "followers_count": 217005091,
+      "following_count": 1002,
+      "previous_post_count": 69688,
       "location": ""
     },
     "source_tweet": {
@@ -33,13 +35,15 @@
         "post_time": "Thu Feb 06 14:04:59 +0000 2025",
         "user_id": "1319287761048723458",
         "post_url": "https://x.com/MarioNawfal/status/1887502755943657481",
-        "source_id": "1887501129941979292",
-        "like_count": 32382,
-        "bookmark_count": 1445,
-        "reply_count": 3670,
-        "quote_count": 665,
-        "retweet_count": 10356,
-        "rec_count": "25564577"
+        "is_quote": false,
+        "is_retweet": false,
+        "source_id": null,
+        "like_count": 33125,
+        "bookmark_count": 1477,
+        "reply_count": 3818,
+        "quote_count": 688,
+        "retweet_count": 10573,
+        "rec_count": "28119104"
       },
       "user": {
         "user_id": "1319287761048723458",
@@ -48,13 +52,344 @@
         "user_description": "Largest Show on X | Founder @ibcgroupio",
         "created_at": "Thu Oct 22 14:42:25 +0000 2020",
         "user_url": "https://x.com/MarioNawfal",
-        "followers_count": 2003119,
-        "following_count": 44057,
-        "previous_post_count": 108508,
+        "followers_count": 2022419,
+        "following_count": 44125,
+        "previous_post_count": 109340,
         "location": ""
       },
       "source_tweet": null
     }
   },
-  "comment_list": []
+  "comment_list": [
+    [
+      {
+        "tweet": {
+          "post_id": "1887536127516549612",
+          "content": "@elonmusk Let the truth be known about the D.C. waste - https://t.co/WAhs6cvnzJ",
+          "post_time": "Thu Feb 06 16:17:36 +0000 2025",
+          "user_id": "33532099",
+          "post_url": "https://x.com/cronus4/status/1887536127516549612",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 525,
+          "bookmark_count": 2,
+          "reply_count": 47,
+          "quote_count": 4,
+          "retweet_count": 53,
+          "rec_count": "15935"
+        },
+        "user": {
+          "user_id": "33532099",
+          "name": "Thomas B.",
+          "user_name": "cronus4",
+          "user_description": "\"If the doors of perception were cleansed every thing would appear to man as it is, Infinite\" (William Blake) \ud83c\uddfa\ud83c\uddf8 #Trump2020",
+          "created_at": "Mon Apr 20 14:39:53 +0000 2009",
+          "user_url": "https://x.com/cronus4",
+          "followers_count": 14606,
+          "following_count": 13119,
+          "previous_post_count": 49034,
+          "location": "Savannah"
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887781445130764681",
+          "content": "@elonmusk You only need a handful of people per each DC Office...a contracting officer, an invoice approver, and someone to cut the checks to the program people in the field.  The rest  of DC staffing is fluff.",
+          "post_time": "Fri Feb 07 08:32:24 +0000 2025",
+          "user_id": "1694691781051342848",
+          "post_url": "https://x.com/JCord1986/status/1887781445130764681",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 10,
+          "bookmark_count": 0,
+          "reply_count": 3,
+          "quote_count": 0,
+          "retweet_count": 0,
+          "rec_count": "2167"
+        },
+        "user": {
+          "user_id": "1694691781051342848",
+          "name": "JonusCord1986",
+          "user_name": "JCord1986",
+          "user_description": "\"He will call on me and I will answer him\" - Psalm 91",
+          "created_at": "Thu Aug 24 12:43:27 +0000 2023",
+          "user_url": "https://x.com/JCord1986",
+          "followers_count": 62,
+          "following_count": 192,
+          "previous_post_count": 121,
+          "location": "Chambersburg PA"
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887538467015373303",
+          "content": "@elonmusk @MarioNawfal Let that sink in\n\n#zelena https://t.co/VnAILxTQ3B",
+          "post_time": "Thu Feb 06 16:26:53 +0000 2025",
+          "user_id": "1689089761909116929",
+          "post_url": "https://x.com/scdavem/status/1887538467015373303",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 144,
+          "bookmark_count": 3,
+          "reply_count": 10,
+          "quote_count": 2,
+          "retweet_count": 13,
+          "rec_count": "19151"
+        },
+        "user": {
+          "user_id": "1689089761909116929",
+          "name": "David Millard",
+          "user_name": "scdavem",
+          "user_description": "American business owner, proud parent of 5 amazing kids and husband to an amazing woman!\nTrump2024!! MAGA!!",
+          "created_at": "Wed Aug 09 01:43:02 +0000 2023",
+          "user_url": "https://x.com/scdavem",
+          "followers_count": 7203,
+          "following_count": 7861,
+          "previous_post_count": 5959,
+          "location": "Beaufort, SC"
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887653199793799588",
+          "content": "@elonmusk Stay out of our records! You were not elected by anyone. Plus, almost everything that comes out of your mouth is a lie!!",
+          "post_time": "Fri Feb 07 00:02:48 +0000 2025",
+          "user_id": "388498433",
+          "post_url": "https://x.com/nikkiecossairt/status/1887653199793799588",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 88,
+          "bookmark_count": 0,
+          "reply_count": 153,
+          "quote_count": 1,
+          "retweet_count": 2,
+          "rec_count": "14876"
+        },
+        "user": {
+          "user_id": "388498433",
+          "name": "Nikkie Cossairt",
+          "user_name": "nikkiecossairt",
+          "user_description": "",
+          "created_at": "Mon Oct 10 21:02:19 +0000 2011",
+          "user_url": "https://x.com/nikkiecossairt",
+          "followers_count": 316,
+          "following_count": 2378,
+          "previous_post_count": 17598,
+          "location": "Texas"
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887548390533169621",
+          "content": "@elonmusk \ud83d\udcaf Love this Quote https://t.co/049j4JIC3S",
+          "post_time": "Thu Feb 06 17:06:19 +0000 2025",
+          "user_id": "1518954295059787777",
+          "post_url": "https://x.com/StevenLegacy411/status/1887548390533169621",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 2430,
+          "bookmark_count": 77,
+          "reply_count": 90,
+          "quote_count": 21,
+          "retweet_count": 571,
+          "rec_count": "55547"
+        },
+        "user": {
+          "user_id": "1518954295059787777",
+          "name": "\ud835\udd4a\ud835\udd65\ud835\udd56\ud835\udd67\ud835\udd56\ud835\udd5f \ud835\udd44. \ud835\udd43\ud835\udd56\ud835\udd58\ud835\udd52\ud835\udd54\ud835\udd6a \ud83c\uddfa\ud83c\uddf8",
+          "user_name": "StevenLegacy411",
+          "user_description": "\ud83d\udc49I FollowBack Patriots\ud83d\udc48\n\"If you let the Government Take your Rights during an Emergency,\nThe Government will Create Emergencies In Order to Take your Rights\"",
+          "created_at": "Tue Apr 26 14:05:26 +0000 2022",
+          "user_url": "https://x.com/StevenLegacy411",
+          "followers_count": 85260,
+          "following_count": 51220,
+          "previous_post_count": 154468,
+          "location": "United States of America"
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887537392933810592",
+          "content": "@elonmusk Stop now. https://t.co/YXK6hUBJGL",
+          "post_time": "Thu Feb 06 16:22:37 +0000 2025",
+          "user_id": "1548284515855912964",
+          "post_url": "https://x.com/cmir_r/status/1887537392933810592",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 1353,
+          "bookmark_count": 16,
+          "reply_count": 55,
+          "quote_count": 5,
+          "retweet_count": 208,
+          "rec_count": "30716"
+        },
+        "user": {
+          "user_id": "1548284515855912964",
+          "name": "cmarin",
+          "user_name": "cmir_r",
+          "user_description": "Medical admissions administrator in hospital \nMAGA \ud83c\uddfa\ud83c\uddf8#2A#NRA Title 42 Ends 05/11/2023",
+          "created_at": "Sat Jul 16 12:34:03 +0000 2022",
+          "user_url": "https://x.com/cmir_r",
+          "followers_count": 62310,
+          "following_count": 11568,
+          "previous_post_count": 215013,
+          "location": "United States"
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887548963164770703",
+          "content": "@elonmusk Shut it down",
+          "post_time": "Thu Feb 06 17:08:36 +0000 2025",
+          "user_id": "1423102289347219458",
+          "post_url": "https://x.com/bobby17799404/status/1887548963164770703",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 96,
+          "bookmark_count": 0,
+          "reply_count": 9,
+          "quote_count": 2,
+          "retweet_count": 5,
+          "rec_count": "20284"
+        },
+        "user": {
+          "user_id": "1423102289347219458",
+          "name": "bobby",
+          "user_name": "bobby17799404",
+          "user_description": "Just a Tru Dude, not much else! Have fun, hang out with my wife, we have an incredible time together. Enjoy my kids! #Theguythatwantstobeleftalone",
+          "created_at": "Thu Aug 05 02:04:01 +0000 2021",
+          "user_url": "https://x.com/bobby17799404",
+          "followers_count": 340,
+          "following_count": 666,
+          "previous_post_count": 2946,
+          "location": ""
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887538528961049034",
+          "content": "@elonmusk \ud83d\udd25Our Elites &amp; Deep State are either corrupt financially or ideologically. They push far Left Policy against the interests &amp; desires of Ordinary Americans. These people need to be removed from Govt &amp; Prosecuted to the full extent of the law ! \ud83d\udd25\n\ud83d\udca5TRUMP &amp; DOGE will stop the https://t.co/rJP4AOTd2b",
+          "post_time": "Thu Feb 06 16:27:08 +0000 2025",
+          "user_id": "1588609928154972167",
+          "post_url": "https://x.com/PeriklesGREAT/status/1887538528961049034",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 539,
+          "bookmark_count": 17,
+          "reply_count": 32,
+          "quote_count": 6,
+          "retweet_count": 208,
+          "rec_count": "35215"
+        },
+        "user": {
+          "user_id": "1588609928154972167",
+          "name": "\ud83c\udfdb \ud83c\udf39PeriklestheGREAT \ud83c\udf39 \ud83c\udfdb \"Vox Populi, Vox Dei\"",
+          "user_name": "PeriklesGREAT",
+          "user_description": "\ud83c\uddfa\ud83c\uddf8 Freedom, Patriotism, & Honor \ud83c\uddfa\ud83c\uddf8 \n\ud83c\udf4a SUPERnova MAGA \ud83c\udf4a\n\ud83d\udca5 Protect Western Civilization & God's Light in the World \ud83d\udca5 \n\u2626\ufe0f Do Unto Others  \u2626\ufe0f",
+          "created_at": "Fri Nov 04 19:12:03 +0000 2022",
+          "user_url": "https://x.com/PeriklesGREAT",
+          "followers_count": 201915,
+          "following_count": 159227,
+          "previous_post_count": 373710,
+          "location": "search my postings "
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887536048256725118",
+          "content": "@elonmusk This has to stop!  Why would taxpayers continue to pay taxes if this keeps up?",
+          "post_time": "Thu Feb 06 16:17:17 +0000 2025",
+          "user_id": "1355721251180961792",
+          "post_url": "https://x.com/GuntherEagleman/status/1887536048256725118",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 2582,
+          "bookmark_count": 14,
+          "reply_count": 148,
+          "quote_count": 7,
+          "retweet_count": 224,
+          "rec_count": "61247"
+        },
+        "user": {
+          "user_id": "1355721251180961792",
+          "name": "Gunther Eagleman\u2122",
+          "user_name": "GuntherEagleman",
+          "user_description": "David J. Freeman - Political Commentator - America First - MAGA - Trump 2028 - Unfiltered",
+          "created_at": "Sun Jan 31 03:35:19 +0000 2021",
+          "user_url": "https://x.com/GuntherEagleman",
+          "followers_count": 1276425,
+          "following_count": 100376,
+          "previous_post_count": 229215,
+          "location": "Hill Country, Texas "
+        },
+        "source_tweet": null
+      }
+    ],
+    [
+      {
+        "tweet": {
+          "post_id": "1887542452283748825",
+          "content": "@elonmusk https://t.co/oG69MkOsZg",
+          "post_time": "Thu Feb 06 16:42:44 +0000 2025",
+          "user_id": "1697203156122308608",
+          "post_url": "https://x.com/Primrose771646/status/1887542452283748825",
+          "is_quote": false,
+          "is_retweet": false,
+          "source_id": null,
+          "like_count": 1231,
+          "bookmark_count": 15,
+          "reply_count": 27,
+          "quote_count": 3,
+          "retweet_count": 199,
+          "rec_count": "30863"
+        },
+        "user": {
+          "user_id": "1697203156122308608",
+          "name": "Primrose",
+          "user_name": "Primrose771646",
+          "user_description": "Gods Girl \u271d\ufe0f Roman Catholic \u271d\ufe0f Train Conductor / I help small accounts grow \u271d\ufe0f Shout Outs For Small Accounts \ud83d\ude82NO DMS OR BLOCKED",
+          "created_at": "Thu Aug 31 11:02:32 +0000 2023",
+          "user_url": "https://x.com/Primrose771646",
+          "followers_count": 51084,
+          "following_count": 46000,
+          "previous_post_count": 264419,
+          "location": ""
+        },
+        "source_tweet": null
+      }
+    ]
+  ]
 }
