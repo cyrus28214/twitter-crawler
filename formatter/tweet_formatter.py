@@ -36,7 +36,7 @@ def tweet_formatter(data: dict) -> dict:
         if source_tweet is not None :
             
             if source_tweet["tweet"] is not None and "post_id" in source_tweet["tweet"]:
-                print(source_tweet)
+                
                 source_id = source_tweet["tweet"]["post_id"]
             else:
                 print(source_tweet)
