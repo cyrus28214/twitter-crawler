@@ -119,12 +119,12 @@ def get_tweet_quotes(session: requests.Session, tweet_id: str) -> list:
                 break
 
         print(f"累计 {len(all_quotes)} 条")
-        all_quotes.append(response.json())    
+        
         # 终止条件
         if not next_cursor or next_cursor == cursor:
             print("分页结束")
             break
-        
+        all_quotes.append(response.json())    
         cursor = next_cursor
         print(f"下一页游标: {cursor}")
     return all_quotes

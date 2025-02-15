@@ -15,7 +15,8 @@ def tweet_formatter(data: dict) -> dict:
     if data["__typename"] == "TweetWithVisibilityResults":
         data = data["tweet"]
     else:
-        assert data["__typename"] == "Tweet"
+        if data["__typename"] != "Tweet":
+            return None
     user = user_formatter(data["core"]["user_results"]["result"])
     post_url = f"https://x.com/{user['user_name']}/status/{data['rest_id']}"
     
@@ -23,11 +24,19 @@ def tweet_formatter(data: dict) -> dict:
     is_retweet = "retweeted_status_result" in data["legacy"]
     
     if is_quote:
-        source_tweet = tweet_formatter(data["quoted_status_result"]["result"])
-        source_id = source_tweet["tweet"]["post_id"]
+        if data["quoted_status_result"]:
+            source_tweet = tweet_formatter(data["quoted_status_result"]["result"])
+            source_id = source_tweet["tweet"]["post_id"]
+        else:   
+            source_tweet = None
+            source_id = None
     elif is_retweet:
         source_tweet = tweet_formatter(data["legacy"]["retweeted_status_result"]["result"])
-        source_id = source_tweet["tweet"]["post_id"]
+        if source_tweet:
+            source_id = source_tweet["tweet"]["post_id"]
+        else:
+            source_id = None
+            
     else:
         source_tweet = None
         source_id = None
@@ -46,9 +55,11 @@ def tweet_formatter(data: dict) -> dict:
         "reply_count": data["legacy"]["reply_count"],
         "quote_count": data["legacy"]["quote_count"],
         "retweet_count": data["legacy"]["retweet_count"],
+        #"rec_count": data["views"]["count"],
     }
     return {
         "tweet": tweet,
         "user": user,
         "source_tweet": source_tweet
     }
+
