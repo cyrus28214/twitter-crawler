@@ -5,11 +5,11 @@ To install dependencies:
 ```bash
 pip install requests
 ```
-##Data
+## Data
 
 data文件夹下有制作的小数据集twitter15，16
 其中twitter16/tree为完整数据集
-##Code
+## Code
 To run:
 
 Update the file `config.json` and add your headers to it:
@@ -34,7 +34,7 @@ Then run the script:
 ```bash
 python get_users_tweet_detail.py
 ```
-##Result
+## Result
 
 运行结果存储在result文件夹
 每个推文及其用户相关信息存储在以推文ID命名的文件夹下
@@ -62,7 +62,7 @@ User:
 - `followers_count`
 - `friends_count`: The number of followings.
 - `created_at`
-##TODO
+## TODO
 
 还有一些功能未实现：
 
