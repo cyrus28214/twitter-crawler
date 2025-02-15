@@ -12,7 +12,7 @@ data文件夹下有制作的小数据集twitter15，16
 ## Code
 To run:
 
-Update the file `config.json` and add your headers to it:
+Create a new file `config.json` and add your headers to it:
 
 ```json
 {
@@ -21,7 +21,7 @@ Update the file `config.json` and add your headers to it:
         "authorization": "Bearer ******",
         "Cookie": "auth_token=******; ct0=******;",
         "x-csrf-token": "******",
-	    "Cache-Control": "no-cache",
+	"Cache-Control": "no-cache",
         "Pragma": "no-cache"
     }
 }
@@ -29,15 +29,16 @@ Update the file `config.json` and add your headers to it:
 
 You can get them from your browser after your login x.com.
 
+Create a new folder `result`
+
+运行结果将存储在该文件夹下
+
 Then run the script:
 
 ```bash
 python get_users_tweet_detail.py
 ```
-## Result
 
-运行结果存储在result文件夹
-每个推文及其用户相关信息存储在以推文ID命名的文件夹下
 
 ## important fields
 
