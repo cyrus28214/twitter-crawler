@@ -21,7 +21,7 @@ Update the file `config.json` and add your headers to it:
         "authorization": "Bearer ******",
         "Cookie": "auth_token=******; ct0=******;",
         "x-csrf-token": "******",
-		"Cache-Control": "no-cache",
+	    "Cache-Control": "no-cache",
         "Pragma": "no-cache"
     }
 }
