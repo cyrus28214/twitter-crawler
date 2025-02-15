@@ -46,7 +46,6 @@ def tweet_formatter(data: dict) -> dict:
         "reply_count": data["legacy"]["reply_count"],
         "quote_count": data["legacy"]["quote_count"],
         "retweet_count": data["legacy"]["retweet_count"],
-        "rec_count": data["views"]["count"],
     }
     return {
         "tweet": tweet,
