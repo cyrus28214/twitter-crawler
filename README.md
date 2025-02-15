@@ -9,7 +9,9 @@ pip install requests
 
 data文件夹下有制作的小数据集twitter15，16
 其中twitter16/tree为完整数据集
+
 ## Code
+
 To run:
 
 Create a new file `config.json` and add your headers to it:
@@ -63,11 +65,12 @@ User:
 - `followers_count`
 - `friends_count`: The number of followings.
 - `created_at`
+
 ## TODO
 
 还有一些功能未实现：
 
 - 获取某个用户的所有推文（分页）
-- 获取某个推文的所有推文
+- 获取某个推文的所有评论
 - 获取用户某段时间内的推文
 - 用户id为151945897调用get_user_tweet.py时，tweet_fomatter有问题
