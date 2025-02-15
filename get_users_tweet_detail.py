@@ -60,7 +60,7 @@ def extract_first_items_from_file(file_path):
     return user_id
 
 
-file_name = "500378223977721856"
+file_name = "524923676484177920"
 file_dir = f"data/twitter16/{file_name}.txt"
 user_ids = extract_first_items_from_file(file_dir)
 

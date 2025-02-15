@@ -32,9 +32,17 @@ def tweet_formatter(data: dict) -> dict:
             source_id = None
     elif is_retweet:
         source_tweet = tweet_formatter(data["legacy"]["retweeted_status_result"]["result"])
-        if source_tweet:
-            source_id = source_tweet["tweet"]["post_id"]
+        
+        if source_tweet is not None :
+            
+            if source_tweet["tweet"] is not None and "post_id" in source_tweet["tweet"]:
+                print(source_tweet)
+                source_id = source_tweet["tweet"]["post_id"]
+            else:
+                print(source_tweet)
+                source_id = None
         else:
+            print(source_tweet)
             source_id = None
             
     else:
