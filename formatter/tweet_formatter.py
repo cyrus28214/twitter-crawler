@@ -39,10 +39,10 @@ def tweet_formatter(data: dict) -> dict:
                 
                 source_id = source_tweet["tweet"]["post_id"]
             else:
-                print(source_tweet)
+                #print(source_tweet)
                 source_id = None
         else:
-            print(source_tweet)
+            #print(source_tweet)
             source_id = None
             
     else:
