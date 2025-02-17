@@ -150,9 +150,9 @@ def main():
         res = get_user_tweets(s, fields)
         with open(f"{folder_path}/user{fields}_tweets_raw.json", "w") as f:
             json.dump(res, f, indent=2)
-        if "errors" in res:
-            print("this user could not authenticate you")
-            continue
+        # if "errors" in res:
+        #     print("this user could not authenticate you")
+        #     continue
         if not res["data"]["user"] or res["data"]["user"]["result"]["__typename"] == "UserUnavailable":
             print("用户为空或用户不可得")
             continue
