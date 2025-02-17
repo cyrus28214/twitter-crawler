@@ -1,4 +1,6 @@
 def user_formatter(data: dict) -> dict:
+    if "rest_id" not in data:
+        return None
     res = {
         "user_id": data["rest_id"],
         "name": data["legacy"]["name"],
