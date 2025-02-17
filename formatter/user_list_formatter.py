@@ -9,5 +9,7 @@ def user_list_formatter(data: dict) -> list:
         user = user["content"]["itemContent"]["user_results"].get("result")
         if not user:
             continue
-        res.append(user_formatter(user))
+        formatter_user=user_formatter(user)
+        if formatter_user:
+            res.append(formatter_user)
     return res
