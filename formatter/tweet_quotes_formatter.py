@@ -2,17 +2,18 @@ from .tweet_formatter import tweet_formatter
 
 
 def tweet_quotes_formatter(data: dict) -> dict:
-    data = data["data"]["search_by_raw_query"]["search_timeline"]["timeline"]["instructions"]
-    for instruction in data:
+    entries = []
+    instructions = data["data"]["search_by_raw_query"]["search_timeline"]["timeline"]["instructions"]
+    for instruction in instructions:
         if instruction["type"] == "TimelineAddEntries":
-            data = instruction["entries"]
+            entries = instruction["entries"]
             break
     res = []
-    for x in data:
-        if x["content"]["entryType"] != "TimelineTimelineItem":
+    for entry in entries:
+        if entry["content"]["entryType"] != "TimelineTimelineItem":
             continue
-        x = x["content"]["itemContent"]["tweet_results"]["result"]
-        x = tweet_formatter(x)
-        res.append(x)
+        tweet = entry["content"]["itemContent"]["tweet_results"]["result"]
+        tweet = tweet_formatter(tweet)
+        res.append(tweet)
     return res
 

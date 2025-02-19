@@ -1,0 +1,422 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline_v2": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelinePinEntry",
+                "entry": {
+                  "entryId": "tweet-1411849160442007553",
+                  "sortIndex": "1892137283218309105",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1411849160442007553",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMTc2NDA3MzY3ODMyOTE1OTY4",
+                                "rest_id": "1176407367832915968",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "parody_commentary_fan_label": "None",
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "following": false,
+                                  "can_dm": false,
+                                  "can_media_tag": true,
+                                  "created_at": "Tue Sep 24 08:05:56 +0000 2019",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "IDG founded in 2015 is a vi\u00adsu\u00adal\u00adiza\u00adtion group in CAD & CG State Key Lab, Zhe\u00adjiang Uni\u00adver\u00adsity, P.R. China.",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    },
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "zjuidg.org",
+                                          "expanded_url": "https://zjuidg.org/",
+                                          "url": "https://t.co/MUlbpWLoI5",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 26,
+                                  "followers_count": 53,
+                                  "friends_count": 40,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 1,
+                                  "location": " Zhe\u00adjiang Uni\u00adver\u00adsity, P.R. ",
+                                  "media_count": 8,
+                                  "name": "ZJUIDG",
+                                  "normal_followers_count": 53,
+                                  "pinned_tweet_ids_str": [
+                                    "1411849160442007553"
+                                  ],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176407367832915968/1623723091",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318056899032489984/eEg9z2qf_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "zjuidg",
+                                  "statuses_count": 17,
+                                  "translator_type": "none",
+                                  "url": "https://t.co/MUlbpWLoI5",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": [
+                              "1411849160442007553"
+                            ],
+                            "editable_until_msecs": "1625447845395",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "state": "Enabled"
+                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Mon Jul 05 00:47:25 +0000 2021",
+                            "conversation_id_str": "1411849160442007553",
+                            "display_text_range": [
+                              0,
+                              272
+                            ],
+                            "entities": {
+                              "hashtags": [],
+                              "media": [
+                                {
+                                  "display_url": "pic.x.com/y1lw39PasE",
+                                  "expanded_url": "https://x.com/zjuidg/status/1411849160442007553/photo/1",
+                                  "id_str": "1411849151931813892",
+                                  "indices": [
+                                    273,
+                                    296
+                                  ],
+                                  "media_key": "3_1411849151931813892",
+                                  "media_url_https": "https://pbs.twimg.com/media/E5flUslVEAQ7e3i.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/y1lw39PasE",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": []
+                                    },
+                                    "medium": {
+                                      "faces": []
+                                    },
+                                    "small": {
+                                      "faces": []
+                                    },
+                                    "orig": {
+                                      "faces": []
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 803,
+                                      "w": 1166,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 803,
+                                      "w": 1166,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 468,
+                                      "w": 680,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 803,
+                                    "width": 1166,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 150,
+                                        "w": 1166,
+                                        "h": 653
+                                      },
+                                      {
+                                        "x": 36,
+                                        "y": 0,
+                                        "w": 803,
+                                        "h": 803
+                                      },
+                                      {
+                                        "x": 85,
+                                        "y": 0,
+                                        "w": 704,
+                                        "h": 803
+                                      },
+                                      {
+                                        "x": 236,
+                                        "y": 0,
+                                        "w": 402,
+                                        "h": 803
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1166,
+                                        "h": 803
+                                      }
+                                    ]
+                                  },
+                                  "media_results": {
+                                    "result": {
+                                      "media_key": "3_1411849151931813892"
+                                    }
+                                  }
+                                }
+                              ],
+                              "symbols": [],
+                              "timestamps": [],
+                              "urls": [
+                                {
+                                  "display_url": "zjuidg.org/publications/N\u2026",
+                                  "expanded_url": "https://zjuidg.org/publications/Nebula",
+                                  "url": "https://t.co/cTRoBsa3Jn",
+                                  "indices": [
+                                    175,
+                                    198
+                                  ]
+                                },
+                                {
+                                  "display_url": "nebula-vis.github.io/examples",
+                                  "expanded_url": "https://nebula-vis.github.io/examples",
+                                  "url": "https://t.co/mXcRuKQK24",
+                                  "indices": [
+                                    234,
+                                    257
+                                  ]
+                                }
+                              ],
+                              "user_mentions": [
+                                {
+                                  "id_str": "981786802666328064",
+                                  "name": "IEEE TVCG",
+                                  "screen_name": "ieee_tvcg",
+                                  "indices": [
+                                    0,
+                                    10
+                                  ]
+                                },
+                                {
+                                  "id_str": "1324409443807711234",
+                                  "name": "Ran Chen",
+                                  "screen_name": "crcrcry2",
+                                  "indices": [
+                                    142,
+                                    151
+                                  ]
+                                }
+                              ]
+                            },
+                            "extended_entities": {
+                              "media": [
+                                {
+                                  "display_url": "pic.x.com/y1lw39PasE",
+                                  "expanded_url": "https://x.com/zjuidg/status/1411849160442007553/photo/1",
+                                  "id_str": "1411849151931813892",
+                                  "indices": [
+                                    273,
+                                    296
+                                  ],
+                                  "media_key": "3_1411849151931813892",
+                                  "media_url_https": "https://pbs.twimg.com/media/E5flUslVEAQ7e3i.jpg",
+                                  "type": "photo",
+                                  "url": "https://t.co/y1lw39PasE",
+                                  "ext_media_availability": {
+                                    "status": "Available"
+                                  },
+                                  "features": {
+                                    "large": {
+                                      "faces": []
+                                    },
+                                    "medium": {
+                                      "faces": []
+                                    },
+                                    "small": {
+                                      "faces": []
+                                    },
+                                    "orig": {
+                                      "faces": []
+                                    }
+                                  },
+                                  "sizes": {
+                                    "large": {
+                                      "h": 803,
+                                      "w": 1166,
+                                      "resize": "fit"
+                                    },
+                                    "medium": {
+                                      "h": 803,
+                                      "w": 1166,
+                                      "resize": "fit"
+                                    },
+                                    "small": {
+                                      "h": 468,
+                                      "w": 680,
+                                      "resize": "fit"
+                                    },
+                                    "thumb": {
+                                      "h": 150,
+                                      "w": 150,
+                                      "resize": "crop"
+                                    }
+                                  },
+                                  "original_info": {
+                                    "height": 803,
+                                    "width": 1166,
+                                    "focus_rects": [
+                                      {
+                                        "x": 0,
+                                        "y": 150,
+                                        "w": 1166,
+                                        "h": 653
+                                      },
+                                      {
+                                        "x": 36,
+                                        "y": 0,
+                                        "w": 803,
+                                        "h": 803
+                                      },
+                                      {
+                                        "x": 85,
+                                        "y": 0,
+                                        "w": 704,
+                                        "h": 803
+                                      },
+                                      {
+                                        "x": 236,
+                                        "y": 0,
+                                        "w": 402,
+                                        "h": 803
+                                      },
+                                      {
+                                        "x": 0,
+                                        "y": 0,
+                                        "w": 1166,
+                                        "h": 803
+                                      }
+                                    ]
+                                  },
+                                  "media_results": {
+                                    "result": {
+                                      "media_key": "3_1411849151931813892"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            "favorite_count": 5,
+                            "favorited": false,
+                            "full_text": "@ieee_tvcg Want to construct multiple-view visualization?  Nebula allows users to use several natural language sentences to coordinate views. @crcrcry2 Check out the paper at https://t.co/cTRoBsa3Jn. You can also visit our gallery at https://t.co/mXcRuKQK24 to learn more. https://t.co/y1lw39PasE",
+                            "in_reply_to_screen_name": "ieee_tvcg",
+                            "in_reply_to_user_id_str": "981786802666328064",
+                            "is_quote_status": false,
+                            "lang": "en",
+                            "possibly_sensitive": false,
+                            "possibly_sensitive_editable": true,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 5,
+                            "retweeted": false,
+                            "user_id_str": "1176407367832915968",
+                            "id_str": "1411849160442007553"
+                          },
+                          "quick_promote_eligibility": {
+                            "eligibility": "IneligibleNotProfessional"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet",
+                      "socialContext": {
+                        "type": "TimelineGeneralContext",
+                        "contextType": "Pin",
+                        "text": "Pinned"
+                      }
+                    },
+                    "clientEventInfo": {
+                      "component": "pinned_tweets",
+                      "element": "tweet"
+                    }
+                  }
+                }
+              },
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "cursor-top-1892137283218309106",
+                    "sortIndex": "1892137283218309106",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "DAABCgABGkI41YiAJwIKAAIQbXzqTpbABAgAAwAAAAEAAA",
+                      "cursorType": "Top"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1892137283218309104",
+                    "sortIndex": "1892137283218309104",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "DAABCgABGkI41Yh__-4KAAIQbXzqTpbABAgAAwAAAAIAAA",
+                      "cursorType": "Bottom"
+                    }
+                  }
+                ]
+              }
+            ],
+            "metadata": {
+              "scribeConfig": {
+                "page": "profileBest"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

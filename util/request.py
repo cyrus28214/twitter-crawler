@@ -9,21 +9,24 @@ def request(session: requests.Session, *args, **kwargs) -> dict:
         remaining = response.headers.get('x-rate-limit-remaining')
         reset_timestamp = response.headers.get('x-rate-limit-reset')
 
-        if remaining == None or reset_timestamp == None:
+        if remaining is None or reset_timestamp is None:
             raise Exception("Rate limit not found")
+        
+        remaining = int(remaining)
+        reset_timestamp = int(reset_timestamp)
 
+        url_no_params = args[0].split('?')[0]
+        print(f"URL: {url_no_params}")
         print(f"Status code: {response.status_code}")
         print(f"Remaining requests for this API endpoint: {remaining}")
-        print(f"Reset timestamp: {datetime.fromtimestamp(int(reset_timestamp))}")
+        print(f"Reset timestamp: {datetime.fromtimestamp(reset_timestamp)}")
+        print()
 
         if response.status_code == 429:
-            wait_seconds = reset_timestamp - int(time.time())
-            print(f"Rate limit exceeded. Waiting for {wait_seconds} seconds.")
+            wait_seconds = max(reset_timestamp - time.time(), 10)
+            print(f"Rate limit exceeded. Waiting for {wait_seconds:.1f} seconds.")
             time.sleep(wait_seconds)
             continue
-        
-        if response.status_code == 401:
-            raise Exception("Too many requests, IP is blocked")
         
         # if it is not json, throw an error
         try:

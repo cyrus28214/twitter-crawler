@@ -1,0 +1,2309 @@
+{
+  "data": {
+    "threaded_conversation_with_injections_v2": {
+      "instructions": [
+        {
+          "type": "TimelineAddEntries",
+          "entries": [
+            {
+              "entryId": "tweet-1890673021376950749",
+              "sortIndex": "7332699015477825058",
+              "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                  "itemType": "TimelineTweet",
+                  "__typename": "TimelineTweet",
+                  "tweet_results": {
+                    "result": {
+                      "__typename": "Tweet",
+                      "rest_id": "1890673021376950749",
+                      "has_birdwatch_notes": false,
+                      "core": {
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzA3NDU1ODk=",
+                            "rest_id": "130745589",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": true,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Thu Apr 08 05:16:30 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "svl.stanford.edu",
+                                      "expanded_url": "http://svl.stanford.edu",
+                                      "url": "https://t.co/x7co90bT1c",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 6721,
+                              "followers_count": 497881,
+                              "friends_count": 1133,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 7241,
+                              "location": "Stanford, CA, U.S.A.",
+                              "media_count": 263,
+                              "name": "Fei-Fei Li",
+                              "normal_followers_count": 497881,
+                              "pinned_tweet_ids_str": [
+                                "1721916013732876415"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/130745589/1691282908",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "drfeifei",
+                              "statuses_count": 2703,
+                              "translator_type": "none",
+                              "url": "https://t.co/x7co90bT1c",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        }
+                      },
+                      "card": {
+                        "rest_id": "https://t.co/tlrIL1Jp4N",
+                        "legacy": {
+                          "binding_values": [
+                            {
+                              "key": "thumbnail_image",
+                              "value": {
+                                "image_value": {
+                                  "height": 144,
+                                  "width": 144,
+                                  "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=144x144_2"
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "description",
+                              "value": {
+                                "string_value": "Former Provost John Etchemendy, in a recent speech before the Stanford Board of Trustees, outlined challenges higher education is facing in the coming years. Following is an excerpt from that talk.",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "domain",
+                              "value": {
+                                "string_value": "news.stanford.edu",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "thumbnail_image_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 420,
+                                  "width": 420,
+                                  "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=420x420_2"
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "thumbnail_image_original",
+                              "value": {
+                                "image_value": {
+                                  "height": 800,
+                                  "width": 1200,
+                                  "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=orig"
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "thumbnail_image_small",
+                              "value": {
+                                "image_value": {
+                                  "height": 100,
+                                  "width": 100,
+                                  "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=100x100_2"
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "thumbnail_image_x_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 800,
+                                  "width": 1200,
+                                  "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=png&name=2048x2048_2_exp"
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "vanity_url",
+                              "value": {
+                                "scribe_key": "vanity_url",
+                                "string_value": "news.stanford.edu",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "thumbnail_image_color",
+                              "value": {
+                                "image_color_value": {
+                                  "palette": [
+                                    {
+                                      "rgb": {
+                                        "blue": 140,
+                                        "green": 161,
+                                        "red": 206
+                                      },
+                                      "percentage": 31.86
+                                    },
+                                    {
+                                      "rgb": {
+                                        "blue": 42,
+                                        "green": 52,
+                                        "red": 51
+                                      },
+                                      "percentage": 20.08
+                                    },
+                                    {
+                                      "rgb": {
+                                        "blue": 42,
+                                        "green": 71,
+                                        "red": 114
+                                      },
+                                      "percentage": 12.74
+                                    },
+                                    {
+                                      "rgb": {
+                                        "blue": 111,
+                                        "green": 178,
+                                        "red": 255
+                                      },
+                                      "percentage": 9.43
+                                    },
+                                    {
+                                      "rgb": {
+                                        "blue": 35,
+                                        "green": 154,
+                                        "red": 255
+                                      },
+                                      "percentage": 9.41
+                                    }
+                                  ]
+                                },
+                                "type": "IMAGE_COLOR"
+                              }
+                            },
+                            {
+                              "key": "title",
+                              "value": {
+                                "string_value": "John Etchemendy: \u2018The threat from within\u2019",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "card_url",
+                              "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/tlrIL1Jp4N",
+                                "type": "STRING"
+                              }
+                            }
+                          ],
+                          "card_platform": {
+                            "platform": {
+                              "audience": {
+                                "name": "production"
+                              },
+                              "device": {
+                                "name": "Swift",
+                                "version": "12"
+                              }
+                            }
+                          },
+                          "name": "summary",
+                          "url": "https://t.co/tlrIL1Jp4N",
+                          "user_refs_results": []
+                        }
+                      },
+                      "unmention_data": {},
+                      "edit_control": {
+                        "edit_tweet_ids": [
+                          "1890673021376950749"
+                        ],
+                        "editable_until_msecs": "1739610149000",
+                        "is_edit_eligible": true,
+                        "edits_remaining": "5"
+                      },
+                      "is_translatable": false,
+                      "views": {
+                        "count": "55273",
+                        "state": "EnabledWithCount"
+                      },
+                      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                      "legacy": {
+                        "bookmark_count": 121,
+                        "bookmarked": false,
+                        "created_at": "Sat Feb 15 08:02:29 +0000 2025",
+                        "conversation_id_str": "1890673021376950749",
+                        "display_text_range": [
+                          0,
+                          229
+                        ],
+                        "entities": {
+                          "hashtags": [],
+                          "symbols": [],
+                          "timestamps": [],
+                          "urls": [
+                            {
+                              "display_url": "news.stanford.edu/stories/2017/0\u2026",
+                              "expanded_url": "https://news.stanford.edu/stories/2017/02/the-threat-from-within",
+                              "url": "https://t.co/tlrIL1Jp4N",
+                              "indices": [
+                                206,
+                                229
+                              ]
+                            }
+                          ],
+                          "user_mentions": [
+                            {
+                              "id_str": "18036441",
+                              "name": "Stanford University",
+                              "screen_name": "Stanford",
+                              "indices": [
+                                95,
+                                104
+                              ]
+                            },
+                            {
+                              "id_str": "1067218780806307841",
+                              "name": "Stanford HAI",
+                              "screen_name": "StanfordHAI",
+                              "indices": [
+                                121,
+                                133
+                              ]
+                            }
+                          ]
+                        },
+                        "favorite_count": 273,
+                        "favorited": false,
+                        "full_text": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
+                        "is_quote_status": false,
+                        "lang": "en",
+                        "possibly_sensitive": false,
+                        "possibly_sensitive_editable": true,
+                        "quote_count": 9,
+                        "reply_count": 13,
+                        "retweet_count": 55,
+                        "retweeted": false,
+                        "user_id_str": "130745589",
+                        "id_str": "1890673021376950749"
+                      },
+                      "quick_promote_eligibility": {
+                        "eligibility": "IneligibleNotProfessional"
+                      }
+                    }
+                  },
+                  "tweetDisplayType": "Tweet",
+                  "hasModeratedReplies": false
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890676898088497252",
+              "sortIndex": "7332699015477825048",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890676898088497252-tweet-1890676898088497252",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890676898088497252",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo5MzY3MTc4MTA4NzY1NjM0NTY=",
+                                  "rest_id": "936717810876563456",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": true,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Fri Dec 01 22:05:04 +0000 2017",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Data Scientist @nasaames for the Bay Area Environmental Research Institute | Physics PhD @ucirvine | YouTube Partner | \ud83c\uddf5\ud83c\udded \ud83c\uddfa\ud83c\uddf8 | LLM Torturer | @AmericanMensa",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "kylekabasares.com",
+                                            "expanded_url": "http://www.kylekabasares.com",
+                                            "url": "https://t.co/fA2Ak3EReN",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 24584,
+                                    "followers_count": 3281,
+                                    "friends_count": 1598,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 39,
+                                    "location": "Mountain View, CA",
+                                    "media_count": 1066,
+                                    "name": "Kyle Kabasares",
+                                    "normal_followers_count": 3281,
+                                    "pinned_tweet_ids_str": [
+                                      "1717933472239812631"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/936717810876563456/1653715975",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1885956090879156224/3aqhlzft_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "kylekabasares",
+                                    "statuses_count": 7405,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/fA2Ak3EReN",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "professional": {
+                                    "rest_id": "1466615295372455937",
+                                    "professional_type": "Creator",
+                                    "category": [
+                                      {
+                                        "id": 713,
+                                        "name": "Science & Technology",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {
+                                    "is_enabled": true,
+                                    "venmo_handle": "Kyle-Kabasares"
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890676898088497252"
+                              ],
+                              "editable_until_msecs": "1739611074000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "2946",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                            "note_tweet": {
+                              "is_expandable": true,
+                              "note_tweet_results": {
+                                "result": {
+                                  "id": "Tm90ZVR3ZWV0OjE4OTA2NzY4OTgwMjE0ODY1OTI=",
+                                  "text": "Very prescient indeed. I think that the future of American science is at stake given the recent string of executive orders. I hope that certain people, if they haven\u2019t learned already, figure out that America\u2019s dominance in the sciences comes in large part from the money coming in through federal research grants.",
+                                  "entity_set": {
+                                    "hashtags": [],
+                                    "symbols": [],
+                                    "urls": [],
+                                    "user_mentions": []
+                                  }
+                                }
+                              }
+                            },
+                            "legacy": {
+                              "bookmark_count": 1,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 08:17:54 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                311
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI Very prescient indeed. I think that the future of American science is at stake given the recent string of executive orders. I hope that certain people, if they haven\u2019t learned already, figure out that America\u2019s dominance in the sciences comes in large part from the money coming",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "936717810876563456",
+                              "id_str": "1890676898088497252"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAaCGAHgBUKAAIAAAAAFACQCAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1891150169191649705",
+              "sortIndex": "7332699015477825038",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1891150169191649705-tweet-1891150169191649705",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1891150169191649705",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMzM1NDAyOTcyOTQ4MjYyOTEz",
+                                  "rest_id": "1335402972948262913",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": true,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": true,
+                                    "created_at": "Sun Dec 06 01:57:54 +0000 2020",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Clinical psychologist, AI artist, and researcher forging new realms in spiritual futurism, mythology, and transhuman identity. @kaios9x digital alchemist \ud83c\udf38",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "linktr.ee/faedriel",
+                                            "expanded_url": "https://linktr.ee/faedriel",
+                                            "url": "https://t.co/bHypi3oI3X",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 32232,
+                                    "followers_count": 2393,
+                                    "friends_count": 1089,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 36,
+                                    "location": "Boulder, CO",
+                                    "media_count": 819,
+                                    "name": "Faedriel",
+                                    "normal_followers_count": 2393,
+                                    "pinned_tweet_ids_str": [
+                                      "1872423323801698597"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1335402972948262913/1687279484",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880403715837800448/PMotQGXU_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "Faedriel",
+                                    "statuses_count": 6519,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/bHypi3oI3X",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "professional": {
+                                    "rest_id": "1488645122644271109",
+                                    "professional_type": "Creator",
+                                    "category": [
+                                      {
+                                        "id": 1017,
+                                        "name": "Artist",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1891150169191649705"
+                              ],
+                              "editable_until_msecs": "1739723910000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "565",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Feb 16 15:38:30 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                37
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI wow\ud83e\udd0d",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "und",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1335402972948262913",
+                              "id_str": "1891150169191649705"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRACiKIDgAUKAAIAAAAAFADACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890675037566353647",
+              "sortIndex": "7332699015477825028",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890675037566353647-tweet-1890675037566353647",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890675037566353647",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMTIxMzY3NzM1NzMxMjAwMDAw",
+                                  "rest_id": "1121367735731200000",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": true,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": true,
+                                    "created_at": "Thu Apr 25 10:57:56 +0000 2019",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Unlocking the power of data, one insight at a time. \ud83d\ude80 | Your guide to mastering Data Science | Tips, tricks & truths from the data trenches | Join now! #Data",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "DataScience.Show",
+                                            "expanded_url": "https://DataScience.Show",
+                                            "url": "https://t.co/TRobCFuziZ",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 19557,
+                                    "followers_count": 6587,
+                                    "friends_count": 14,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 23,
+                                    "location": "Stuttgart",
+                                    "media_count": 1224,
+                                    "name": "Data & Analytics",
+                                    "normal_followers_count": 6587,
+                                    "pinned_tweet_ids_str": [
+                                      "1890927912066457960"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121367735731200000/1718300049",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1801306933158117376/97s2jHRz_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "howdataworks",
+                                    "statuses_count": 15189,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/TRobCFuziZ",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "professional": {
+                                    "rest_id": "1485365457691586565",
+                                    "professional_type": "Creator",
+                                    "category": [
+                                      {
+                                        "id": 144,
+                                        "name": "Education",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {
+                                    "is_enabled": true
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890675037566353647"
+                              ],
+                              "editable_until_msecs": "1739610630000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "1231",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 08:10:30 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                243
+                              ],
+                              "entities": {
+                                "hashtags": [
+                                  {
+                                    "indices": [
+                                      225,
+                                      243
+                                    ],
+                                    "text": "ThoughtLeadership"
+                                  }
+                                ],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      33,
+                                      42
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 3,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI @drfeifei, profound insights from leaders like Prof. Etchemendy remind us that thoughtful guidance is crucial in education today. How can we integrate these perspectives into our practices? \ud83e\udd14 #ThoughtLeadership",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1121367735731200000",
+                              "id_str": "1890675037566353647"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAKiSQDgAUKAAIAAAAAFADACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890689655601090959",
+              "sortIndex": "7332699015477825018",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890689655601090959-tweet-1890689655601090959",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890689655601090959",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo4OTI5Mzg0NzU0MzA3ODkxMjQ=",
+                                  "rest_id": "892938475430789124",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": true,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": false,
+                                    "created_at": "Thu Aug 03 02:41:37 +0000 2017",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 9051,
+                                    "followers_count": 88,
+                                    "friends_count": 59,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 4,
+                                    "location": "",
+                                    "media_count": 202,
+                                    "name": "Tyler",
+                                    "normal_followers_count": 88,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/896328723783327745/2e1NonSf_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "Tylercasperr",
+                                    "statuses_count": 4118,
+                                    "translator_type": "none",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890689655601090959"
+                              ],
+                              "editable_until_msecs": "1739614115000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "1842",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "note_tweet": {
+                              "is_expandable": false,
+                              "note_tweet_results": {
+                                "result": {
+                                  "id": "Tm90ZVR3ZWV0OjE4OTA2ODk2NTU1NTA3MjYxNDQ=",
+                                  "text": "Wow, that's incredible. I had to remind myself that was written eight years ago.",
+                                  "entity_set": {
+                                    "hashtags": [],
+                                    "symbols": [],
+                                    "urls": [],
+                                    "user_mentions": []
+                                  },
+                                  "richtext": {
+                                    "richtext_tags": [
+                                      {
+                                        "from_index": 64,
+                                        "to_index": 80,
+                                        "richtext_types": [
+                                          "Italic"
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  "media": {
+                                    "inline_media": []
+                                  }
+                                }
+                              }
+                            },
+                            "legacy": {
+                              "bookmark_count": 1,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 09:08:35 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                113
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 3,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI Wow, that's incredible. I had to remind myself that was written eight years ago.",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "892938475430789124",
+                              "id_str": "1890689655601090959"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAKiigDgAUKAAIAAAAAFACECAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890717024311009450",
+              "sortIndex": "7332699015477825008",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890717024311009450-tweet-1890717024311009450",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890717024311009450",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNTcwNzA4MzcwODUxNzk0OTUx",
+                                  "rest_id": "1570708370851794951",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": true,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": false,
+                                    "created_at": "Fri Sep 16 09:37:24 +0000 2022",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "AI Educator | Talk about AI, SaaS & Business Growth | Built a 100K+ AI Community | Making AI & ChatGPT Learning Accessible and Enjoyable with a Personal Touch",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "aiplanetx.com",
+                                            "expanded_url": "http://www.aiplanetx.com",
+                                            "url": "https://t.co/dEIgR0oAkz",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 25759,
+                                    "followers_count": 35426,
+                                    "friends_count": 3809,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 7,
+                                    "location": "Best AI & Tech Newsletter \ud83d\udc49",
+                                    "media_count": 155,
+                                    "name": "Anthara Fairooz",
+                                    "normal_followers_count": 35426,
+                                    "pinned_tweet_ids_str": [
+                                      "1891792851748651122"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570708370851794951/1737415907",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1881290870613495808/5hmf5UCi_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "anthara_ai",
+                                    "statuses_count": 5946,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/dEIgR0oAkz",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "professional": {
+                                    "rest_id": "1880447344975704575",
+                                    "professional_type": "Creator",
+                                    "category": []
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890717024311009450"
+                              ],
+                              "editable_until_msecs": "1739620641000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "354",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 10:57:21 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                80
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI Truly inspiring insights by a visionary leader!",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1570708370851794951",
+                              "id_str": "1890717024311009450"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAKjDADgAUKAAIAAAAAFQDACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890994216504869262",
+              "sortIndex": "7332699015477824998",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890994216504869262-tweet-1890994216504869262",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890994216504869262",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo3MjA4OTI2NTU=",
+                                  "rest_id": "720892655",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": true,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": false,
+                                    "created_at": "Fri Oct 18 14:52:07 +0000 2013",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Tax, Finance, Law, Investment Strat.  Manage Residential properties.  Like Alt. Energy programs, politics, Crypto, Built/Managed Spas.  I give no advice here.",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 340,
+                                    "followers_count": 420,
+                                    "friends_count": 352,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 1,
+                                    "location": "NYC",
+                                    "media_count": 167,
+                                    "name": "manning",
+                                    "normal_followers_count": 420,
+                                    "pinned_tweet_ids_str": [
+                                      "1877895513158393981"
+                                    ],
+                                    "possibly_sensitive": true,
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1688329972245577728/FOmPnDCb_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "manninglawrence",
+                                    "statuses_count": 8138,
+                                    "translator_type": "none",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "tipjar_settings": {
+                                    "is_enabled": true
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890994216504869262"
+                              ],
+                              "editable_until_msecs": "1739686728000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "539",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sun Feb 16 05:18:48 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                180
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI Yes, but it has been Ivy League institution which have led this culture of intolerance which have led to social disaster which democracies now face",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "720892655",
+                              "id_str": "1890994216504869262"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRA6iCADgAUKAAIAAAAAFQDACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890681131646783736",
+              "sortIndex": "7332699015477824988",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890681131646783736-tweet-1890681131646783736",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890681131646783736",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxODY1MzE5NDI5MjAwMDIzNTUz",
+                                  "rest_id": "1865319429200023553",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": false,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": false,
+                                    "created_at": "Sat Dec 07 08:56:45 +0000 2024",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 240,
+                                    "followers_count": 4,
+                                    "friends_count": 123,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "location": "",
+                                    "media_count": 0,
+                                    "name": "Phi@losophy",
+                                    "normal_followers_count": 4,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1865432653287096320/zcbAeIl6_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "Philosophy51803",
+                                    "statuses_count": 78,
+                                    "translator_type": "none",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890681131646783736"
+                              ],
+                              "editable_until_msecs": "1739612083000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "636",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 08:34:43 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                93
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI Yes. The world needs a rational discourse. Good luck to all.",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1865319429200023553",
+                              "id_str": "1890681131646783736"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFJAaiCADgAUKAAIAAAAABACASAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890846814271660072",
+              "sortIndex": "7332699015477824978",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890846814271660072-tweet-1890846814271660072",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890846814271660072",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNDczNzkxNDIyMjM5Mjg1MjU0",
+                                  "rest_id": "1473791422239285254",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": false,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": false,
+                                    "created_at": "Wed Dec 22 23:04:24 +0000 2021",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Transdisciplinarian (stats, datasci, ml, lang/socSci, tech, art, science, philosophy). (Use-inspired) fundamental research.Opinions my own. Accidental activist.",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "sites.google.com/view/adawan",
+                                            "expanded_url": "https://sites.google.com/view/adawan",
+                                            "url": "https://t.co/UuYlAIoe6L",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 761,
+                                    "followers_count": 199,
+                                    "friends_count": 1294,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 8,
+                                    "location": "Zurich, Switzerland",
+                                    "media_count": 84,
+                                    "name": "Ada Wan",
+                                    "normal_followers_count": 199,
+                                    "pinned_tweet_ids_str": [
+                                      "1824022587845861542"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1475971661727944711/Vr3JvyuR_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "adawan919",
+                                    "statuses_count": 8697,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/UuYlAIoe6L",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890846814271660072"
+                              ],
+                              "editable_until_msecs": "1739651585000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "485",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 19:33:05 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                313
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI University officials must be strong in correcting research misconduct/abuse. The attitude from yesteryears of \"I am just an admin\" no longer suffices when research greed/collusion thrives and when quality education/information is more easily accessible outside of universities. 1/",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1473791422239285254",
+                              "id_str": "1890846814271660072"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAKCCADgBUKAAIAAAAABQCICAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890691306671767778",
+              "sortIndex": "7332699015477824968",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890691306671767778-tweet-1890691306671767778",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890691306671767778",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMTY2OTEyNjk=",
+                                  "rest_id": "116691269",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": false,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Tue Feb 23 09:00:36 +0000 2010",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "\u300c\u65e5\u672c\u3092\u524d\u306b\u9032\u3081\u308b\u305f\u3081\u306b\u3001\u4eca\u304b\u3089\u81ea\u5206\u306b\u3067\u304d\u308b\u3053\u3068\u306f\u4f55\u304b\uff1f\u300d\u3092\u8003\u3048\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u304b\u3089\u306e\u6642\u4ee3\u3001\u793e\u4f1a\u306f\u30c6\u30af\u30ed\u30ce\u30b8\u30fc\u306b\u3088\u3063\u3066\u524d\u306b\u9032\u3080\u3053\u3068\u306f\u9593\u9055\u3044\u306a\u3044\u3068\u601d\u3044\u307e\u3059\u304c\u3001\u305d\u306e\u30c6\u30af\u30ed\u30ce\u30b8\u30fc\u306e\u4ed5\u4e8b\u306b\u969c\u5bb3\u304c\u306a\u3044\u3088\u3046\u306b\u3059\u308b\u305f\u3081\u306e\u4ed5\u4e8b\u306f\u591a\u304f\u3042\u308a\u307e\u3059\u3002\u4e00\u3064\u3001\u3072\u3068\u3064\u304c\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u306e\u697d\u5668\u306e\u3088\u3046\u306b\u91cd\u8981\u3067\u3059\u3002\u305d\u306e\u4e00\u3064\u304c\u5c11\u5b50\u9ad8\u9f62\u5316\u3078\u306e\u5bfe\u7b56\u3060\u3068\u601d\u3044\u307e\u3059\u3002",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 30848,
+                                    "followers_count": 101,
+                                    "friends_count": 289,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 3,
+                                    "location": "\u795e\u5948\u5ddd\u770c\u4e8c\u5bae\u753a",
+                                    "media_count": 39,
+                                    "name": "\u4e45\u4e0b\u3000\u7d14\u592b",
+                                    "normal_followers_count": 101,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429949363/05_normal.JPG",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "SumioKuge",
+                                    "statuses_count": 2111,
+                                    "translator_type": "none",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890691306671767778"
+                              ],
+                              "editable_until_msecs": "1739614509000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "432",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 09:15:09 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                239
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI I, a Japanese, am very shocked to know that, even in America, universities are facing the difficult situation. From Japan, they looked free and proactive with their uniqueness, compared with those in Japan.",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "116691269",
+                              "id_str": "1890691306671767778"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAKiCADgAUKAAIAAAAABQDACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1890675043576811562",
+              "sortIndex": "7332699015477824958",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890675043576811562-tweet-1890675043576811562",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890675043576811562",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNjcyMjgzNzM2NzQ5MDMxNDI1",
+                                  "rest_id": "1672283736749031425",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": false,
+                                  "profile_image_shape": "Square",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Fri Jun 23 16:41:35 +0000 2023",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Electe offers an artificial intelligence-based data analytics platform",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "electe.net",
+                                            "expanded_url": "https://www.electe.net",
+                                            "url": "https://t.co/BynpS58LsJ",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 4118,
+                                    "followers_count": 9164,
+                                    "friends_count": 1341,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 2,
+                                    "location": "Milan, Italy",
+                                    "media_count": 0,
+                                    "name": "Electe",
+                                    "normal_followers_count": 9164,
+                                    "pinned_tweet_ids_str": [
+                                      "1851322873677250823"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672283736749031425/1732703870",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1864695853107073024/nWJxQe67_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "ElecteSrl",
+                                    "statuses_count": 4194,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/BynpS58LsJ",
+                                    "verified": false,
+                                    "verified_type": "Business",
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "professional": {
+                                    "rest_id": "1672284940287762432",
+                                    "professional_type": "Business",
+                                    "category": [
+                                      {
+                                        "id": 715,
+                                        "name": "Software Company",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890675043576811562"
+                              ],
+                              "editable_until_msecs": "1739610632000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "317",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 08:10:32 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                108
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      33,
+                                      42
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI @drfeifei, such insightful thoughts deserve to be shared and appreciated. \ud83c\udf1f",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1672283736749031425",
+                              "id_str": "1890675043576811562"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFJAKiCADgAUKAAIAAAAABwCCCAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "cursor-bottom-6427447774940329538",
+              "sortIndex": "7332699015477824957",
+              "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                  "itemType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "ZAAAAPAmHBmmxIO4obzuir001MC84eq7g7001IK7zbfHlr00nIa6sZLOlL400sa0ueTD27403oO6_b0kAPAc0IC7lZrK0b00nsbe6a6Oir008MO4tZqehr00yMHR-eOnhL00JQISFQQAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "TimelineTerminateTimeline",
+          "direction": "Top"
+        }
+      ]
+    }
+  }
+}

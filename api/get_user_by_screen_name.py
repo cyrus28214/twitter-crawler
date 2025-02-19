@@ -4,6 +4,11 @@ from util.request import request
 url = "https://x.com/i/api/graphql/32pL5BWe9WKeSK1MoPvFQQ/UserByScreenName"
 
 def get_user_by_screen_name(session: requests.Session, screen_name: str) -> dict:
+    """
+    Get user by screen name
+
+    rate limit: 150/min
+    """
     params = {
         "variables": json.dumps({
             "screen_name": screen_name

@@ -157,7 +157,7 @@ def main():
             print("用户为空或用户不可得")
             continue
         res = user_tweets_formatter(res)
-        if res == None:
+        if res is None:
             print("This Post is from a suspended account. Learn more")
             continue
         with open(f"{folder_path}/user{fields}_tweets.json", "w") as f:

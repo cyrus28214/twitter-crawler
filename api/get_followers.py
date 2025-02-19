@@ -1,8 +1,7 @@
 import json
 import requests
-import time  # 新增时间间隔
+from util.request import request
 
-from datetime import datetime
 url = 'https://x.com/i/api/graphql/OGScL-RC4DFMsRGOCjPR6g/Followers'
 
 def get_followers(session: requests.Session, user_id: str) -> list:
@@ -14,8 +13,8 @@ def get_followers(session: requests.Session, user_id: str) -> list:
             "userId": user_id,
             "count": count,
             "includePromotedContent": False,
-        
         }
+
         if cursor:
             variables["cursor"] = cursor
             
@@ -55,31 +54,10 @@ def get_followers(session: requests.Session, user_id: str) -> list:
             "responsive_web_enhance_cards_enabled": False
         })  
         }
-
-                
-        # 发送请求
-        response = session.get(url, params=params)
-        remaining_requests = int(response.headers.get('x-rate-limit-remaining', 1))
-        reset_timestamp = int(response.headers.get('x-rate-limit-reset', time.time() + 900))
-            
-        print(f"剩余请求次数: {remaining_requests}, 限制重置时间: {datetime.fromtimestamp(reset_timestamp)}")
-        print(response.status_code)
-        with open("response.txt","w") as f:
-            f.write("%s\n" % response)
-        if response.status_code == 429:
-                wait_seconds = max(reset_timestamp - int(time.time()), 180)  # 至少等待5分钟
-                print(f"触发速率限制，等待 {wait_seconds//60} 分 {wait_seconds%60} 秒")
-                time.sleep(wait_seconds)
-                continue
-        if response.status_code == 401:
-            print("请求次数太多，IP被封禁！！")
-            break
-        if response.status_code == 200:
-            response=response.json()
-            all_followers_raw.append(response) 
+       
+        response = request(session, url, params=params)
+        all_followers_raw.append(response) 
         
-        
-        # 解析响应
         entries = []
         try:
             instructions = response['data']['user']['result']['timeline']['timeline']['instructions']
@@ -103,6 +81,5 @@ def get_followers(session: requests.Session, user_id: str) -> list:
         
         cursor = next_cursor
         print(f"已获取 {len(all_followers_raw)} 页数据，下一页游标: {cursor}")
-       
  
     return all_followers_raw

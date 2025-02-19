@@ -1,0 +1,44 @@
+{
+  "data": {
+    "retweeters_timeline": {
+      "timeline": {
+        "instructions": [
+          {
+            "type": "TimelineAddEntries",
+            "entries": [
+              {
+                "entryId": "cursor-top-1824110390400189649",
+                "sortIndex": "1824110390400189649",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "HCagk7iuia/F0DIAAA==",
+                  "cursorType": "Top"
+                }
+              },
+              {
+                "entryId": "cursor-bottom-1824110390400189647",
+                "sortIndex": "1824110390400189647",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "HBagk7iuia/F0DIAAA==",
+                  "cursorType": "Bottom",
+                  "stopOnEmptyResponse": true
+                }
+              }
+            ]
+          },
+          {
+            "type": "TimelineTerminateTimeline",
+            "direction": "Bottom"
+          }
+        ],
+        "responseObjects": {
+          "feedbackActions": [],
+          "immediateReactions": []
+        }
+      }
+    }
+  }
+}

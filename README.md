@@ -22,11 +22,9 @@ Create a new file `config.json` and add your headers to it:
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "authorization": "Bearer ******",
         "Cookie": "auth_token=******; ct0=******;",
-        "x-csrf-token": "******",
-	    "Cache-Control": "no-cache",
-        "Pragma": "no-cache"
+        "x-csrf-token": "******"
     },
-    // if need proxy, add this
+    // if needed
     "proxies": { 
         "http": "http://127.0.0.1:7890",
         "https": "http://127.0.0.1:7890"

@@ -3,112 +3,80 @@
     "user": {
       "result": {
         "__typename": "User",
-        "id": "VXNlcjo0NDE5NjM5Nw==",
-        "rest_id": "44196397",
-        "affiliates_highlighted_label": {
-          "label": {
-            "url": {
-              "url": "https://twitter.com/X",
-              "urlType": "DeepLink"
-            },
-            "badge": {
-              "url": "https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_bigger.jpg"
-            },
-            "description": "X",
-            "userLabelType": "BusinessLabel",
-            "userLabelDisplayType": "Badge"
-          }
-        },
+        "id": "VXNlcjoxMTc2NDA3MzY3ODMyOTE1OTY4",
+        "rest_id": "1176407367832915968",
+        "affiliates_highlighted_label": {},
         "has_graduated_access": true,
         "parody_commentary_fan_label": "None",
-        "is_blue_verified": true,
+        "is_blue_verified": false,
         "profile_image_shape": "Circle",
         "legacy": {
-          "following": true,
+          "following": false,
           "can_dm": false,
-          "can_media_tag": false,
-          "created_at": "Tue Jun 02 20:12:29 +0000 2009",
-          "default_profile": false,
+          "can_media_tag": true,
+          "created_at": "Tue Sep 24 08:05:56 +0000 2019",
+          "default_profile": true,
           "default_profile_image": false,
-          "description": "White House Tech Support",
+          "description": "IDG founded in 2015 is a vi\u00adsu\u00adal\u00adiza\u00adtion group in CAD & CG State Key Lab, Zhe\u00adjiang Uni\u00adver\u00adsity, P.R. China.",
           "entities": {
             "description": {
               "urls": []
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "zjuidg.org",
+                  "expanded_url": "https://zjuidg.org/",
+                  "url": "https://t.co/MUlbpWLoI5",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
             }
           },
           "fast_followers_count": 0,
-          "favourites_count": 121380,
-          "followers_count": 217005023,
-          "friends_count": 1002,
-          "has_custom_timelines": true,
+          "favourites_count": 26,
+          "followers_count": 53,
+          "friends_count": 40,
+          "has_custom_timelines": false,
           "is_translator": false,
-          "listed_count": 159488,
-          "location": "",
-          "media_count": 3261,
-          "name": "Elon Musk",
-          "normal_followers_count": 217005023,
+          "listed_count": 1,
+          "location": " Zhe\u00adjiang Uni\u00adver\u00adsity, P.R. ",
+          "media_count": 8,
+          "name": "ZJUIDG",
+          "normal_followers_count": 53,
           "pinned_tweet_ids_str": [
-            "1888860423648145525"
+            "1411849160442007553"
           ],
           "possibly_sensitive": false,
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1726163678",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1874558173962481664/8HSTqIlD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176407367832915968/1623723091",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318056899032489984/eEg9z2qf_normal.jpg",
           "profile_interstitial_type": "",
-          "screen_name": "elonmusk",
-          "statuses_count": 69688,
+          "screen_name": "zjuidg",
+          "statuses_count": 17,
           "translator_type": "none",
+          "url": "https://t.co/MUlbpWLoI5",
           "verified": false,
-          "want_retweets": true,
+          "want_retweets": false,
           "withheld_in_countries": []
         },
-        "professional": {
-          "rest_id": "1679729435447275522",
-          "professional_type": "Creator",
-          "category": []
-        },
-        "tipjar_settings": {
-          "is_enabled": false
-        },
-        "super_follow_eligible": true,
+        "tipjar_settings": {},
         "legacy_extended_profile": {},
         "is_profile_translatable": false,
-        "has_hidden_subscriptions_on_profile": true,
+        "has_hidden_subscriptions_on_profile": false,
         "verification_info": {
-          "is_identity_verified": false,
-          "reason": {
-            "description": {
-              "text": "This account is verified because it's an affiliate of @X on X. Learn more",
-              "entities": [
-                {
-                  "from_index": 54,
-                  "to_index": 56,
-                  "ref": {
-                    "url": "https://twitter.com/X",
-                    "url_type": "ExternalUrl"
-                  }
-                },
-                {
-                  "from_index": 63,
-                  "to_index": 73,
-                  "ref": {
-                    "url": "https://help.twitter.com/en/rules-and-policies/profile-labels",
-                    "url_type": "ExternalUrl"
-                  }
-                }
-              ]
-            },
-            "verified_since_msec": "-156836000000000",
-            "override_verified_year": -3000
-          }
+          "is_identity_verified": false
         },
         "highlights_info": {
-          "can_highlight_tweets": true,
-          "highlighted_tweets": "547"
+          "can_highlight_tweets": false,
+          "highlighted_tweets": "0"
         },
         "user_seed_tweet_count": 0,
-        "premium_gifting_eligible": false,
+        "premium_gifting_eligible": true,
         "business_account": {},
-        "creator_subscriptions_count": 202
+        "creator_subscriptions_count": 0
       }
     }
   }
