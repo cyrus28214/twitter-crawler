@@ -3,10 +3,6 @@ import requests
 import time
 
 url = 'https://x.com/i/api/graphql/KI9jCXUx3Ymt-hDKLOZb9Q/SearchTimeline'
-proxies = {
-    'http': 'http://127.0.0.1:7890',
-    'https': 'http://127.0.0.1:7890'
-}
 
 def get_tweet_quotes(session: requests.Session, tweet_id: str) -> list:
     all_quotes = []
@@ -70,7 +66,6 @@ def get_tweet_quotes(session: requests.Session, tweet_id: str) -> list:
         response = session.get(
             url,
             params=params,
-            proxies=proxies,
             timeout=15
         )
         

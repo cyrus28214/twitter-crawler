@@ -3,10 +3,7 @@ import json
 import time
 from datetime import datetime
 url = 'https://x.com/i/api/graphql/o5eNLkJb03ayTQa97Cpp7w/Following'
-proxies = {
-    'http': 'http://127.0.0.1:7890',  # 替换为 Clash 中的 HTTP 代理地址和端口
-    'https': 'http://127.0.0.1:7890'  # 替换为 Clash 中的 HTTPS 代理地址和端口
-}
+
 def get_followings(session: requests.Session, user_id: str) -> list:
     all_followings_raw = []
     cursor = None
@@ -62,7 +59,7 @@ def get_followings(session: requests.Session, user_id: str) -> list:
         }
         
         # 发送请求
-        response = session.get(url, params=params, proxies=proxies)
+        response = session.get(url, params=params)
         remaining_requests = int(response.headers.get('x-rate-limit-remaining', 1))
         reset_timestamp = int(response.headers.get('x-rate-limit-reset', time.time() + 900))
             

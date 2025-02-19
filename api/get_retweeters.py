@@ -3,10 +3,6 @@ import requests
 import time  # 添加延时控制
 from datetime import datetime
 url = 'https://x.com/i/api/graphql/8fXdisbSK0JGESmFrHcp1g/Retweeters'
-proxies = {
-    'http': 'http://127.0.0.1:7890',
-    'https': 'http://127.0.0.1:7890'
-}
 
 def get_retweeters(session: requests.Session, tweet_id: str) -> list:
     all_retweeters = []
@@ -65,8 +61,7 @@ def get_retweeters(session: requests.Session, tweet_id: str) -> list:
             
             response = session.get(
                 url,
-                params=params,
-                proxies=proxies
+                params=params
             )
             remaining_requests = int(response.headers.get('x-rate-limit-remaining', 1))
             reset_timestamp = int(response.headers.get('x-rate-limit-reset', time.time() + 900))

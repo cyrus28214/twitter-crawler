@@ -2,10 +2,7 @@ import json
 import requests
 
 url = "https://x.com/i/api/graphql/32pL5BWe9WKeSK1MoPvFQQ/UserByScreenName"
-proxies = {
-    'http': 'http://127.0.0.1:7890',  # 替换为 Clash 中的 HTTP 代理地址和端口
-    'https': 'http://127.0.0.1:7890'  # 替换为 Clash 中的 HTTPS 代理地址和端口
-}
+
 def get_user_by_screen_name(session: requests.Session, screen_name: str) -> dict:
     params = {
         "variables": json.dumps({
@@ -30,4 +27,4 @@ def get_user_by_screen_name(session: requests.Session, screen_name: str) -> dict
             "withAuxiliaryUserLabels": False
         })
     }
-    return session.get(url, params=params,proxies=proxies).json() 
+    return session.get(url, params=params).json() 

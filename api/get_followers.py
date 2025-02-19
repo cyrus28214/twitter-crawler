@@ -4,10 +4,7 @@ import time  # 新增时间间隔
 
 from datetime import datetime
 url = 'https://x.com/i/api/graphql/OGScL-RC4DFMsRGOCjPR6g/Followers'
-proxies = {
-    'http': 'http://127.0.0.1:7890',  # 替换为 Clash 中的 HTTP 代理地址和端口
-    'https': 'http://127.0.0.1:7890'  # 替换为 Clash 中的 HTTPS 代理地址和端口
-}
+
 def get_followers(session: requests.Session, user_id: str) -> list:
     all_followers_raw = []
     cursor = None
@@ -61,7 +58,7 @@ def get_followers(session: requests.Session, user_id: str) -> list:
 
                 
         # 发送请求
-        response = session.get(url, params=params, proxies=proxies)
+        response = session.get(url, params=params)
         remaining_requests = int(response.headers.get('x-rate-limit-remaining', 1))
         reset_timestamp = int(response.headers.get('x-rate-limit-reset', time.time() + 900))
             

@@ -11,6 +11,8 @@ def main():
     s = requests.Session()
     s.timeout = (3, 5)
     s.headers.update(config["headers"])
+    if "proxies" in config:
+        s.proxies.update(config["proxies"])
     s.mount('http://', HTTPAdapter(max_retries=3))
     s.mount('https://', HTTPAdapter(max_retries=3))
     

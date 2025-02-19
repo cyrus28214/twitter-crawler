@@ -4,10 +4,6 @@ import time
 from datetime import datetime
 
 url = 'https://x.com/i/api/graphql/il0axqlKn9gdWoOuhrfLbQ/UserTweets'
-proxies = {
-    'http': 'http://127.0.0.1:7890',  # 替换为 Clash 中的 HTTP 代理地址和端口
-    'https': 'http://127.0.0.1:7890'  # 替换为 Clash 中的 HTTPS 代理地址和端口
-}
 
 def get_user_tweets(session: requests.Session, user_id: str ,count: int = 20) -> dict:
     all_tweets = []
@@ -62,4 +58,4 @@ def get_user_tweets(session: requests.Session, user_id: str ,count: int = 20) ->
                 "withArticlePlainText": False
             })
         }
-        return  session.get(url, params=params, proxies=proxies).json()
+        return  session.get(url, params=params).json()

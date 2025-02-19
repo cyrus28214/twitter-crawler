@@ -3,11 +3,6 @@ import requests
 import time
 from datetime import datetime
 url = 'https://x.com/i/api/graphql/jor5fVC4grHgHsSFWc04Pg/TweetDetail'
-proxies = {
-    'http': 'http://127.0.0.1:7890',  # 替换为 Clash 中的 HTTP 代理地址和端口
-    'https': 'http://127.0.0.1:7890'  # 替换为 Clash 中的 HTTPS 代理地址和端口
-}
-
 
 def get_tweet_detail(session: requests.Session, tweet_id: str) -> dict:
     all_detail = []
@@ -74,7 +69,6 @@ def get_tweet_detail(session: requests.Session, tweet_id: str) -> dict:
         response = session.get(
             url,
             params=params,
-            proxies=proxies,
             timeout=5
         )
         # 处理速率限制
