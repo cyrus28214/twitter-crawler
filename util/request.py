@@ -10,7 +10,7 @@ def request(session: requests.Session, *args, **kwargs) -> dict:
         reset_timestamp = response.headers.get('x-rate-limit-reset')
 
         if remaining is None or reset_timestamp is None:
-            raise Exception("Rate limit not found")
+            raise Exception("Rate limit not found. It is often caused by the problem of your authentication.")
         
         remaining = int(remaining)
         reset_timestamp = int(reset_timestamp)
