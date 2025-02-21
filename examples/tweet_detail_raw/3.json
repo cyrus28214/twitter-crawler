@@ -1,0 +1,212 @@
+{
+  "data": {
+    "threaded_conversation_with_injections_v2": {
+      "instructions": [
+        {
+          "type": "TimelineAddEntries",
+          "entries": [
+            {
+              "entryId": "conversationthread-1890675041274036248",
+              "sortIndex": "7332699015477824918",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1890675041274036248-tweet-1890675041274036248",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1890675041274036248",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMzMyMzg2OTcx",
+                                  "rest_id": "1332386971",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "parody_commentary_fan_label": "None",
+                                  "is_blue_verified": false,
+                                  "profile_image_shape": "Circle",
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": false,
+                                    "created_at": "Sat Apr 06 20:01:08 +0000 2013",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "CTO | Research Assistant | Data Scientist | Machine Learning Engineer | Help Businesses Monetizing Data",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "mlubbad.com",
+                                            "expanded_url": "https://mlubbad.com",
+                                            "url": "https://t.co/xaGGyiiSgO",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 7807,
+                                    "followers_count": 288,
+                                    "friends_count": 479,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 6,
+                                    "location": "Turkey",
+                                    "media_count": 51,
+                                    "name": "Mohammed Lubbad \ud83c\uddf5\ud83c\uddf8",
+                                    "normal_followers_count": 288,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332386971/1730964221",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1854424752095477778/XaNwKo3z_normal.png",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "engmlubbad",
+                                    "statuses_count": 8617,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/xaGGyiiSgO",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1890675041274036248"
+                              ],
+                              "editable_until_msecs": "1739610631000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "30",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Sat Feb 15 08:10:31 +0000 2025",
+                              "conversation_id_str": "1890673021376950749",
+                              "display_text_range": [
+                                33,
+                                168
+                              ],
+                              "entities": {
+                                "hashtags": [
+                                  {
+                                    "indices": [
+                                      150,
+                                      168
+                                    ],
+                                    "text": "LeadershipMatters"
+                                  }
+                                ],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "130745589",
+                                    "name": "Fei-Fei Li",
+                                    "screen_name": "drfeifei",
+                                    "indices": [
+                                      0,
+                                      9
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "18036441",
+                                    "name": "Stanford University",
+                                    "screen_name": "Stanford",
+                                    "indices": [
+                                      10,
+                                      19
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1067218780806307841",
+                                    "name": "Stanford HAI",
+                                    "screen_name": "StanfordHAI",
+                                    "indices": [
+                                      20,
+                                      32
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 0,
+                              "favorited": false,
+                              "full_text": "@drfeifei @Stanford @StanfordHAI Profound insights like these remind us of the true power held by thoughtful leaders in shaping education\u2019s future. \ud83c\udf1f #LeadershipMatters",
+                              "in_reply_to_screen_name": "drfeifei",
+                              "in_reply_to_status_id_str": "1890673021376950749",
+                              "in_reply_to_user_id_str": "130745589",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1332386971",
+                              "id_str": "1890675041274036248"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "AbusiveQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFRAKiCAHAAUKAAIAAAAABwCgCAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "AbusiveQuality"
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "TimelineTerminateTimeline",
+          "direction": "Top"
+        }
+      ]
+    }
+  }
+}

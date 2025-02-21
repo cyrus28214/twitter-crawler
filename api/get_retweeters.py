@@ -1,9 +1,16 @@
 import json
 import requests
 from util.request import request
+from util.get_cursor_from_instructions import get_cursor_from_instructions
+
 url = 'https://x.com/i/api/graphql/8fXdisbSK0JGESmFrHcp1g/Retweeters'
 
 def get_retweeters(session: requests.Session, tweet_id: str, count: int = 20, cursor: str = None) -> list:
+    """
+    Get retweeters of a tweet
+
+    rate limit: 500/min
+    """
     variables = {
         "tweetId": tweet_id,
         "count": count,
@@ -47,18 +54,7 @@ def get_retweeters(session: requests.Session, tweet_id: str, count: int = 20, cu
         })
     }
     data = request(session, url, params=params)
-    
-    next_cursor = None
-
     instructions = data["data"]["retweeters_timeline"]["timeline"]["instructions"]
-    for instruction in instructions:
-        if instruction["type"] != "TimelineAddEntries":
-            continue
-        entries = instruction["entries"]
-        for entry in entries:
-            if entry["content"]["entryType"] == "TimelineTimelineCursor"\
-                and entry["content"]["cursorType"] == "Bottom":
-                next_cursor = entry["content"]["value"]
-                break
+    next_cursor = get_cursor_from_instructions(instructions)
     
     return data, next_cursor

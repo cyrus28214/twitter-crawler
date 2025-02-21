@@ -7,7 +7,7 @@
           "entries": [
             {
               "entryId": "conversationthread-1890674055273148456",
-              "sortIndex": "7332699015477824948",
+              "sortIndex": "7332699015477824938",
               "content": {
                 "entryType": "TimelineTimelineModule",
                 "__typename": "TimelineTimelineModule",
@@ -48,8 +48,8 @@
                                       }
                                     },
                                     "fast_followers_count": 0,
-                                    "favourites_count": 18198,
-                                    "followers_count": 1560,
+                                    "favourites_count": 18209,
+                                    "followers_count": 1559,
                                     "friends_count": 316,
                                     "has_custom_timelines": true,
                                     "is_translator": false,
@@ -57,7 +57,7 @@
                                     "location": "",
                                     "media_count": 53,
                                     "name": "Laur Science (\ud83d\udc99,\ud83e\udde1)",
-                                    "normal_followers_count": 1560,
+                                    "normal_followers_count": 1559,
                                     "pinned_tweet_ids_str": [
                                       "1260705254859038721"
                                     ],
@@ -66,7 +66,7 @@
                                     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300016633440858117/QPQZqBT1_normal.jpg",
                                     "profile_interstitial_type": "",
                                     "screen_name": "laur_science",
-                                    "statuses_count": 13857,
+                                    "statuses_count": 13867,
                                     "translator_type": "none",
                                     "verified": false,
                                     "want_retweets": false,
@@ -203,342 +203,7 @@
                             "conversationSection": "HighQuality"
                           },
                           "timelinesDetails": {
-                            "controllerData": "DAACDAAEDAABCgABFRCKiCAHAAUKAAIAAAAAFwCgCAAAAAA="
-                          }
-                        }
-                      }
-                    }
-                  }
-                ],
-                "displayType": "VerticalConversation",
-                "clientEventInfo": {
-                  "details": {
-                    "conversationDetails": {
-                      "conversationSection": "HighQuality"
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "entryId": "conversationthread-1850202730431975873-eb807fbd1aa076e",
-              "sortIndex": "7332699015477824938",
-              "content": {
-                "entryType": "TimelineTimelineModule",
-                "__typename": "TimelineTimelineModule",
-                "items": [
-                  {
-                    "entryId": "conversationthread-1850202730431975873-tweet-1850202730431975873-eb807fbd1aa076e",
-                    "item": {
-                      "itemContent": {
-                        "itemType": "TimelineTweet",
-                        "__typename": "TimelineTweet",
-                        "tweet_results": {
-                          "result": {
-                            "__typename": "TweetWithVisibilityResults",
-                            "tweet": {
-                              "rest_id": "1850202730431975873",
-                              "has_birdwatch_notes": false,
-                              "core": {
-                                "user_results": {
-                                  "result": {
-                                    "__typename": "User",
-                                    "id": "VXNlcjoxMTU1MDExNTg4MzE2NzI5MzQ2",
-                                    "rest_id": "1155011588316729346",
-                                    "affiliates_highlighted_label": {},
-                                    "has_graduated_access": true,
-                                    "parody_commentary_fan_label": "None",
-                                    "is_blue_verified": true,
-                                    "profile_image_shape": "Circle",
-                                    "legacy": {
-                                      "following": false,
-                                      "can_dm": true,
-                                      "can_media_tag": false,
-                                      "created_at": "Sat Jul 27 07:06:36 +0000 2019",
-                                      "default_profile": true,
-                                      "default_profile_image": false,
-                                      "description": "\u6700\u65b0\u52a0\u901f\u7a7f\u900f\u6280\u672f\uff0c\u5343\u5146\u901f\u5ea6 \u9ad8\u7ea7\u52a0\u5bc6\u96a7\u9053 \u5404\u5730\u539f\u751fIP \u4f18\u8d28\u673a\u623f\u4e2d\u8f6c",
-                                      "entities": {
-                                        "description": {
-                                          "urls": []
-                                        },
-                                        "url": {
-                                          "urls": [
-                                            {
-                                              "display_url": "exp1.xfxss01.top",
-                                              "expanded_url": "https://exp1.xfxss01.top",
-                                              "url": "https://t.co/JC94aqoqbK",
-                                              "indices": [
-                                                0,
-                                                23
-                                              ]
-                                            }
-                                          ]
-                                        }
-                                      },
-                                      "fast_followers_count": 0,
-                                      "favourites_count": 2,
-                                      "followers_count": 14068,
-                                      "friends_count": 1,
-                                      "has_custom_timelines": false,
-                                      "is_translator": false,
-                                      "listed_count": 22,
-                                      "location": "",
-                                      "media_count": 11,
-                                      "name": "\u5c0f\u98de\u8c61",
-                                      "normal_followers_count": 14068,
-                                      "pinned_tweet_ids_str": [],
-                                      "possibly_sensitive": false,
-                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155011588316729346/1722930592",
-                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1822214072210735104/cPCm_Vpz_normal.jpg",
-                                      "profile_interstitial_type": "",
-                                      "screen_name": "9Bj6gaBlqIpEd7o",
-                                      "statuses_count": 93,
-                                      "translator_type": "none",
-                                      "url": "https://t.co/JC94aqoqbK",
-                                      "verified": false,
-                                      "want_retweets": false,
-                                      "withheld_in_countries": []
-                                    },
-                                    "tipjar_settings": {}
-                                  }
-                                }
-                              },
-                              "card": {
-                                "rest_id": "card://1850202728271937536",
-                                "legacy": {
-                                  "binding_values": [
-                                    {
-                                      "key": "unified_card",
-                                      "value": {
-                                        "string_value": "{\"type\":\"image_carousel_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"\\u5C0F\\u98DE\\u8C61VPN\\u514D\\u8D39\\u4F7F\\u7528\\u4E00\\u4E2A\\u6708\",\"is_rtl\":false},\"subtitle\":{\"content\":\"xfxss01.top\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"swipeable_media_1\":{\"type\":\"swipeable_media\",\"data\":{\"media_list\":[{\"id\":\"3_1822508244067311617\",\"destination\":\"browser_1\"},{\"id\":\"3_1822509842357178368\",\"destination\":\"browser_1\"},{\"id\":\"3_1822507992715276288\",\"destination\":\"browser_1\"},{\"id\":\"3_1822507727173865472\",\"destination\":\"browser_1\"}]}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://exp1.xfxss01.top\",\"vanity\":\"xfxss01.top\"}}}},\"components\":[\"swipeable_media_1\",\"details_1\"],\"media_entities\":{\"3_1822507992715276288\":{\"id\":1822507992715276288,\"id_str\":\"1822507992715276288\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GUrZXQIasAAOWzl.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":418,\"focus_rects\":[{\"x\":7,\"y\":0,\"h\":418,\"w\":746},{\"x\":171,\"y\":0,\"h\":418,\"w\":418},{\"x\":197,\"y\":0,\"h\":418,\"w\":367},{\"x\":276,\"y\":0,\"h\":418,\"w\":209},{\"x\":0,\"y\":0,\"h\":418,\"w\":800}]},\"sizes\":{\"small\":{\"w\":680,\"h\":355,\"resize\":\"fit\"},\"medium\":{\"w\":800,\"h\":418,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"large\":{\"w\":800,\"h\":418,\"resize\":\"fit\"}},\"source_user_id\":1155011588316729346,\"source_user_id_str\":\"1155011588316729346\",\"media_key\":\"3_1822507992715276288\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":255,\"green\":255,\"blue\":255},\"percentage\":77.52},{\"rgb\":{\"red\":52,\"green\":168,\"blue\":83},\"percentage\":19.67},{\"rgb\":{\"red\":165,\"green\":210,\"blue\":179},\"percentage\":2.81}]}},\"ttl\":-1}}},\"3_1822507727173865472\":{\"id\":1822507727173865472,\"id_str\":\"1822507727173865472\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GUrZHy6aUAAqCzP.png\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":418,\"focus_rects\":[{\"x\":27,\"y\":0,\"h\":418,\"w\":746},{\"x\":191,\"y\":0,\"h\":418,\"w\":418},{\"x\":217,\"y\":0,\"h\":418,\"w\":367},{\"x\":296,\"y\":0,\"h\":418,\"w\":209},{\"x\":0,\"y\":0,\"h\":418,\"w\":800}]},\"sizes\":{\"medium\":{\"w\":800,\"h\":418,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":355,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"large\":{\"w\":800,\"h\":418,\"resize\":\"fit\"}},\"source_user_id\":1155011588316729346,\"source_user_id_str\":\"1155011588316729346\",\"media_key\":\"3_1822507727173865472\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":252,\"green\":253,\"blue\":255},\"percentage\":92.12},{\"rgb\":{\"red\":125,\"green\":179,\"blue\":223},\"percentage\":5.46},{\"rgb\":{\"red\":230,\"green\":246,\"blue\":222},\"percentage\":2.2},{\"rgb\":{\"red\":184,\"green\":230,\"blue\":162},\"percentage\":0.2}]}},\"ttl\":-1}}},\"3_1822509842357178368\":{\"id\":1822509842357178368,\"id_str\":\"1822509842357178368\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GUrbC6laUAATLPZ.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":418,\"focus_rects\":[{\"x\":0,\"y\":0,\"h\":418,\"w\":746},{\"x\":0,\"y\":0,\"h\":418,\"w\":418},{\"x\":0,\"y\":0,\"h\":418,\"w\":367},{\"x\":0,\"y\":0,\"h\":418,\"w\":209},{\"x\":0,\"y\":0,\"h\":418,\"w\":800}]},\"sizes\":{\"large\":{\"w\":800,\"h\":418,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":800,\"h\":418,\"resize\":\"fit\"},\"small\":{\"w\":680,\"h\":355,\"resize\":\"fit\"}},\"source_user_id\":1155011588316729346,\"source_user_id_str\":\"1155011588316729346\",\"media_key\":\"3_1822509842357178368\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":255,\"green\":255,\"blue\":255},\"percentage\":78.51},{\"rgb\":{\"red\":135,\"green\":185,\"blue\":224},\"percentage\":2.73},{\"rgb\":{\"red\":29,\"green\":32,\"blue\":33},\"percentage\":1.96},{\"rgb\":{\"red\":29,\"green\":202,\"blue\":93},\"percentage\":1.17},{\"rgb\":{\"red\":173,\"green\":229,\"blue\":175},\"percentage\":1.1}]}},\"ttl\":-1}}},\"3_1822508244067311617\":{\"id\":1822508244067311617,\"id_str\":\"1822508244067311617\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/GUrZl4faYAEDKN8.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":800,\"height\":418,\"focus_rects\":[{\"x\":27,\"y\":0,\"h\":418,\"w\":746},{\"x\":191,\"y\":0,\"h\":418,\"w\":418},{\"x\":217,\"y\":0,\"h\":418,\"w\":367},{\"x\":296,\"y\":0,\"h\":418,\"w\":209},{\"x\":0,\"y\":0,\"h\":418,\"w\":800}]},\"sizes\":{\"small\":{\"w\":680,\"h\":355,\"resize\":\"fit\"},\"medium\":{\"w\":800,\"h\":418,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"large\":{\"w\":800,\"h\":418,\"resize\":\"fit\"}},\"source_user_id\":1155011588316729346,\"source_user_id_str\":\"1155011588316729346\",\"media_key\":\"3_1822508244067311617\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":255,\"green\":255,\"blue\":255},\"percentage\":94.03},{\"rgb\":{\"red\":122,\"green\":127,\"blue\":134},\"percentage\":1.87},{\"rgb\":{\"red\":99,\"green\":174,\"blue\":254},\"percentage\":1.76},{\"rgb\":{\"red\":44,\"green\":106,\"blue\":251},\"percentage\":1.0},{\"rgb\":{\"red\":66,\"green\":139,\"blue\":253},\"percentage\":0.38}]}},\"ttl\":-1}}}}}",
-                                        "type": "STRING"
-                                      }
-                                    },
-                                    {
-                                      "key": "card_url",
-                                      "value": {
-                                        "scribe_key": "card_url",
-                                        "string_value": "https://twitter.com",
-                                        "type": "STRING"
-                                      }
-                                    }
-                                  ],
-                                  "card_platform": {
-                                    "platform": {
-                                      "audience": {
-                                        "name": "production"
-                                      },
-                                      "device": {
-                                        "name": "Swift",
-                                        "version": "12"
-                                      }
-                                    }
-                                  },
-                                  "name": "unified_card",
-                                  "url": "card://1850202728271937536",
-                                  "user_refs_results": []
-                                }
-                              },
-                              "unmention_data": {},
-                              "edit_control": {
-                                "edit_tweet_ids": [
-                                  "1850202730431975873"
-                                ],
-                                "editable_until_msecs": "1729961280000",
-                                "is_edit_eligible": false,
-                                "edits_remaining": "5"
-                              },
-                              "is_translatable": true,
-                              "views": {
-                                "count": "9324064",
-                                "state": "EnabledWithCount"
-                              },
-                              "source": "<a href=\"https://help.twitter.com/en/using-twitter/how-to-tweet#source-labels\" rel=\"nofollow\">advertiser-interface</a>",
-                              "legacy": {
-                                "bookmark_count": 207,
-                                "bookmarked": false,
-                                "created_at": "Sat Oct 26 15:48:00 +0000 2024",
-                                "conversation_control": {
-                                  "policy": "Community",
-                                  "conversation_owner_results": {
-                                    "result": {
-                                      "__typename": "User",
-                                      "legacy": {
-                                        "screen_name": "9Bj6gaBlqIpEd7o"
-                                      }
-                                    }
-                                  }
-                                },
-                                "conversation_id_str": "1850202730431975873",
-                                "display_text_range": [
-                                  0,
-                                  142
-                                ],
-                                "entities": {
-                                  "hashtags": [
-                                    {
-                                      "indices": [
-                                        122,
-                                        128
-                                      ],
-                                      "text": "\u4e2d\u56fdvpn"
-                                    },
-                                    {
-                                      "indices": [
-                                        129,
-                                        135
-                                      ],
-                                      "text": "VPN\u63a8\u8350"
-                                    },
-                                    {
-                                      "indices": [
-                                        136,
-                                        142
-                                      ],
-                                      "text": "\u9ad8\u901fvpn"
-                                    }
-                                  ],
-                                  "symbols": [],
-                                  "timestamps": [],
-                                  "urls": [
-                                    {
-                                      "display_url": "exp1.xfxss01.top",
-                                      "expanded_url": "http://exp1.xfxss01.top",
-                                      "url": "https://t.co/QqP9xwRcnq",
-                                      "indices": [
-                                        4,
-                                        27
-                                      ]
-                                    }
-                                  ],
-                                  "user_mentions": []
-                                },
-                                "favorite_count": 697,
-                                "favorited": false,
-                                "full_text": "\u5b98\u7f51\uff1a\nhttps://t.co/QqP9xwRcnq\n\n\u65b0\u7528\u6237\u514d\u8d39\u4f7f\u752830\u5929\uff01\n*\u4e0b\u53551\u5143\u5957\u9910\uff0c\u586b\u5199\u4f18\u60e0\u7801\uff1avip01\n\n\u652f\u6301\u8bbe\u5907\uff1a\u624b\u673a\uff0c\u7535\u8111\uff0c\u5e73\u677f\uff0cmac\uff01\n\u5343\u5146\u5e26\u5bbd\uff0c\u4ec0\u4e48\u90fd\u79d2\u5f00\uff01\n\u652f\u6301\u6d41\u5a92\u4f53\uff0cgpt\uff0cTikTok\u6d77\u5916\u6296\u97f3\u7b49\u5404\u7c7bapp\uff01\n\n#\u4e2d\u56fdvpn\n#VPN\u63a8\u8350\n#\u9ad8\u901fvpn",
-                                "is_quote_status": false,
-                                "lang": "zh",
-                                "possibly_sensitive": false,
-                                "possibly_sensitive_editable": true,
-                                "quote_count": 1,
-                                "reply_count": 0,
-                                "retweet_count": 55,
-                                "retweeted": false,
-                                "scopes": {
-                                  "followers": false
-                                },
-                                "user_id_str": "1155011588316729346",
-                                "id_str": "1850202730431975873"
-                              },
-                              "quick_promote_eligibility": {
-                                "eligibility": "IneligibleNotProfessional"
-                              }
-                            },
-                            "limitedActionResults": {
-                              "limited_actions": [
-                                {
-                                  "action": "Reply",
-                                  "prompt": {
-                                    "__typename": "CtaLimitedActionPrompt",
-                                    "cta_type": "SeeConversation",
-                                    "headline": {
-                                      "text": "Who can reply?",
-                                      "entities": []
-                                    },
-                                    "subtext": {
-                                      "text": "People the author mentioned can reply",
-                                      "entities": []
-                                    }
-                                  }
-                                }
-                              ]
-                            }
-                          }
-                        },
-                        "tweetDisplayType": "Tweet",
-                        "promotedMetadata": {
-                          "advertiser_results": {
-                            "result": {
-                              "__typename": "User",
-                              "id": "VXNlcjoxMTU1MDExNTg4MzE2NzI5MzQ2",
-                              "rest_id": "1155011588316729346",
-                              "affiliates_highlighted_label": {},
-                              "has_graduated_access": true,
-                              "parody_commentary_fan_label": "None",
-                              "is_blue_verified": true,
-                              "profile_image_shape": "Circle",
-                              "legacy": {
-                                "following": false,
-                                "can_dm": true,
-                                "can_media_tag": false,
-                                "created_at": "Sat Jul 27 07:06:36 +0000 2019",
-                                "default_profile": true,
-                                "default_profile_image": false,
-                                "description": "\u6700\u65b0\u52a0\u901f\u7a7f\u900f\u6280\u672f\uff0c\u5343\u5146\u901f\u5ea6 \u9ad8\u7ea7\u52a0\u5bc6\u96a7\u9053 \u5404\u5730\u539f\u751fIP \u4f18\u8d28\u673a\u623f\u4e2d\u8f6c",
-                                "entities": {
-                                  "description": {
-                                    "urls": []
-                                  },
-                                  "url": {
-                                    "urls": [
-                                      {
-                                        "display_url": "exp1.xfxss01.top",
-                                        "expanded_url": "https://exp1.xfxss01.top",
-                                        "url": "https://t.co/JC94aqoqbK",
-                                        "indices": [
-                                          0,
-                                          23
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                },
-                                "fast_followers_count": 0,
-                                "favourites_count": 2,
-                                "followers_count": 14068,
-                                "friends_count": 1,
-                                "has_custom_timelines": false,
-                                "is_translator": false,
-                                "listed_count": 22,
-                                "location": "",
-                                "media_count": 11,
-                                "name": "\u5c0f\u98de\u8c61",
-                                "normal_followers_count": 14068,
-                                "pinned_tweet_ids_str": [],
-                                "possibly_sensitive": false,
-                                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155011588316729346/1722930592",
-                                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1822214072210735104/cPCm_Vpz_normal.jpg",
-                                "profile_interstitial_type": "",
-                                "screen_name": "9Bj6gaBlqIpEd7o",
-                                "statuses_count": 93,
-                                "translator_type": "none",
-                                "url": "https://t.co/JC94aqoqbK",
-                                "verified": false,
-                                "want_retweets": false,
-                                "withheld_in_countries": []
-                              },
-                              "tipjar_settings": {}
-                            }
-                          },
-                          "disclosureType": "NoDisclosure",
-                          "experimentValues": [],
-                          "impressionId": "eb807fbd1aa076e",
-                          "impressionString": "eb807fbd1aa076e",
-                          "clickTrackingInfo": {
-                            "urlParams": [
-                              {
-                                "key": "twclid",
-                                "value": "2pfvdk7uym27bcuyvewb36ewd"
-                              }
-                            ]
-                          }
-                        }
-                      },
-                      "clientEventInfo": {
-                        "details": {
-                          "conversationDetails": {
-                            "conversationSection": "HighQuality"
+                            "controllerData": "DAACDAAEDAABCgABFRAKiCAHAAUKAAIAAAAAFwCgCAAAAAA="
                           }
                         }
                       }
@@ -739,7 +404,7 @@
                             "conversationSection": "HighQuality"
                           },
                           "timelinesDetails": {
-                            "controllerData": "DAACDAAEDAABCgABFRCaiCQDAAUKAAIAAAAAFQDACAAAAAA="
+                            "controllerData": "DAACDAAEDAABCgABFRAaiCIDAAUKAAIAAAAAFQDACAAAAAA="
                           }
                         }
                       }
@@ -757,7 +422,7 @@
               }
             },
             {
-              "entryId": "cursor-showmorethreadsprompt-4701461022246123155",
+              "entryId": "cursor-showmorethreadsprompt-6460701130777031639",
               "sortIndex": "7332699015477824927",
               "content": {
                 "entryType": "TimelineTimelineItem",
@@ -765,7 +430,7 @@
                 "itemContent": {
                   "itemType": "TimelineTimelineCursor",
                   "__typename": "TimelineTimelineCursor",
-                  "value": "fwAAAPBBHBnWxIO4obzuir001MC84eq7g7001IK7zbfHlr00gsfY3ZPlnq0z0MDTqaeCg700noK87ZqMg780nIa6sZLOlL400sa0ueTD27403oO6_b0_APAc0IC7lZrK0b00nsbe6a6Oir008MO4tZqehr00yMHR-eOnhL00JQYRFRAAAA",
+                  "value": "fwAAAPA4HBnWxIO4obzuir001MC84eq7g7001IK7zbfHlr000MDTqaeCg700noK87ZqMg780nIa6sZLOlL400sa0ueTD27403oO6_b02APAl0IC7lZrK0b00nsbe6a6Oir008MO4tZqehr00yoPT7dHNwbs0yMHR-eOnhL00JQYRFRAAAA",
                   "cursorType": "ShowMoreThreadsPrompt",
                   "displayTreatment": {
                     "actionText": "Show",

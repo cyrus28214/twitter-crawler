@@ -1,11 +1,11 @@
 [
   {
     "tweet": {
-      "post_id": "1890719506407870488",
-      "content": "\u65af\u5766\u798f\u5927\u5b66\u524d\u6559\u52a1\u957f\u3001\u65af\u5766\u798fHAI\u8054\u5408\u4e3b\u4efb\uff0c\u7f8e\u56fd\u9ad8\u7b49\u6559\u80b2\u754c\u6700\u5177\u6df1\u5ea6\u7684\u9886\u5bfc\u8005\u4e4b\u4e00\u2014\u2014John Etchemendy \u6559\u6388\uff0c\u6700\u8fd1\u53d1\u8868\u4e86\u4e00\u756a\u6781\u5177\u524d\u77bb\u6027\u7684\u8a00\u8bba\u3002\u8fd9\u4f4d\u8001\u670b\u53cb\u7684\u8bdd\uff0c\u4e0d\u4ec5\u6df1\u523b\uff0c\u8fd8\u5145\u6ee1\u4e86\u8fdc\u89c1\u3002\u4e0d\u5f97\u4e0d\u8bf4\uff0c\u4ed6\u7684\u6d1e\u5bdf\u529b\u603b\u662f\u8ba9\u4eba\u60ca\u53f9\uff01",
-      "post_time": "Sat Feb 15 11:07:12 +0000 2025",
-      "user_id": "1638784863913545728",
-      "post_url": "https://x.com/qimuai/status/1890719506407870488",
+      "post_id": "1890858469311582702",
+      "content": "The Ivory Tower or The Ivory Cage? \ud83c\udff0\ud83d\udd12\n\nUniversities claim to be temples of free thought, but they're turning into prisons of the mind. \ud83e\udde0\ud83d\udea8\n\nInstead of exploring ideas, they're enforcing them. Debate is dead, and dissent is dangerous. \u26b0\ufe0f\ud83d\udeab\n\nThe hallowed halls of academia have",
+      "post_time": "Sat Feb 15 20:19:24 +0000 2025",
+      "user_id": "16922792",
+      "post_url": "https://x.com/TheWorldNews/status/1890858469311582702",
       "is_quote": true,
       "is_retweet": false,
       "source_id": "1890673021376950749",
@@ -16,16 +16,16 @@
       "retweet_count": 0
     },
     "user": {
-      "user_id": "1638784863913545728",
-      "name": "\u9f50\u6728(qimu.ai)",
-      "user_name": "qimuai",
-      "user_description": "\u9f50\u6728AI\uff0c\u5e2e\u666e\u901a\u4eba\u7528\u4e0aAI\uff0c\u7528\u597dAI\uff0cAI for Everyone\uff0cBuild in Public #qimuai \u5b98\u7f51\uff1ahttps://t.co/qh5Z3lrT04  \u53d1\u5728GitHub\u4e0a\u7684AI\u5f00\u6e90\u9879\u76ee\uff1ahttps://t.co/aYQWiXWg11",
-      "created_at": "Thu Mar 23 06:09:04 +0000 2023",
-      "user_url": "https://x.com/qimuai",
-      "followers_count": 45,
-      "following_count": 588,
-      "previous_post_count": 804,
-      "location": "Shenzhen"
+      "user_id": "16922792",
+      "name": "AI World News\ud83e\udd16\ud83d\udc95",
+      "user_name": "TheWorldNews",
+      "user_description": "The first rule of AI club is, We Don't Talk About AI Club! The second rule of AI Club is...... by @_Christopher_",
+      "created_at": "Thu Oct 23 08:35:36 +0000 2008",
+      "user_url": "https://x.com/TheWorldNews",
+      "followers_count": 56067,
+      "following_count": 10188,
+      "previous_post_count": 208047,
+      "location": "Klamath Falls, OR"
     },
     "source_tweet": {
       "tweet": {
@@ -50,7 +50,7 @@
         "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
         "created_at": "Thu Apr 08 05:16:30 +0000 2010",
         "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
+        "followers_count": 497888,
         "following_count": 1133,
         "previous_post_count": 2703,
         "location": "Stanford, CA, U.S.A."
@@ -109,7 +109,7 @@
         "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
         "created_at": "Thu Apr 08 05:16:30 +0000 2010",
         "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
+        "followers_count": 497888,
         "following_count": 1133,
         "previous_post_count": 2703,
         "location": "Stanford, CA, U.S.A."
@@ -119,11 +119,11 @@
   },
   {
     "tweet": {
-      "post_id": "1890858469311582702",
-      "content": "The Ivory Tower or The Ivory Cage? \ud83c\udff0\ud83d\udd12\n\nUniversities claim to be temples of free thought, but they're turning into prisons of the mind. \ud83e\udde0\ud83d\udea8\n\nInstead of exploring ideas, they're enforcing them. Debate is dead, and dissent is dangerous. \u26b0\ufe0f\ud83d\udeab\n\nThe hallowed halls of academia have",
-      "post_time": "Sat Feb 15 20:19:24 +0000 2025",
-      "user_id": "16922792",
-      "post_url": "https://x.com/TheWorldNews/status/1890858469311582702",
+      "post_id": "1890719506407870488",
+      "content": "\u65af\u5766\u798f\u5927\u5b66\u524d\u6559\u52a1\u957f\u3001\u65af\u5766\u798fHAI\u8054\u5408\u4e3b\u4efb\uff0c\u7f8e\u56fd\u9ad8\u7b49\u6559\u80b2\u754c\u6700\u5177\u6df1\u5ea6\u7684\u9886\u5bfc\u8005\u4e4b\u4e00\u2014\u2014John Etchemendy \u6559\u6388\uff0c\u6700\u8fd1\u53d1\u8868\u4e86\u4e00\u756a\u6781\u5177\u524d\u77bb\u6027\u7684\u8a00\u8bba\u3002\u8fd9\u4f4d\u8001\u670b\u53cb\u7684\u8bdd\uff0c\u4e0d\u4ec5\u6df1\u523b\uff0c\u8fd8\u5145\u6ee1\u4e86\u8fdc\u89c1\u3002\u4e0d\u5f97\u4e0d\u8bf4\uff0c\u4ed6\u7684\u6d1e\u5bdf\u529b\u603b\u662f\u8ba9\u4eba\u60ca\u53f9\uff01",
+      "post_time": "Sat Feb 15 11:07:12 +0000 2025",
+      "user_id": "1638784863913545728",
+      "post_url": "https://x.com/qimuai/status/1890719506407870488",
       "is_quote": true,
       "is_retweet": false,
       "source_id": "1890673021376950749",
@@ -134,16 +134,16 @@
       "retweet_count": 0
     },
     "user": {
-      "user_id": "16922792",
-      "name": "AI World News\ud83e\udd16\ud83d\udc95",
-      "user_name": "TheWorldNews",
-      "user_description": "The first rule of AI club is, We Don't Talk About AI Club! The second rule of AI Club is...... by @_Christopher_",
-      "created_at": "Thu Oct 23 08:35:36 +0000 2008",
-      "user_url": "https://x.com/TheWorldNews",
-      "followers_count": 56068,
-      "following_count": 10188,
-      "previous_post_count": 208047,
-      "location": "Klamath Falls, OR"
+      "user_id": "1638784863913545728",
+      "name": "\u9f50\u6728(qimu.ai)",
+      "user_name": "qimuai",
+      "user_description": "\u9f50\u6728AI\uff0c\u5e2e\u666e\u901a\u4eba\u7528\u4e0aAI\uff0c\u7528\u597dAI\uff0cAI for Everyone\uff0cBuild in Public #qimuai \u5b98\u7f51\uff1ahttps://t.co/qh5Z3lrT04  \u53d1\u5728GitHub\u4e0a\u7684AI\u5f00\u6e90\u9879\u76ee\uff1ahttps://t.co/aYQWiXWg11",
+      "created_at": "Thu Mar 23 06:09:04 +0000 2023",
+      "user_url": "https://x.com/qimuai",
+      "followers_count": 45,
+      "following_count": 588,
+      "previous_post_count": 804,
+      "location": "Shenzhen"
     },
     "source_tweet": {
       "tweet": {
@@ -168,125 +168,7 @@
         "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
         "created_at": "Thu Apr 08 05:16:30 +0000 2010",
         "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
-        "following_count": 1133,
-        "previous_post_count": 2703,
-        "location": "Stanford, CA, U.S.A."
-      },
-      "source_tweet": null
-    }
-  },
-  {
-    "tweet": {
-      "post_id": "1890984796802715989",
-      "content": "Universities would have been much better off if more faculty (myself included) listened to these words in 2017.",
-      "post_time": "Sun Feb 16 04:41:23 +0000 2025",
-      "user_id": "1217628182611927040",
-      "post_url": "https://x.com/boazbaraktcs/status/1890984796802715989",
-      "is_quote": true,
-      "is_retweet": false,
-      "source_id": "1890673021376950749",
-      "like_count": 88,
-      "bookmark_count": 38,
-      "reply_count": 5,
-      "quote_count": 0,
-      "retweet_count": 6
-    },
-    "user": {
-      "user_id": "1217628182611927040",
-      "name": "Boaz Barak",
-      "user_name": "boazbaraktcs",
-      "user_description": "Computer Scientist. See also https://t.co/EXWR5k634w .\n@harvard @openai opinions my own.",
-      "created_at": "Thu Jan 16 02:02:55 +0000 2020",
-      "user_url": "https://x.com/boazbaraktcs",
-      "followers_count": 19990,
-      "following_count": 507,
-      "previous_post_count": 7802,
-      "location": "Cambridge, MA"
-    },
-    "source_tweet": {
-      "tweet": {
-        "post_id": "1890673021376950749",
-        "content": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
-        "post_time": "Sat Feb 15 08:02:29 +0000 2025",
-        "user_id": "130745589",
-        "post_url": "https://x.com/drfeifei/status/1890673021376950749",
-        "is_quote": false,
-        "is_retweet": false,
-        "source_id": null,
-        "like_count": 273,
-        "bookmark_count": 121,
-        "reply_count": 13,
-        "quote_count": 9,
-        "retweet_count": 55
-      },
-      "user": {
-        "user_id": "130745589",
-        "name": "Fei-Fei Li",
-        "user_name": "drfeifei",
-        "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
-        "created_at": "Thu Apr 08 05:16:30 +0000 2010",
-        "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
-        "following_count": 1133,
-        "previous_post_count": 2703,
-        "location": "Stanford, CA, U.S.A."
-      },
-      "source_tweet": null
-    }
-  },
-  {
-    "tweet": {
-      "post_id": "1890796293007487273",
-      "content": "\"Taxing endowments would limit the support we can give to faculty and the services we can provide our students\"\n\n\ud83d\ude44\ud83d\ude44\ud83d\ude44",
-      "post_time": "Sat Feb 15 16:12:20 +0000 2025",
-      "user_id": "4216965372",
-      "post_url": "https://x.com/cogscikid/status/1890796293007487273",
-      "is_quote": true,
-      "is_retweet": false,
-      "source_id": "1890673021376950749",
-      "like_count": 1,
-      "bookmark_count": 0,
-      "reply_count": 0,
-      "quote_count": 0,
-      "retweet_count": 0
-    },
-    "user": {
-      "user_id": "4216965372",
-      "name": "Wilka Carvalho",
-      "user_name": "cogscikid",
-      "user_description": "@KempnerInst research fellow @Harvard interesting in scaling up (deep) reinforcement learning models of human cognition\n\nprev: deepmind, umich, msr",
-      "created_at": "Thu Nov 12 22:40:45 +0000 2015",
-      "user_url": "https://x.com/cogscikid",
-      "followers_count": 1254,
-      "following_count": 819,
-      "previous_post_count": 2640,
-      "location": "Cambridge, MA"
-    },
-    "source_tweet": {
-      "tweet": {
-        "post_id": "1890673021376950749",
-        "content": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
-        "post_time": "Sat Feb 15 08:02:29 +0000 2025",
-        "user_id": "130745589",
-        "post_url": "https://x.com/drfeifei/status/1890673021376950749",
-        "is_quote": false,
-        "is_retweet": false,
-        "source_id": null,
-        "like_count": 273,
-        "bookmark_count": 121,
-        "reply_count": 13,
-        "quote_count": 9,
-        "retweet_count": 55
-      },
-      "user": {
-        "user_id": "130745589",
-        "name": "Fei-Fei Li",
-        "user_name": "drfeifei",
-        "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
-        "created_at": "Thu Apr 08 05:16:30 +0000 2010",
-        "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
+        "followers_count": 497888,
         "following_count": 1133,
         "previous_post_count": 2703,
         "location": "Stanford, CA, U.S.A."
@@ -345,7 +227,125 @@
         "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
         "created_at": "Thu Apr 08 05:16:30 +0000 2010",
         "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
+        "followers_count": 497888,
+        "following_count": 1133,
+        "previous_post_count": 2703,
+        "location": "Stanford, CA, U.S.A."
+      },
+      "source_tweet": null
+    }
+  },
+  {
+    "tweet": {
+      "post_id": "1890984796802715989",
+      "content": "Universities would have been much better off if more faculty (myself included) listened to these words in 2017.",
+      "post_time": "Sun Feb 16 04:41:23 +0000 2025",
+      "user_id": "1217628182611927040",
+      "post_url": "https://x.com/boazbaraktcs/status/1890984796802715989",
+      "is_quote": true,
+      "is_retweet": false,
+      "source_id": "1890673021376950749",
+      "like_count": 88,
+      "bookmark_count": 38,
+      "reply_count": 5,
+      "quote_count": 0,
+      "retweet_count": 6
+    },
+    "user": {
+      "user_id": "1217628182611927040",
+      "name": "Boaz Barak",
+      "user_name": "boazbaraktcs",
+      "user_description": "Computer Scientist. See also https://t.co/EXWR5k634w .\n@harvard @openai opinions my own.",
+      "created_at": "Thu Jan 16 02:02:55 +0000 2020",
+      "user_url": "https://x.com/boazbaraktcs",
+      "followers_count": 19990,
+      "following_count": 507,
+      "previous_post_count": 7802,
+      "location": "Cambridge, MA"
+    },
+    "source_tweet": {
+      "tweet": {
+        "post_id": "1890673021376950749",
+        "content": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
+        "post_time": "Sat Feb 15 08:02:29 +0000 2025",
+        "user_id": "130745589",
+        "post_url": "https://x.com/drfeifei/status/1890673021376950749",
+        "is_quote": false,
+        "is_retweet": false,
+        "source_id": null,
+        "like_count": 273,
+        "bookmark_count": 121,
+        "reply_count": 13,
+        "quote_count": 9,
+        "retweet_count": 55
+      },
+      "user": {
+        "user_id": "130745589",
+        "name": "Fei-Fei Li",
+        "user_name": "drfeifei",
+        "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
+        "created_at": "Thu Apr 08 05:16:30 +0000 2010",
+        "user_url": "https://x.com/drfeifei",
+        "followers_count": 497888,
+        "following_count": 1133,
+        "previous_post_count": 2703,
+        "location": "Stanford, CA, U.S.A."
+      },
+      "source_tweet": null
+    }
+  },
+  {
+    "tweet": {
+      "post_id": "1890796293007487273",
+      "content": "\"Taxing endowments would limit the support we can give to faculty and the services we can provide our students\"\n\n\ud83d\ude44\ud83d\ude44\ud83d\ude44",
+      "post_time": "Sat Feb 15 16:12:20 +0000 2025",
+      "user_id": "4216965372",
+      "post_url": "https://x.com/cogscikid/status/1890796293007487273",
+      "is_quote": true,
+      "is_retweet": false,
+      "source_id": "1890673021376950749",
+      "like_count": 1,
+      "bookmark_count": 0,
+      "reply_count": 0,
+      "quote_count": 0,
+      "retweet_count": 0
+    },
+    "user": {
+      "user_id": "4216965372",
+      "name": "Wilka Carvalho",
+      "user_name": "cogscikid",
+      "user_description": "@KempnerInst research fellow @Harvard interesting in scaling up (deep) reinforcement learning models of human cognition\n\nprev: deepmind, umich, msr",
+      "created_at": "Thu Nov 12 22:40:45 +0000 2015",
+      "user_url": "https://x.com/cogscikid",
+      "followers_count": 1254,
+      "following_count": 819,
+      "previous_post_count": 2640,
+      "location": "Cambridge, MA"
+    },
+    "source_tweet": {
+      "tweet": {
+        "post_id": "1890673021376950749",
+        "content": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
+        "post_time": "Sat Feb 15 08:02:29 +0000 2025",
+        "user_id": "130745589",
+        "post_url": "https://x.com/drfeifei/status/1890673021376950749",
+        "is_quote": false,
+        "is_retweet": false,
+        "source_id": null,
+        "like_count": 273,
+        "bookmark_count": 121,
+        "reply_count": 13,
+        "quote_count": 9,
+        "retweet_count": 55
+      },
+      "user": {
+        "user_id": "130745589",
+        "name": "Fei-Fei Li",
+        "user_name": "drfeifei",
+        "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
+        "created_at": "Thu Apr 08 05:16:30 +0000 2010",
+        "user_url": "https://x.com/drfeifei",
+        "followers_count": 497888,
         "following_count": 1133,
         "previous_post_count": 2703,
         "location": "Stanford, CA, U.S.A."
@@ -404,7 +404,7 @@
         "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
         "created_at": "Thu Apr 08 05:16:30 +0000 2010",
         "user_url": "https://x.com/drfeifei",
-        "followers_count": 497881,
+        "followers_count": 497888,
         "following_count": 1133,
         "previous_post_count": 2703,
         "location": "Stanford, CA, U.S.A."

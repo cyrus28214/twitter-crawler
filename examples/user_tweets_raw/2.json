@@ -10,7 +10,7 @@
                 "type": "TimelinePinEntry",
                 "entry": {
                   "entryId": "tweet-1411849160442007553",
-                  "sortIndex": "1892137283218309105",
+                  "sortIndex": "1892143865620604689",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -387,22 +387,22 @@
                 "type": "TimelineAddEntries",
                 "entries": [
                   {
-                    "entryId": "cursor-top-1892137283218309106",
-                    "sortIndex": "1892137283218309106",
+                    "entryId": "cursor-top-1892143865620604690",
+                    "sortIndex": "1892143865620604690",
                     "content": {
                       "entryType": "TimelineTimelineCursor",
                       "__typename": "TimelineTimelineCursor",
-                      "value": "DAABCgABGkI41YiAJwIKAAIQbXzqTpbABAgAAwAAAAEAAA",
+                      "value": "DAABCgABGkI-0h5ATiIKAAISVW1hW9TQAAgAAwAAAAEAAA",
                       "cursorType": "Top"
                     }
                   },
                   {
-                    "entryId": "cursor-bottom-1892137283218309104",
-                    "sortIndex": "1892137283218309104",
+                    "entryId": "cursor-bottom-1892143865620604688",
+                    "sortIndex": "1892143865620604688",
                     "content": {
                       "entryType": "TimelineTimelineCursor",
                       "__typename": "TimelineTimelineCursor",
-                      "value": "DAABCgABGkI41Yh__-4KAAIQbXzqTpbABAgAAwAAAAIAAA",
+                      "value": "DAABCgABGkI-0h5AJw4KAAISVW1hW9TQAAgAAwAAAAIAAA",
                       "cursorType": "Bottom"
                     }
                   }

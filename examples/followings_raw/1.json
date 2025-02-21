@@ -1,0 +1,3165 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineClearCache"
+              },
+              {
+                "type": "TimelineTerminateTimeline",
+                "direction": "Top"
+              },
+              {
+                "type": "TimelineTerminateTimeline",
+                "direction": "Bottom"
+              },
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-1321037994560815104",
+                    "sortIndex": "1892143858494472192",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzIxMDM3OTk0NTYwODE1MTA0",
+                            "rest_id": "1321037994560815104",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Oct 27 10:36:35 +0000 2020",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Eurographics Conference on Visualization",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "eurovis.org",
+                                      "expanded_url": "https://www.eurovis.org",
+                                      "url": "https://t.co/PXYkR4vej9",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 113,
+                              "followers_count": 1065,
+                              "friends_count": 4,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "Odense, Denmark",
+                              "media_count": 199,
+                              "name": "EuroVis",
+                              "normal_followers_count": 1065,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321037994560815104/1694777464",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702646202876006400/OevvmBvP_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "EuroVisConf",
+                              "statuses_count": 293,
+                              "translator_type": "none",
+                              "url": "https://t.co/PXYkR4vej9",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-762093631",
+                    "sortIndex": "1892143858494472191",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3NjIwOTM2MzE=",
+                            "rest_id": "762093631",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Thu Aug 16 18:37:37 +0000 2012",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Official account for ACM SIGCHI Conference: CHI #CHI2025 is in Yokohama, Japan\ud83c\udf38 April 26 - May 1 Content managed by Social Media Chairs.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "chi2025.acm.org",
+                                      "expanded_url": "https://chi2025.acm.org/",
+                                      "url": "https://t.co/CmQcKZkOWD",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1481,
+                              "followers_count": 17753,
+                              "friends_count": 100,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 255,
+                              "location": "Yokohama, Japan",
+                              "media_count": 761,
+                              "name": "ACM CHI Conference",
+                              "normal_followers_count": 17753,
+                              "pinned_tweet_ids_str": [
+                                "1789801346360553896"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/762093631/1720458852",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1810361747204976641/LR2kvDnI_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "acm_chi",
+                              "statuses_count": 4867,
+                              "translator_type": "none",
+                              "url": "https://t.co/CmQcKZkOWD",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-756341456663568384",
+                    "sortIndex": "1892143858494472190",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3NTYzNDE0NTY2NjM1NjgzODQ=",
+                            "rest_id": "756341456663568384",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Jul 22 04:13:50 +0000 2016",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "The 15th IEEE Pacific Visualization Symposium (PacificVis 2022) will be held in Tsukuba, Japan during April 11 to 14, 2022",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "pvis.org",
+                                      "expanded_url": "http://pvis.org/",
+                                      "url": "https://t.co/RiMJ9Scvoc",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 5,
+                              "followers_count": 206,
+                              "friends_count": 32,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 5,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "PacificVis",
+                              "normal_followers_count": 206,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/756341456663568384/1635252133",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1452976625478406157/GjGDbBOu_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "PacificVis",
+                              "statuses_count": 24,
+                              "translator_type": "none",
+                              "url": "https://t.co/RiMJ9Scvoc",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1233850573360914433",
+                    "sortIndex": "1892143858494472189",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMjMzODUwNTczMzYwOTE0NDMz",
+                            "rest_id": "1233850573360914433",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Feb 29 20:24:50 +0000 2020",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Artist/Designer/Curator/Educator working in data art, visualization design, visual music & experimental animation @SyracuseU",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "rebeccaxu.com",
+                                      "expanded_url": "http://rebeccaxu.com",
+                                      "url": "https://t.co/xXwhz97mFV",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 566,
+                              "followers_count": 121,
+                              "friends_count": 323,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 9,
+                              "name": "Rebecca Xu",
+                              "normal_followers_count": 121,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233850573360914433/1583015347",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233850945664114688/m60id0XM_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "rebeccaxu_SU",
+                              "statuses_count": 156,
+                              "translator_type": "none",
+                              "url": "https://t.co/xXwhz97mFV",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1578224595022249990",
+                              "professional_type": "Creator",
+                              "category": [
+                                {
+                                  "id": 1017,
+                                  "name": "Artist",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-2820958871",
+                    "sortIndex": "1892143858494472188",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyODIwOTU4ODcx",
+                            "rest_id": "2820958871",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Fri Oct 10 01:08:58 +0000 2014",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "yxw.is",
+                                      "expanded_url": "http://yxw.is",
+                                      "url": "https://t.co/iYSrYcrzn3",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 41,
+                              "friends_count": 250,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "\u9999\u6e2f",
+                              "media_count": 0,
+                              "name": "Xuanwu",
+                              "normal_followers_count": 41,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2820958871/1478669806",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240210862163365892/RQHZhtdG_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "VluxYue",
+                              "statuses_count": 13,
+                              "translator_type": "none",
+                              "url": "https://t.co/iYSrYcrzn3",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1138314485750386688",
+                    "sortIndex": "1892143858494472187",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMTM4MzE0NDg1NzUwMzg2Njg4",
+                            "rest_id": "1138314485750386688",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": false,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Jun 11 05:18:17 +0000 2019",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Postdoc @crest_uofa\nI am interested in Info Viz, graph drawing, eye tracking and HCI; enjoys agile software development, sunshine, green hands, and gardening!",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "kun-ting.github.io",
+                                      "expanded_url": "https://kun-ting.github.io/",
+                                      "url": "https://t.co/GfgahNjPa3",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1384,
+                              "followers_count": 431,
+                              "friends_count": 663,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "location": "Adelaide, Australia",
+                              "media_count": 47,
+                              "name": "kun-ting chen",
+                              "normal_followers_count": 431,
+                              "pinned_tweet_ids_str": [
+                                "1650959314826440704"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1138314485750386688/1664114811",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142764790508470274/GU2OilAz_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "kuntingchen1",
+                              "statuses_count": 309,
+                              "translator_type": "none",
+                              "url": "https://t.co/GfgahNjPa3",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-39046301",
+                    "sortIndex": "1892143858494472186",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozOTA0NjMwMQ==",
+                            "rest_id": "39046301",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Sun May 10 13:33:10 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Research Scientist @meta | Ph.D. from @hkust |\nRecommendation Systems, Graph Learning, Visual Analytics",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "yhwu.me",
+                                      "expanded_url": "http://yhwu.me",
+                                      "url": "https://t.co/Z0ofKtop5x",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1497,
+                              "followers_count": 339,
+                              "friends_count": 626,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 7,
+                              "location": "Palo Alto, CA",
+                              "media_count": 34,
+                              "name": "Yanhong Wu",
+                              "normal_followers_count": 339,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1517658767/w_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "yhwu_",
+                              "statuses_count": 1879,
+                              "translator_type": "none",
+                              "url": "https://t.co/Z0ofKtop5x",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1489157754937765890",
+                              "professional_type": "Creator",
+                              "category": [
+                                {
+                                  "id": 713,
+                                  "name": "Science & Technology",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-713610511338700801",
+                    "sortIndex": "1892143858494472185",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo3MTM2MTA1MTEzMzg3MDA4MDE=",
+                            "rest_id": "713610511338700801",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Sat Mar 26 06:16:18 +0000 2016",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Visualization @ Peking University.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "vis.pku.edu.cn/wiki/",
+                                      "expanded_url": "http://vis.pku.edu.cn/wiki/",
+                                      "url": "https://t.co/YT18SqK5YE",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 360,
+                              "followers_count": 254,
+                              "friends_count": 501,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "\u5317\u4eac, \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+                              "media_count": 63,
+                              "name": "Xiaoru Yuan",
+                              "normal_followers_count": 254,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/713610511338700801/1526829534",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1005297768913461248/sAYAKX8-_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "XiaoruYuan",
+                              "statuses_count": 286,
+                              "translator_type": "none",
+                              "url": "https://t.co/YT18SqK5YE",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-3333650674",
+                    "sortIndex": "1892143858494472184",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozMzMzNjUwNjc0",
+                            "rest_id": "3333650674",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Thu Jun 18 23:02:54 +0000 2015",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Full-sack engineer. PhD in Data viz & analytic.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "paolavaldivia.github.io",
+                                      "expanded_url": "https://paolavaldivia.github.io/",
+                                      "url": "https://t.co/JjxJDZBNLf",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 5036,
+                              "followers_count": 144,
+                              "friends_count": 1300,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "location": "",
+                              "media_count": 5,
+                              "name": "Paola",
+                              "normal_followers_count": 144,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3333650674/1590697049",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1773681866509287424/GgcQjQ47_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "_pvaldivia",
+                              "statuses_count": 127,
+                              "translator_type": "none",
+                              "url": "https://t.co/JjxJDZBNLf",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1085065907116756992",
+                    "sortIndex": "1892143858494472183",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDg1MDY1OTA3MTE2NzU2OTky",
+                            "rest_id": "1085065907116756992",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Jan 15 06:47:26 +0000 2019",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Postdoc at University of Edinburgh. Research interest: information visualization, data-driven storytelling",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "shuxinhuan.github.com",
+                                      "expanded_url": "http://shuxinhuan.github.com",
+                                      "url": "https://t.co/89hMQH2hDQ",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 78,
+                              "followers_count": 135,
+                              "friends_count": 94,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "Edinburgh, Scotland",
+                              "media_count": 4,
+                              "name": "Xinhuan Shu",
+                              "normal_followers_count": 135,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1728174976803500032/ThZoN_OC_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "shuxinhuan",
+                              "statuses_count": 39,
+                              "translator_type": "none",
+                              "url": "https://t.co/89hMQH2hDQ",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1318058659151147009",
+                    "sortIndex": "1892143858494472182",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzE4MDU4NjU5MTUxMTQ3MDA5",
+                            "rest_id": "1318058659151147009",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Oct 19 05:17:38 +0000 2020",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Ph.D. Student, Interactive Data Group, Department of Sports, ZJU",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 40,
+                              "followers_count": 23,
+                              "friends_count": 59,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "Hangzhou, China",
+                              "media_count": 1,
+                              "name": "Xiangtong Chu",
+                              "normal_followers_count": 23,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1717475225783398400/BHlHZh_F_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "XiangtongC",
+                              "statuses_count": 7,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-46310367",
+                    "sortIndex": "1892143858494472181",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NjMxMDM2Nw==",
+                            "rest_id": "46310367",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": true,
+                              "can_media_tag": true,
+                              "created_at": "Thu Jun 11 04:05:46 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Prof@UWaterloo - Design, code & research; Make your data live!",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "jeffjianzhao.com",
+                                      "expanded_url": "https://www.jeffjianzhao.com/",
+                                      "url": "https://t.co/nZWvdbsWW2",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1341,
+                              "followers_count": 1046,
+                              "friends_count": 522,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 17,
+                              "location": "Waterloo, ON",
+                              "media_count": 46,
+                              "name": "Jian Zhao",
+                              "normal_followers_count": 1046,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/46310367/1372655464",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145852214902063104/ccHqf-7i_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "jeffjianzhao",
+                              "statuses_count": 427,
+                              "translator_type": "none",
+                              "url": "https://t.co/nZWvdbsWW2",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-582161546",
+                    "sortIndex": "1892143858494472180",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo1ODIxNjE1NDY=",
+                            "rest_id": "582161546",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed May 16 21:01:30 +0000 2012",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Network & Data Science, Computational Epidemiology, Complex Systems",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "mobs-lab.org",
+                                      "expanded_url": "http://www.mobs-lab.org/",
+                                      "url": "https://t.co/tEDMkjCtj2",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 4427,
+                              "followers_count": 28576,
+                              "friends_count": 1350,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 848,
+                              "location": "@northeastern ",
+                              "media_count": 2471,
+                              "name": "Alessandro  Vespignani",
+                              "normal_followers_count": 28576,
+                              "pinned_tweet_ids_str": [
+                                "1576589367707328512"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/582161546/1377805359",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/2224404104/6813_h_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "alexvespi",
+                              "statuses_count": 12336,
+                              "translator_type": "none",
+                              "url": "https://t.co/tEDMkjCtj2",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-42395384",
+                    "sortIndex": "1892143858494472179",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MjM5NTM4NA==",
+                            "rest_id": "42395384",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon May 25 12:17:37 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Machine Learning and Data Visualization - Opinions are My Own",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "lliquid.github.io/homepage/",
+                                      "expanded_url": "http://lliquid.github.io/homepage/",
+                                      "url": "https://t.co/QnFThtNWtH",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 248,
+                              "followers_count": 203,
+                              "friends_count": 379,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 3,
+                              "location": "Sunnyvale, CA",
+                              "media_count": 1,
+                              "name": "Panpan Xu",
+                              "normal_followers_count": 203,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280906109268590592/dFG_4Gp1_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "panpan_xu",
+                              "statuses_count": 91,
+                              "translator_type": "none",
+                              "url": "https://t.co/QnFThtNWtH",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-167377279",
+                    "sortIndex": "1892143858494472178",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNjczNzcyNzk=",
+                            "rest_id": "167377279",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Jul 16 12:41:25 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "PhD @NYUTandon | Research Scientist @AdobeResearch | Visualization | Data Management",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "gromitchan.com",
+                                      "expanded_url": "http://gromitchan.com",
+                                      "url": "https://t.co/5c7mPNsw2p",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1970,
+                              "followers_count": 377,
+                              "friends_count": 474,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 3,
+                              "location": "Hong Kong and California",
+                              "media_count": 42,
+                              "name": "Gromit Chan \ud83c\udded\ud83c\uddf0",
+                              "normal_followers_count": 377,
+                              "pinned_tweet_ids_str": [
+                                "1773170845378125968"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/167377279/1728112963",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1500989294449623041/eLbOD1WK_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "GromitC",
+                              "statuses_count": 472,
+                              "translator_type": "none",
+                              "url": "https://t.co/5c7mPNsw2p",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-2470709743",
+                    "sortIndex": "1892143858494472177",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyNDcwNzA5NzQz",
+                            "rest_id": "2470709743",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Apr 30 11:11:22 +0000 2014",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Professor of Data Visualisation and Immersive Analytics at Monash University, Australia",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 118,
+                              "followers_count": 873,
+                              "friends_count": 79,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 38,
+                              "location": "",
+                              "media_count": 12,
+                              "name": "Tim Dwyer",
+                              "normal_followers_count": 873,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/461466646117224448/L9RBHnCl_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "immersivecola",
+                              "statuses_count": 78,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-914595004995293184",
+                    "sortIndex": "1892143858494472176",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5MTQ1OTUwMDQ5OTUyOTMxODQ=",
+                            "rest_id": "914595004995293184",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sun Oct 01 20:56:56 +0000 2017",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "akiori.github.io",
+                                      "expanded_url": "http://akiori.github.io",
+                                      "url": "https://t.co/fa51AgfRS0",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 559,
+                              "followers_count": 57,
+                              "friends_count": 349,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "location": "Hangzhou, China",
+                              "media_count": 7,
+                              "name": "Junhua_Lu",
+                              "normal_followers_count": 57,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914595004995293184/1507067925",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/915335984677605381/meR-lvmQ_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "meta_fluid_",
+                              "statuses_count": 338,
+                              "translator_type": "none",
+                              "url": "https://t.co/fa51AgfRS0",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1185520148502974464",
+                    "sortIndex": "1892143858494472175",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMTg1NTIwMTQ4NTAyOTc0NDY0",
+                            "rest_id": "1185520148502974464",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Oct 19 11:37:12 +0000 2019",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 51,
+                              "followers_count": 50,
+                              "friends_count": 151,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 6,
+                              "name": "JunxiuTANG",
+                              "normal_followers_count": 50,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1185520148502974464/1571485649",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185522598135959553/6lBXUqM2_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "JunxiuT",
+                              "statuses_count": 27,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1085968994836856832",
+                    "sortIndex": "1892143858494472174",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDg1OTY4OTk0ODM2ODU2ODMy",
+                            "rest_id": "1085968994836856832",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Jan 17 18:35:59 +0000 2019",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Director Technology Marketing - Cordes Research\nhttps://t.co/ueSClLVUwn\u2026\n\n|| #Technology || #Robotics || #Drones || #Gadgets || #DigitalMarketing ||",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "linkedin.com/in/lukas-schmi",
+                                      "expanded_url": "http://linkedin.com/in/lukas-schmi",
+                                      "url": "https://t.co/ueSClLVUwn",
+                                      "indices": [
+                                        48,
+                                        71
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 131,
+                              "followers_count": 1144,
+                              "friends_count": 1371,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 8,
+                              "location": "Amsterdam, The Netherlands",
+                              "media_count": 52,
+                              "name": "Lukas Schmitz",
+                              "normal_followers_count": 1144,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085968994836856832/1595698425",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287078593907044358/a5LcALwi_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "RobotLukas",
+                              "statuses_count": 649,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-860151258987905025",
+                    "sortIndex": "1892143858494472173",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo4NjAxNTEyNTg5ODc5MDUwMjU=",
+                            "rest_id": "860151258987905025",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu May 04 15:16:55 +0000 2017",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Post-Doctoral Fellow @KelloggCSSI in Northwestern. Ph.D. of CSE @VisLab_HKUST. Visual Analytics + AI + Computational Social Science, Data Art.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "wangyifang.top",
+                                      "expanded_url": "http://wangyifang.top",
+                                      "url": "https://t.co/xpHFUeKJR8",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 762,
+                              "followers_count": 351,
+                              "friends_count": 868,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "Evanston",
+                              "media_count": 25,
+                              "name": "Yifang WANG",
+                              "normal_followers_count": 351,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/860151258987905025/1721622016",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1876136407577567232/39cY94uc_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "yifanginhz",
+                              "statuses_count": 68,
+                              "translator_type": "none",
+                              "url": "https://t.co/xpHFUeKJR8",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-4519201191",
+                    "sortIndex": "1892143858494472172",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0NTE5MjAxMTkx",
+                            "rest_id": "4519201191",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": true,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Dec 18 00:37:11 +0000 2015",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Ph.D. student at MPI Informatics @VcaiMpi | Human Digitalization & 3D Reconstruction",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "kv2000.github.io",
+                                      "expanded_url": "https://kv2000.github.io/",
+                                      "url": "https://t.co/xSDWragEgH",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 740,
+                              "followers_count": 387,
+                              "friends_count": 912,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 7,
+                              "location": "",
+                              "media_count": 5,
+                              "name": "Heming Zhu",
+                              "normal_followers_count": 387,
+                              "pinned_tweet_ids_str": [
+                                "1863729413319430154"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052829316248088577/S0Rs6mpL_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "wootwootwo",
+                              "statuses_count": 143,
+                              "translator_type": "none",
+                              "url": "https://t.co/xSDWragEgH",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-3218904444",
+                    "sortIndex": "1892143858494472171",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjozMjE4OTA0NDQ0",
+                            "rest_id": "3218904444",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": false,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon May 18 04:42:22 +0000 2015",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Assistant Professor @NTUsg. Previously Assistant Professor @sgSMU @smu_hci. #dataviz #visualization #HCI",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "yong-wang.org",
+                                      "expanded_url": "http://yong-wang.org/",
+                                      "url": "https://t.co/ApV4n5PgMi",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 251,
+                              "followers_count": 256,
+                              "friends_count": 378,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 2,
+                              "location": "Singapore",
+                              "media_count": 16,
+                              "name": "Yong WANG@NTU",
+                              "normal_followers_count": 256,
+                              "pinned_tweet_ids_str": [
+                                "1851681992200634384"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324746082270679042/sxLTHV59_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "jiayouwyhit",
+                              "statuses_count": 112,
+                              "translator_type": "none",
+                              "url": "https://t.co/ApV4n5PgMi",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-999272680451801089",
+                    "sortIndex": "1892143858494472170",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5OTkyNzI2ODA0NTE4MDEwODk=",
+                            "rest_id": "999272680451801089",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Wed May 23 12:55:47 +0000 2018",
+                              "default_profile": true,
+                              "default_profile_image": true,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1,
+                              "followers_count": 11,
+                              "friends_count": 45,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "Jiahui Chen",
+                              "normal_followers_count": 11,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "jhchen233",
+                              "statuses_count": 5,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1005317026481500160",
+                    "sortIndex": "1892143858494472169",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDA1MzE3MDI2NDgxNTAwMTYw",
+                            "rest_id": "1005317026481500160",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Jun 09 05:13:51 +0000 2018",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "PhD candidate @HKUST",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "cbzheng.link",
+                                      "expanded_url": "http://cbzheng.link",
+                                      "url": "https://t.co/qchVgCahZ6",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 637,
+                              "followers_count": 93,
+                              "friends_count": 561,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "location": "Hong Kong",
+                              "media_count": 0,
+                              "name": "Chengbo Zheng",
+                              "normal_followers_count": 93,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005317026481500160/1716698495",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1794589668086108160/mKiLKbr__normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "chengbo_zheng",
+                              "statuses_count": 20,
+                              "translator_type": "none",
+                              "url": "https://t.co/qchVgCahZ6",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-2690419092",
+                    "sortIndex": "1892143858494472168",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoyNjkwNDE5MDky",
+                            "rest_id": "2690419092",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Tue Jul 29 15:58:34 +0000 2014",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "CS Ph.D. candidate in NYU, Photographer & Nikon Fan.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "gdwu.xyz",
+                                      "expanded_url": "http://gdwu.xyz",
+                                      "url": "https://t.co/2x9rtKzh8G",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1248,
+                              "followers_count": 91,
+                              "friends_count": 728,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 1,
+                              "location": "NJ, US",
+                              "media_count": 12,
+                              "name": "Guande Wu",
+                              "normal_followers_count": 91,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/815270416621023232/M5mh-AbT_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "wu_gunned",
+                              "statuses_count": 85,
+                              "translator_type": "none",
+                              "url": "https://t.co/2x9rtKzh8G",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-981440818627129345",
+                    "sortIndex": "1892143858494472167",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5ODE0NDA4MTg2MjcxMjkzNDU=",
+                            "rest_id": "981440818627129345",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Apr 04 07:58:20 +0000 2018",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "The premier datavis art exhibition for the vis community. October 14\u201317, 2024 Tradewinds Island Grand Beach Resort St Pete Beach, Florida #VISAP2024",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "visap.net",
+                                      "expanded_url": "http://visap.net/",
+                                      "url": "https://t.co/7kojTQOfz5",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 308,
+                              "followers_count": 853,
+                              "friends_count": 784,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 18,
+                              "location": "St Pete Beach, Florida",
+                              "media_count": 135,
+                              "name": "IEEE VIS Arts Program",
+                              "normal_followers_count": 853,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/981440818627129345/1711490032",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1778378811643514880/g5Glcb-Y_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "visapnet",
+                              "statuses_count": 291,
+                              "translator_type": "none",
+                              "url": "https://t.co/7kojTQOfz5",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1643044162051395584",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 20,
+                                  "name": "Art Gallery",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-50844459",
+                    "sortIndex": "1892143858494472166",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo1MDg0NDQ1OQ==",
+                            "rest_id": "50844459",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "protected": true,
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Fri Jun 26 00:40:15 +0000 2009",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1564,
+                              "followers_count": 24,
+                              "friends_count": 648,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "31.154027,121.796295",
+                              "media_count": 12,
+                              "name": "duijiu",
+                              "normal_followers_count": 24,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026642250590109696/-UoxdNaI_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "duijiu",
+                              "statuses_count": 150,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-13194732",
+                    "sortIndex": "1892143858494472165",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMzE5NDczMg==",
+                            "rest_id": "13194732",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Feb 07 06:37:57 +0000 2008",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Work@tan-y.cn,\nWorked@caiyunapp.com,\nWorked@EinPlus,\nWorked@CreditEase, \nWorked@douban.com,\nWorked@STDYUN.COM, \nWorked@Hyenae, \nStudied CS&EE@BUPT.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "blog.xtao.me",
+                                      "expanded_url": "http://blog.xtao.me",
+                                      "url": "https://t.co/pzBZLfxfym",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 757,
+                              "followers_count": 789,
+                              "friends_count": 2919,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 20,
+                              "location": "CN Beijing",
+                              "media_count": 5,
+                              "name": "XTao",
+                              "normal_followers_count": 789,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/114645249/e1e3accc5e9d9153684daf400f98026c_normal.JPG",
+                              "profile_interstitial_type": "",
+                              "screen_name": "XTao",
+                              "statuses_count": 2202,
+                              "translator_type": "none",
+                              "url": "https://t.co/pzBZLfxfym",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1176678563354824705",
+                    "sortIndex": "1892143858494472164",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMTc2Njc4NTYzMzU0ODI0NzA1",
+                            "rest_id": "1176678563354824705",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Sep 25 02:03:35 +0000 2019",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Visual Analytics Group\nState Key Lab of CAD&CG, Zhejiang University\nChina",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 18,
+                              "friends_count": 9,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "ZJUVAG",
+                              "normal_followers_count": 18,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176678759228788736/0SZJzaPb_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "zjuvag",
+                              "statuses_count": 0,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1025273627816615936",
+                    "sortIndex": "1892143858494472163",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDI1MjczNjI3ODE2NjE1OTM2",
+                            "rest_id": "1025273627816615936",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri Aug 03 06:54:16 +0000 2018",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "PhD Student at Interactive Data Group, Zhejiang University.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "angelacao28.github.io",
+                                      "expanded_url": "https://angelacao28.github.io/",
+                                      "url": "https://t.co/mL5gGrb23Y",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 5,
+                              "followers_count": 15,
+                              "friends_count": 21,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "Anqi Cao",
+                              "normal_followers_count": 15,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025273627816615936/1581561891",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025593166475362304/vK6n8i8h_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "AngelaCao_28",
+                              "statuses_count": 3,
+                              "translator_type": "none",
+                              "url": "https://t.co/mL5gGrb23Y",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1105048991065100288",
+                    "sortIndex": "1892143858494472162",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMTA1MDQ4OTkxMDY1MTAwMjg4",
+                            "rest_id": "1105048991065100288",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Mar 11 10:13:05 +0000 2019",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 9,
+                              "followers_count": 23,
+                              "friends_count": 42,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "Dazhen",
+                              "normal_followers_count": 23,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1838956970184974337/50wwY4pr_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "Dakzen4",
+                              "statuses_count": 4,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-179797676",
+                    "sortIndex": "1892143858494472161",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNzk3OTc2NzY=",
+                            "rest_id": "179797676",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Aug 18 03:47:48 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "The premier forum for visualization advances for academia, government, and industry. We invite you to share your research, insights, and enthusiasm at IEEE VIS",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "ieeevis.org/year/2024/welc\u2026",
+                                      "expanded_url": "https://ieeevis.org/year/2024/welcome",
+                                      "url": "https://t.co/a08WOI97yM",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 368,
+                              "followers_count": 9452,
+                              "friends_count": 76,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 332,
+                              "location": "Vienna, AT",
+                              "media_count": 418,
+                              "name": "IEEE VIS",
+                              "normal_followers_count": 9452,
+                              "pinned_tweet_ids_str": [
+                                "1660340449016713218"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/179797676/1732916728",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1862613874148581376/64wcYSjE_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "ieeevis",
+                              "statuses_count": 2131,
+                              "translator_type": "none",
+                              "url": "https://t.co/a08WOI97yM",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-146559225",
+                    "sortIndex": "1892143858494472160",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNDY1NTkyMjU=",
+                            "rest_id": "146559225",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Fri May 21 19:02:51 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "I am an assistant professor in Zhejiang University. My research mainly includes visual behavior analytics and visual analytics of social media.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "ycwu.org",
+                                      "expanded_url": "http://www.ycwu.org",
+                                      "url": "http://t.co/e7I0UjjZSv",
+                                      "indices": [
+                                        0,
+                                        22
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 48,
+                              "followers_count": 114,
+                              "friends_count": 145,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 2,
+                              "location": "Zhejiang",
+                              "media_count": 4,
+                              "name": "Yingcai Wu",
+                              "normal_followers_count": 114,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/146559225/1416979725",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/651761802141827072/CIYcUybG_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "yc_wu",
+                              "statuses_count": 112,
+                              "translator_type": "none",
+                              "url": "http://t.co/e7I0UjjZSv",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-61124166",
+                    "sortIndex": "1892143858494472159",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo2MTEyNDE2Ng==",
+                            "rest_id": "61124166",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Jul 29 05:37:57 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "CS PhD / Assistant Professor @ Zhejiang University / Data Visualization, Visual Analytics & HCI / Hobbist Photographer https://t.co/FdHoxzXUfj",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "unsplash.com/@skies457",
+                                      "expanded_url": "https://unsplash.com/@skies457",
+                                      "url": "https://t.co/FdHoxzXUfj",
+                                      "indices": [
+                                        119,
+                                        142
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "dwe.ng",
+                                      "expanded_url": "https://dwe.ng",
+                                      "url": "https://t.co/4X6OOxcJ1R",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1334,
+                              "followers_count": 419,
+                              "friends_count": 976,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 2,
+                              "location": "Ningbo, China",
+                              "media_count": 69,
+                              "name": "Di Weng \u7fc1\u837b",
+                              "normal_followers_count": 419,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/61124166/1569662244",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561909872496889856/xhZrY5YB_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "dw_vis",
+                              "statuses_count": 377,
+                              "translator_type": "none",
+                              "url": "https://t.co/4X6OOxcJ1R",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-188046229",
+                    "sortIndex": "1892143858494472158",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxODgwNDYyMjk=",
+                            "rest_id": "188046229",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": false,
+                              "created_at": "Tue Sep 07 20:11:04 +0000 2010",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Academic, Information Visualization, leading VisHub research group https://t.co/9wbalyTKHH, U of Edinburgh",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "vishub.net",
+                                      "expanded_url": "http://vishub.net",
+                                      "url": "https://t.co/9wbalyTKHH",
+                                      "indices": [
+                                        67,
+                                        90
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "benjbach.me",
+                                      "expanded_url": "http://benjbach.me",
+                                      "url": "https://t.co/479P3Yfcr5",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 2375,
+                              "followers_count": 2505,
+                              "friends_count": 968,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 96,
+                              "location": "Edinburgh, Scotland",
+                              "media_count": 213,
+                              "name": "Benjamin Bach",
+                              "normal_followers_count": 2505,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/188046229/1569261976",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103673747549102080/EBjzgFyD_normal.png",
+                              "profile_interstitial_type": "",
+                              "screen_name": "benjbach",
+                              "statuses_count": 2374,
+                              "translator_type": "none",
+                              "url": "https://t.co/479P3Yfcr5",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-96791042",
+                    "sortIndex": "1892143858494472157",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5Njc5MTA0Mg==",
+                            "rest_id": "96791042",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Dec 14 16:24:39 +0000 2009",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Interests include the Internet of Things, Artificial Intelligence, Space Exploration, Environment.... https://t.co/dLuaAheA8r",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "kencraggs.livejournal.com/10438.html",
+                                      "expanded_url": "https://kencraggs.livejournal.com/10438.html",
+                                      "url": "https://t.co/dLuaAheA8r",
+                                      "indices": [
+                                        102,
+                                        125
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "kcraggs.yolasite.com/royalty-slaver\u2026",
+                                      "expanded_url": "http://kcraggs.yolasite.com/royalty-slavery-and-opium.php",
+                                      "url": "https://t.co/uBhDaTmX2m",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1572,
+                              "followers_count": 15636,
+                              "friends_count": 15657,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 399,
+                              "location": "UK",
+                              "media_count": 277,
+                              "name": "Ken Craggs",
+                              "normal_followers_count": 15636,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332654607206637570/7K_v0HTS_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "BetweenMyths",
+                              "statuses_count": 18776,
+                              "translator_type": "none",
+                              "url": "https://t.co/uBhDaTmX2m",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1556132462",
+                    "sortIndex": "1892143858494472156",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNTU2MTMyNDYy",
+                            "rest_id": "1556132462",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sat Jun 29 17:13:09 +0000 2013",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Ginni Rometty Prof @NorthwesternCS | Fellow @IPRatNU | Uncertainty & decisions | Somewhere between theory & practice | Blogger @statmodeling",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "users.eecs.northwestern.edu/~jhullman",
+                                      "expanded_url": "http://users.eecs.northwestern.edu/~jhullman",
+                                      "url": "https://t.co/6RHv7dwQ93",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 7876,
+                              "followers_count": 7544,
+                              "friends_count": 777,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "Chicago, IL",
+                              "media_count": 126,
+                              "name": "Jessica Hullman",
+                              "normal_followers_count": 7544,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556132462/1734918996",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1796385356171886592/6223sr2K_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "JessicaHullman",
+                              "statuses_count": 3571,
+                              "translator_type": "none",
+                              "url": "https://t.co/6RHv7dwQ93",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-411681876",
+                    "sortIndex": "1892143858494472155",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo0MTE2ODE4NzY=",
+                            "rest_id": "411681876",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Sun Nov 13 18:51:56 +0000 2011",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "Professor in HCI & visualization at Aarhus University (@csaudk). Husband, dad, dog dad, runner, Kung Fu artist, gamer. He/him. Mastodon: @elm@vis.social",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "cs.au.dk/~elm/",
+                                      "expanded_url": "https://www.cs.au.dk/~elm/",
+                                      "url": "https://t.co/wDbV6E1yyV",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 8496,
+                              "followers_count": 3514,
+                              "friends_count": 743,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 86,
+                              "location": "Aarhus, Denmark",
+                              "media_count": 879,
+                              "name": "Niklas Elmqvist",
+                              "normal_followers_count": 3514,
+                              "pinned_tweet_ids_str": [
+                                "1647943593724907521"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/411681876/1698405834",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/659726848562196480/SFYOau5u_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "NElmqvist",
+                              "statuses_count": 3982,
+                              "translator_type": "none",
+                              "url": "https://t.co/wDbV6E1yyV",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-1017224055588622338",
+                    "sortIndex": "1892143858494472154",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMDE3MjI0MDU1NTg4NjIyMzM4",
+                            "rest_id": "1017224055588622338",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Jul 12 01:48:08 +0000 2018",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "We\u2019re a research group at @MIT_CSAIL using data visualization as a petri dish to study intelligence augmentation.",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "vis.csail.mit.edu",
+                                      "expanded_url": "https://vis.csail.mit.edu",
+                                      "url": "https://t.co/xirAtS1bRA",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 250,
+                              "followers_count": 3245,
+                              "friends_count": 21,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 82,
+                              "location": "",
+                              "media_count": 45,
+                              "name": "MIT Visualization Group",
+                              "normal_followers_count": 3245,
+                              "pinned_tweet_ids_str": [
+                                "1805712103333892381"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504850750916104194/OwyLWLtf_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "mitvis",
+                              "statuses_count": 261,
+                              "translator_type": "none",
+                              "url": "https://t.co/xirAtS1bRA",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "professional": {
+                              "rest_id": "1532419083987300352",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 713,
+                                  "name": "Science & Technology",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-279000946",
+                    "sortIndex": "1892143858494472153",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {},
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowingSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1892143858494472152",
+                    "sortIndex": "1892143858494472152",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "0|1892143858494472150",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1892143858494472193",
+                    "sortIndex": "1892143858494472193",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "-1|1892143858494472193",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

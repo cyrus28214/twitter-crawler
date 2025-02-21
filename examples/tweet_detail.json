@@ -22,7 +22,7 @@
       "user_description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
       "created_at": "Thu Apr 08 05:16:30 +0000 2010",
       "user_url": "https://x.com/drfeifei",
-      "followers_count": 497881,
+      "followers_count": 497885,
       "following_count": 1133,
       "previous_post_count": 2703,
       "location": "Stanford, CA, U.S.A."
@@ -57,6 +57,36 @@
         "following_count": 1598,
         "previous_post_count": 7405,
         "location": "Mountain View, CA"
+      },
+      "source_tweet": null
+    },
+    {
+      "tweet": {
+        "post_id": "1890248738960204005",
+        "content": "\u548c\u9752\u6885\u7af9\u99ac\u540c\u5c45\u4e2d...\n\u5979\u50ac\u7720\u6211\u5230\u5e95\u662f\u60f3\u5c0d\u6211\u505a\u4ec0\u9ebc...?!\ud83d\ude0f\n\n#\u97d3\u6f2b #Webtoon",
+        "post_time": "Fri Feb 14 03:56:33 +0000 2025",
+        "user_id": "1854087363489861632",
+        "post_url": "https://x.com/toomicstc_pr/status/1890248738960204005",
+        "is_quote": false,
+        "is_retweet": false,
+        "source_id": null,
+        "like_count": 81,
+        "bookmark_count": 33,
+        "reply_count": 25,
+        "quote_count": 0,
+        "retweet_count": 3
+      },
+      "user": {
+        "user_id": "1854087363489861632",
+        "name": "ToomicsTC_PR",
+        "user_name": "toomicstc_pr",
+        "user_description": "Toomics \u7e41\u9ad4PR\u8cec\u865f\n\u4eba\u6c23\u97d3\u6f2b\u7dda\u4e0a\u9023\u8f09\n\u6bcf\u9031\u5b9a\u671f\u66f4\u65b0\u203c\ufe0f",
+        "created_at": "Wed Nov 06 09:04:29 +0000 2024",
+        "user_url": "https://x.com/toomicstc_pr",
+        "followers_count": 167,
+        "following_count": 12,
+        "previous_post_count": 25,
+        "location": ""
       },
       "source_tweet": null
     },
@@ -113,9 +143,9 @@
         "user_description": "Unlocking the power of data, one insight at a time. \ud83d\ude80 | Your guide to mastering Data Science | Tips, tricks & truths from the data trenches | Join now! #Data",
         "created_at": "Thu Apr 25 10:57:56 +0000 2019",
         "user_url": "https://x.com/howdataworks",
-        "followers_count": 6587,
+        "followers_count": 6588,
         "following_count": 14,
-        "previous_post_count": 15189,
+        "previous_post_count": 15192,
         "location": "Stuttgart"
       },
       "source_tweet": null
@@ -173,9 +203,9 @@
         "user_description": "AI Educator | Talk about AI, SaaS & Business Growth | Built a 100K+ AI Community | Making AI & ChatGPT Learning Accessible and Enjoyable with a Personal Touch",
         "created_at": "Fri Sep 16 09:37:24 +0000 2022",
         "user_url": "https://x.com/anthara_ai",
-        "followers_count": 35426,
+        "followers_count": 35427,
         "following_count": 3809,
-        "previous_post_count": 5946,
+        "previous_post_count": 5957,
         "location": "Best AI & Tech Newsletter \ud83d\udc49"
       },
       "source_tweet": null
@@ -323,10 +353,70 @@
         "user_description": "Electe offers an artificial intelligence-based data analytics platform",
         "created_at": "Fri Jun 23 16:41:35 +0000 2023",
         "user_url": "https://x.com/ElecteSrl",
-        "followers_count": 9164,
+        "followers_count": 9165,
         "following_count": 1341,
-        "previous_post_count": 4194,
+        "previous_post_count": 4220,
         "location": "Milan, Italy"
+      },
+      "source_tweet": null
+    },
+    {
+      "tweet": {
+        "post_id": "1890674055273148456",
+        "content": "@drfeifei @Stanford @StanfordHAI @drfeifei Prof. Etchemendy's insights into the future of education are indeed profound, especially considering how technology is reshaping learning environments globally. His emphasis on interdisciplinary approaches and critical thinking aligns with current trends in academia.",
+        "post_time": "Sat Feb 15 08:06:36 +0000 2025",
+        "user_id": "3063831743",
+        "post_url": "https://x.com/laur_science/status/1890674055273148456",
+        "is_quote": false,
+        "is_retweet": false,
+        "source_id": null,
+        "like_count": 6,
+        "bookmark_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 0
+      },
+      "user": {
+        "user_id": "3063831743",
+        "name": "Laur Science (\ud83d\udc99,\ud83e\udde1)",
+        "user_name": "laur_science",
+        "user_description": "Passionate about health-span extension and cognitive improvement.",
+        "created_at": "Thu Feb 26 08:28:42 +0000 2015",
+        "user_url": "https://x.com/laur_science",
+        "followers_count": 1559,
+        "following_count": 316,
+        "previous_post_count": 13867,
+        "location": ""
+      },
+      "source_tweet": null
+    },
+    {
+      "tweet": {
+        "post_id": "1891237175351541903",
+        "content": "@drfeifei @m2jr @Stanford @StanfordHAI Wow , written 8 years ago !  I thought it is quoting @VP \ud83e\udd14",
+        "post_time": "Sun Feb 16 21:24:14 +0000 2025",
+        "user_id": "1312294817100070913",
+        "post_url": "https://x.com/SF_Contrarian/status/1891237175351541903",
+        "is_quote": false,
+        "is_retweet": false,
+        "source_id": null,
+        "like_count": 0,
+        "bookmark_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "retweet_count": 0
+      },
+      "user": {
+        "user_id": "1312294817100070913",
+        "name": "SF_Contrarian \u8303\u5fe0\u8a00",
+        "user_name": "SF_Contrarian",
+        "user_description": "Pronoun: Broke \ud83d\ude06",
+        "created_at": "Sat Oct 03 07:34:18 +0000 2020",
+        "user_url": "https://x.com/SF_Contrarian",
+        "followers_count": 330,
+        "following_count": 769,
+        "previous_post_count": 6737,
+        "location": "San Francisco, CA"
       },
       "source_tweet": null
     }

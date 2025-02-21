@@ -1,11 +1,16 @@
 import json
 import requests
-import time
-
 from util.request import request
+from util.get_cursor_from_instructions import get_cursor_from_instructions
+
 url = 'https://x.com/i/api/graphql/KI9jCXUx3Ymt-hDKLOZb9Q/SearchTimeline'
 
 def get_tweet_quotes(session: requests.Session, tweet_id: str, count: int = 20, cursor: str = None) -> list:
+    """
+    Get tweet quotes
+
+    rate limit: 50/min
+    """
     variables = {
         "rawQuery": f"quoted_tweet_id:{tweet_id}",
         "count": count,
@@ -51,18 +56,8 @@ def get_tweet_quotes(session: requests.Session, tweet_id: str, count: int = 20, 
         })
     }    
     data = request(session, url, params=params)
-
-    next_cursor = None
-
     instructions = data["data"]["search_by_raw_query"]["search_timeline"]["timeline"]["instructions"]
-
-    for instruction in instructions:
-        if instruction["type"] != "TimelineAddEntries":
-            continue
-        entries = instruction["entries"]
-        for entry in entries:
-            if entry["content"]["entryType"] == "TimelineTimelineCursor" and entry["content"]["cursorType"] == "Bottom":
-                next_cursor = entry["content"]["value"]
-                break
+    next_cursor = get_cursor_from_instructions(instructions)
+    
     return data, next_cursor
             

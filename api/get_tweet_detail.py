@@ -1,12 +1,16 @@
 import json
 import requests
-import time
-from datetime import datetime
-
 from util.request import request
+from util.get_cursor_from_instructions import get_cursor_from_instructions
+
 url = 'https://x.com/i/api/graphql/jor5fVC4grHgHsSFWc04Pg/TweetDetail'
 
 def get_tweet_detail(session: requests.Session, tweet_id: str, cursor: str = None) -> dict:
+    """
+    Get tweet detail
+
+    rate limit: 150/min
+    """
     variables = {
             "focalTweetId": tweet_id,
             "with_rux_injections": False,
@@ -61,21 +65,8 @@ def get_tweet_detail(session: requests.Session, tweet_id: str, cursor: str = Non
         })
     }
     res = request(session, url, params=params)
-    try:
-        entries = res["data"]["threaded_conversation_with_injections_v2"]["instructions"]
-    except:
-        breakpoint()
-    entries = [x["entries"] for x in entries if x["type"] == "TimelineAddEntries"][0]
-    
-    next_cursor = None
-    for entry in entries:
-        if entry["content"]["entryType"] != "TimelineTimelineItem":
-            continue
-        if entry["content"]["itemContent"]["itemType"] != "TimelineTimelineCursor":
-            continue
-        if entry["content"]["itemContent"]["cursorType"] == "Bottom":
-            next_cursor = entry["content"]["itemContent"]["value"]
-            break
+    instructions = res["data"]["threaded_conversation_with_injections_v2"]["instructions"]
+    next_cursor = get_cursor_from_instructions(instructions)
             
     return res, next_cursor
 

@@ -28,6 +28,40 @@ def main():
     with open(f"{save_dir}/user_by_screen_name.json", "w") as f:
         json.dump(user, f, indent=2)
 
+    # ===== get followers =====
+    cursor = None
+    i = 1
+    followers = []
+    while True:
+        res, cursor = get_followers(s, user["user_id"], cursor=cursor)
+        os.makedirs(f"{save_dir}/followers_raw", exist_ok=True)
+        with open(f"{save_dir}/followers_raw/{i}.json", "w") as f:
+            json.dump(res, f, indent=2)
+        res = followers_formatter(res)
+        if len(res) == 0 or cursor is None:
+            break
+        followers.extend(res)
+        i += 1
+    with open(f"{save_dir}/followers.json", "w") as f:
+        json.dump(followers, f, indent=2)
+
+    # ===== get followings =====
+    cursor = None
+    i = 1
+    followings = []
+    while True:
+        res, cursor = get_followings(s, user["user_id"], cursor=cursor)
+        os.makedirs(f"{save_dir}/followings_raw", exist_ok=True)
+        with open(f"{save_dir}/followings_raw/{i}.json", "w") as f:
+            json.dump(res, f, indent=2)
+        res = followings_formatter(res)
+        if len(res) == 0 or cursor is None:
+            break
+        followings.extend(res)
+        i += 1
+    with open(f"{save_dir}/followings.json", "w") as f:
+        json.dump(followings, f, indent=2)
+
     # ===== get user tweets =====
     cursor = None
     i = 1
@@ -102,22 +136,6 @@ def main():
         i += 1
     with open(f"{save_dir}/tweet_quotes.json", "w") as f:
         json.dump(quote_list, f, indent=2)
-    
-    # print("get_followers")
-    # res = get_followers(s, "44196397")
-    # with open("examples/followers_raw.json", "w") as f:
-    #     json.dump(res, f, indent=2)
-    # res = followers_formatter(res)
-    # with open("examples/followers.json", "w") as f:
-    #     json.dump(res, f, indent=2)
-        
-    # print("get_followings")
-    # res = get_followings(s, "44196397")
-    # with open("examples/followings_raw.json", "w") as f:
-    #     json.dump(res, f, indent=2)
-    # res = followings_formatter(res)
-    # with open("examples/followings.json", "w") as f:
-    #     json.dump(res, f, indent=2)
 
 if __name__ == "__main__":
     main() 

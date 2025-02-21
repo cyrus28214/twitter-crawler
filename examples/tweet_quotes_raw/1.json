@@ -8,8 +8,8 @@
               "type": "TimelineAddEntries",
               "entries": [
                 {
-                  "entryId": "tweet-1890719506407870488",
-                  "sortIndex": "1892137315581558784",
+                  "entryId": "tweet-1890858469311582702",
+                  "sortIndex": "1892143895433707520",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -19,55 +19,36 @@
                       "tweet_results": {
                         "result": {
                           "__typename": "Tweet",
-                          "rest_id": "1890719506407870488",
+                          "rest_id": "1890858469311582702",
                           "core": {
                             "user_results": {
                               "result": {
                                 "__typename": "User",
-                                "id": "VXNlcjoxNjM4Nzg0ODYzOTEzNTQ1NzI4",
-                                "rest_id": "1638784863913545728",
+                                "id": "VXNlcjoxNjkyMjc5Mg==",
+                                "rest_id": "16922792",
                                 "affiliates_highlighted_label": {},
                                 "has_graduated_access": true,
                                 "parody_commentary_fan_label": "None",
-                                "is_blue_verified": false,
+                                "is_blue_verified": true,
                                 "profile_image_shape": "Circle",
                                 "legacy": {
                                   "following": false,
-                                  "can_dm": false,
+                                  "can_dm": true,
                                   "can_media_tag": true,
-                                  "created_at": "Thu Mar 23 06:09:04 +0000 2023",
-                                  "default_profile": true,
+                                  "created_at": "Thu Oct 23 08:35:36 +0000 2008",
+                                  "default_profile": false,
                                   "default_profile_image": false,
-                                  "description": "\u9f50\u6728AI\uff0c\u5e2e\u666e\u901a\u4eba\u7528\u4e0aAI\uff0c\u7528\u597dAI\uff0cAI for Everyone\uff0cBuild in Public #qimuai \u5b98\u7f51\uff1ahttps://t.co/qh5Z3lrT04  \u53d1\u5728GitHub\u4e0a\u7684AI\u5f00\u6e90\u9879\u76ee\uff1ahttps://t.co/aYQWiXWg11",
+                                  "description": "The first rule of AI club is, We Don't Talk About AI Club! The second rule of AI Club is...... by @_Christopher_",
                                   "entities": {
                                     "description": {
-                                      "urls": [
-                                        {
-                                          "display_url": "qimu.ai",
-                                          "expanded_url": "https://qimu.ai",
-                                          "url": "https://t.co/qh5Z3lrT04",
-                                          "indices": [
-                                            62,
-                                            85
-                                          ]
-                                        },
-                                        {
-                                          "display_url": "github.com/qimuai",
-                                          "expanded_url": "https://github.com/qimuai",
-                                          "url": "https://t.co/aYQWiXWg11",
-                                          "indices": [
-                                            104,
-                                            127
-                                          ]
-                                        }
-                                      ]
+                                      "urls": []
                                     },
                                     "url": {
                                       "urls": [
                                         {
-                                          "display_url": "qimu.ai",
-                                          "expanded_url": "http://qimu.ai",
-                                          "url": "https://t.co/JRfoESNuuh",
+                                          "display_url": "MrChatbot.org",
+                                          "expanded_url": "http://MrChatbot.org",
+                                          "url": "https://t.co/GGoD8KXL6Q",
                                           "indices": [
                                             0,
                                             23
@@ -77,48 +58,111 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 1198,
-                                  "followers_count": 45,
-                                  "friends_count": 588,
-                                  "has_custom_timelines": false,
+                                  "favourites_count": 1434,
+                                  "followers_count": 56067,
+                                  "friends_count": 10188,
+                                  "has_custom_timelines": true,
                                   "is_translator": false,
-                                  "listed_count": 0,
-                                  "location": "Shenzhen",
-                                  "media_count": 98,
-                                  "name": "\u9f50\u6728(qimu.ai)",
-                                  "normal_followers_count": 45,
-                                  "pinned_tweet_ids_str": [],
+                                  "listed_count": 275,
+                                  "location": "Klamath Falls, OR",
+                                  "media_count": 1356,
+                                  "name": "AI World News\ud83e\udd16\ud83d\udc95",
+                                  "normal_followers_count": 56067,
+                                  "pinned_tweet_ids_str": [
+                                    "1821313212211720318"
+                                  ],
                                   "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638784863913545728/1725599206",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1831921959187136512/Pypm8JAz_normal.jpg",
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16922792/1667775632",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3459947368/de1e19618ec3f7c9c6f1b3de30f8cadc_normal.jpeg",
                                   "profile_interstitial_type": "",
-                                  "screen_name": "qimuai",
-                                  "statuses_count": 804,
+                                  "screen_name": "TheWorldNews",
+                                  "statuses_count": 208047,
                                   "translator_type": "none",
-                                  "url": "https://t.co/JRfoESNuuh",
+                                  "url": "https://t.co/GGoD8KXL6Q",
                                   "verified": false,
                                   "want_retweets": false,
                                   "withheld_in_countries": []
                                 },
-                                "tipjar_settings": {}
+                                "professional": {
+                                  "rest_id": "1589389607455850497",
+                                  "professional_type": "Business",
+                                  "category": [
+                                    {
+                                      "id": 757,
+                                      "name": "Newsstand",
+                                      "icon_name": "IconBriefcaseStroke"
+                                    }
+                                  ]
+                                },
+                                "tipjar_settings": {
+                                  "is_enabled": true
+                                }
                               }
                             }
                           },
                           "unmention_data": {},
                           "edit_control": {
-                            "edit_tweet_ids": [
-                              "1890719506407870488"
-                            ],
-                            "editable_until_msecs": "1739621232000",
-                            "is_edit_eligible": true,
-                            "edits_remaining": "5"
+                            "initial_tweet_id": "1890858362616906055",
+                            "edit_control_initial": {
+                              "edit_tweet_ids": [
+                                "1890858362616906055",
+                                "1890858469311582702"
+                              ],
+                              "editable_until_msecs": "1739654338000",
+                              "is_edit_eligible": true,
+                              "edits_remaining": "4"
+                            }
                           },
-                          "is_translatable": true,
+                          "previous_counts": {
+                            "bookmark_count": 0,
+                            "favorite_count": 0,
+                            "quote_count": 0,
+                            "reply_count": 0,
+                            "retweet_count": 0
+                          },
+                          "is_translatable": false,
                           "views": {
-                            "count": "30",
+                            "count": "97",
                             "state": "EnabledWithCount"
                           },
-                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                          "note_tweet": {
+                            "is_expandable": true,
+                            "note_tweet_results": {
+                              "result": {
+                                "id": "Tm90ZVR3ZWV0OjE4OTA4NTg0NjkxNDc5NzE1ODQ=",
+                                "text": "The Ivory Tower or The Ivory Cage? \ud83c\udff0\ud83d\udd12\n\nUniversities claim to be temples of free thought, but they're turning into prisons of the mind. \ud83e\udde0\ud83d\udea8\n\nInstead of exploring ideas, they're enforcing them. Debate is dead, and dissent is dangerous. \u26b0\ufe0f\ud83d\udeab\n\nThe hallowed halls of academia have become echo chambers, amplifying approved narratives and silencing the rest. \ud83d\udd07\ud83d\udce2\n\nProfessors and students toe the party line or face exile. Conformity is currency, and intellectual courage is a liability. \ud83d\udcb8\ud83e\udd81\n\nSo what's the solution? How do we break these intellectual chains? \u26d3\ufe0f\ud83d\udc94\n\nIt's time for a revolution. A rebirth of true academic freedom. \ud83d\udd25\ud83c\udd93\n\nWe need a new charter, a commitment to protecting dissenting voices and dethroning dominant dogmas. \ud83d\udcdc\ud83d\udee1\ufe0f\n\nTenure should reward original thinking, not ideological obedience. Funding should flow to the intellectually brave, not the boringly compliant. \ud83d\udcb0\ud83e\udde0\n\nIndependent institutes, free from the suffocating grip of narrow-minded departments, must rise to champion real debate. \ud83c\udfdb\ufe0f\ud83d\udde3\ufe0f\n\nIn the battle for the soul of the university, sunlight is the best disinfectant. Bring transparency to the tyranny. \ud83c\udf1e\ud83e\uddfc\n\nThe choice is clear: Encourage the clash of ideas or submit to the dictatorship of thought. \u2694\ufe0f\ud83e\udd14\n\nIt's time to fight. For a university that trains minds, not tames them. \ud83d\udc4a\ud83c\udf93\n\nYou decide. But choose wisely. The future is watching. \ud83d\udd2e\ud83d\udc40\n\n#UnleashIdeas #AcademicFreedom #IntellectualDiversity",
+                                "entity_set": {
+                                  "hashtags": [
+                                    {
+                                      "indices": [
+                                        1353,
+                                        1366
+                                      ],
+                                      "text": "UnleashIdeas"
+                                    },
+                                    {
+                                      "indices": [
+                                        1367,
+                                        1383
+                                      ],
+                                      "text": "AcademicFreedom"
+                                    },
+                                    {
+                                      "indices": [
+                                        1384,
+                                        1406
+                                      ],
+                                      "text": "IntellectualDiversity"
+                                    }
+                                  ],
+                                  "symbols": [],
+                                  "urls": [],
+                                  "user_mentions": []
+                                }
+                              }
+                            }
+                          },
                           "quoted_status_result": {
                             "result": {
                               "__typename": "Tweet",
@@ -162,7 +206,7 @@
                                       },
                                       "fast_followers_count": 0,
                                       "favourites_count": 6721,
-                                      "followers_count": 497881,
+                                      "followers_count": 497888,
                                       "friends_count": 1133,
                                       "has_custom_timelines": true,
                                       "is_translator": false,
@@ -170,7 +214,7 @@
                                       "location": "Stanford, CA, U.S.A.",
                                       "media_count": 263,
                                       "name": "Fei-Fei Li",
-                                      "normal_followers_count": 497881,
+                                      "normal_followers_count": 497888,
                                       "pinned_tweet_ids_str": [
                                         "1721916013732876415"
                                       ],
@@ -364,7 +408,7 @@
                               },
                               "is_translatable": false,
                               "views": {
-                                "count": "55273",
+                                "count": "55285",
                                 "state": "EnabledWithCount"
                               },
                               "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -432,11 +476,11 @@
                           "legacy": {
                             "bookmark_count": 0,
                             "bookmarked": false,
-                            "created_at": "Sat Feb 15 11:07:12 +0000 2025",
-                            "conversation_id_str": "1890719506407870488",
+                            "created_at": "Sat Feb 15 20:19:24 +0000 2025",
+                            "conversation_id_str": "1890858469311582702",
                             "display_text_range": [
                               0,
-                              112
+                              273
                             ],
                             "entities": {
                               "hashtags": [],
@@ -447,21 +491,21 @@
                             },
                             "favorite_count": 0,
                             "favorited": false,
-                            "full_text": "\u65af\u5766\u798f\u5927\u5b66\u524d\u6559\u52a1\u957f\u3001\u65af\u5766\u798fHAI\u8054\u5408\u4e3b\u4efb\uff0c\u7f8e\u56fd\u9ad8\u7b49\u6559\u80b2\u754c\u6700\u5177\u6df1\u5ea6\u7684\u9886\u5bfc\u8005\u4e4b\u4e00\u2014\u2014John Etchemendy \u6559\u6388\uff0c\u6700\u8fd1\u53d1\u8868\u4e86\u4e00\u756a\u6781\u5177\u524d\u77bb\u6027\u7684\u8a00\u8bba\u3002\u8fd9\u4f4d\u8001\u670b\u53cb\u7684\u8bdd\uff0c\u4e0d\u4ec5\u6df1\u523b\uff0c\u8fd8\u5145\u6ee1\u4e86\u8fdc\u89c1\u3002\u4e0d\u5f97\u4e0d\u8bf4\uff0c\u4ed6\u7684\u6d1e\u5bdf\u529b\u603b\u662f\u8ba9\u4eba\u60ca\u53f9\uff01",
+                            "full_text": "The Ivory Tower or The Ivory Cage? \ud83c\udff0\ud83d\udd12\n\nUniversities claim to be temples of free thought, but they're turning into prisons of the mind. \ud83e\udde0\ud83d\udea8\n\nInstead of exploring ideas, they're enforcing them. Debate is dead, and dissent is dangerous. \u26b0\ufe0f\ud83d\udeab\n\nThe hallowed halls of academia have",
                             "is_quote_status": true,
-                            "lang": "zh",
+                            "lang": "en",
                             "quote_count": 0,
                             "quoted_status_id_str": "1890673021376950749",
                             "quoted_status_permalink": {
-                              "url": "https://t.co/mF7LQSsntG",
+                              "url": "https://t.co/gwSMaMxNsp",
                               "expanded": "https://twitter.com/drfeifei/status/1890673021376950749",
                               "display": "x.com/drfeifei/statu\u2026"
                             },
                             "reply_count": 0,
                             "retweet_count": 0,
                             "retweeted": false,
-                            "user_id_str": "1638784863913545728",
-                            "id_str": "1890719506407870488"
+                            "user_id_str": "16922792",
+                            "id_str": "1890858469311582702"
                           }
                         }
                       },
@@ -477,7 +521,7 @@
                       "element": "tweet",
                       "details": {
                         "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
                         }
                       }
                     }
@@ -485,7 +529,7 @@
                 },
                 {
                   "entryId": "tweet-1890823731205046304",
-                  "sortIndex": "1892137315581558774",
+                  "sortIndex": "1892143895433707510",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -647,7 +691,7 @@
                                         },
                                         "fast_followers_count": 0,
                                         "favourites_count": 6721,
-                                        "followers_count": 497881,
+                                        "followers_count": 497888,
                                         "friends_count": 1133,
                                         "has_custom_timelines": true,
                                         "is_translator": false,
@@ -655,7 +699,7 @@
                                         "location": "Stanford, CA, U.S.A.",
                                         "media_count": 263,
                                         "name": "Fei-Fei Li",
-                                        "normal_followers_count": 497881,
+                                        "normal_followers_count": 497888,
                                         "pinned_tweet_ids_str": [
                                           "1721916013732876415"
                                         ],
@@ -849,7 +893,7 @@
                                 },
                                 "is_translatable": false,
                                 "views": {
-                                  "count": "55273",
+                                  "count": "55285",
                                   "state": "EnabledWithCount"
                                 },
                                 "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -1193,15 +1237,15 @@
                       "element": "tweet",
                       "details": {
                         "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
                         }
                       }
                     }
                   }
                 },
                 {
-                  "entryId": "tweet-1890858469311582702",
-                  "sortIndex": "1892137315581558764",
+                  "entryId": "tweet-1890719506407870488",
+                  "sortIndex": "1892143895433707500",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -1211,36 +1255,55 @@
                       "tweet_results": {
                         "result": {
                           "__typename": "Tweet",
-                          "rest_id": "1890858469311582702",
+                          "rest_id": "1890719506407870488",
                           "core": {
                             "user_results": {
                               "result": {
                                 "__typename": "User",
-                                "id": "VXNlcjoxNjkyMjc5Mg==",
-                                "rest_id": "16922792",
+                                "id": "VXNlcjoxNjM4Nzg0ODYzOTEzNTQ1NzI4",
+                                "rest_id": "1638784863913545728",
                                 "affiliates_highlighted_label": {},
                                 "has_graduated_access": true,
                                 "parody_commentary_fan_label": "None",
-                                "is_blue_verified": true,
+                                "is_blue_verified": false,
                                 "profile_image_shape": "Circle",
                                 "legacy": {
                                   "following": false,
-                                  "can_dm": true,
+                                  "can_dm": false,
                                   "can_media_tag": true,
-                                  "created_at": "Thu Oct 23 08:35:36 +0000 2008",
-                                  "default_profile": false,
+                                  "created_at": "Thu Mar 23 06:09:04 +0000 2023",
+                                  "default_profile": true,
                                   "default_profile_image": false,
-                                  "description": "The first rule of AI club is, We Don't Talk About AI Club! The second rule of AI Club is...... by @_Christopher_",
+                                  "description": "\u9f50\u6728AI\uff0c\u5e2e\u666e\u901a\u4eba\u7528\u4e0aAI\uff0c\u7528\u597dAI\uff0cAI for Everyone\uff0cBuild in Public #qimuai \u5b98\u7f51\uff1ahttps://t.co/qh5Z3lrT04  \u53d1\u5728GitHub\u4e0a\u7684AI\u5f00\u6e90\u9879\u76ee\uff1ahttps://t.co/aYQWiXWg11",
                                   "entities": {
                                     "description": {
-                                      "urls": []
+                                      "urls": [
+                                        {
+                                          "display_url": "qimu.ai",
+                                          "expanded_url": "https://qimu.ai",
+                                          "url": "https://t.co/qh5Z3lrT04",
+                                          "indices": [
+                                            62,
+                                            85
+                                          ]
+                                        },
+                                        {
+                                          "display_url": "github.com/qimuai",
+                                          "expanded_url": "https://github.com/qimuai",
+                                          "url": "https://t.co/aYQWiXWg11",
+                                          "indices": [
+                                            104,
+                                            127
+                                          ]
+                                        }
+                                      ]
                                     },
                                     "url": {
                                       "urls": [
                                         {
-                                          "display_url": "MrChatbot.org",
-                                          "expanded_url": "http://MrChatbot.org",
-                                          "url": "https://t.co/GGoD8KXL6Q",
+                                          "display_url": "qimu.ai",
+                                          "expanded_url": "http://qimu.ai",
+                                          "url": "https://t.co/JRfoESNuuh",
                                           "indices": [
                                             0,
                                             23
@@ -1250,111 +1313,48 @@
                                     }
                                   },
                                   "fast_followers_count": 0,
-                                  "favourites_count": 1434,
-                                  "followers_count": 56068,
-                                  "friends_count": 10188,
-                                  "has_custom_timelines": true,
+                                  "favourites_count": 1198,
+                                  "followers_count": 45,
+                                  "friends_count": 588,
+                                  "has_custom_timelines": false,
                                   "is_translator": false,
-                                  "listed_count": 275,
-                                  "location": "Klamath Falls, OR",
-                                  "media_count": 1356,
-                                  "name": "AI World News\ud83e\udd16\ud83d\udc95",
-                                  "normal_followers_count": 56068,
-                                  "pinned_tweet_ids_str": [
-                                    "1821313212211720318"
-                                  ],
+                                  "listed_count": 0,
+                                  "location": "Shenzhen",
+                                  "media_count": 98,
+                                  "name": "\u9f50\u6728(qimu.ai)",
+                                  "normal_followers_count": 45,
+                                  "pinned_tweet_ids_str": [],
                                   "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16922792/1667775632",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3459947368/de1e19618ec3f7c9c6f1b3de30f8cadc_normal.jpeg",
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1638784863913545728/1725599206",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1831921959187136512/Pypm8JAz_normal.jpg",
                                   "profile_interstitial_type": "",
-                                  "screen_name": "TheWorldNews",
-                                  "statuses_count": 208047,
+                                  "screen_name": "qimuai",
+                                  "statuses_count": 804,
                                   "translator_type": "none",
-                                  "url": "https://t.co/GGoD8KXL6Q",
+                                  "url": "https://t.co/JRfoESNuuh",
                                   "verified": false,
                                   "want_retweets": false,
                                   "withheld_in_countries": []
                                 },
-                                "professional": {
-                                  "rest_id": "1589389607455850497",
-                                  "professional_type": "Business",
-                                  "category": [
-                                    {
-                                      "id": 757,
-                                      "name": "Newsstand",
-                                      "icon_name": "IconBriefcaseStroke"
-                                    }
-                                  ]
-                                },
-                                "tipjar_settings": {
-                                  "is_enabled": true
-                                }
+                                "tipjar_settings": {}
                               }
                             }
                           },
                           "unmention_data": {},
                           "edit_control": {
-                            "initial_tweet_id": "1890858362616906055",
-                            "edit_control_initial": {
-                              "edit_tweet_ids": [
-                                "1890858362616906055",
-                                "1890858469311582702"
-                              ],
-                              "editable_until_msecs": "1739654338000",
-                              "is_edit_eligible": true,
-                              "edits_remaining": "4"
-                            }
+                            "edit_tweet_ids": [
+                              "1890719506407870488"
+                            ],
+                            "editable_until_msecs": "1739621232000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
                           },
-                          "previous_counts": {
-                            "bookmark_count": 0,
-                            "favorite_count": 0,
-                            "quote_count": 0,
-                            "reply_count": 0,
-                            "retweet_count": 0
-                          },
-                          "is_translatable": false,
+                          "is_translatable": true,
                           "views": {
-                            "count": "97",
+                            "count": "30",
                             "state": "EnabledWithCount"
                           },
-                          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                          "note_tweet": {
-                            "is_expandable": true,
-                            "note_tweet_results": {
-                              "result": {
-                                "id": "Tm90ZVR3ZWV0OjE4OTA4NTg0NjkxNDc5NzE1ODQ=",
-                                "text": "The Ivory Tower or The Ivory Cage? \ud83c\udff0\ud83d\udd12\n\nUniversities claim to be temples of free thought, but they're turning into prisons of the mind. \ud83e\udde0\ud83d\udea8\n\nInstead of exploring ideas, they're enforcing them. Debate is dead, and dissent is dangerous. \u26b0\ufe0f\ud83d\udeab\n\nThe hallowed halls of academia have become echo chambers, amplifying approved narratives and silencing the rest. \ud83d\udd07\ud83d\udce2\n\nProfessors and students toe the party line or face exile. Conformity is currency, and intellectual courage is a liability. \ud83d\udcb8\ud83e\udd81\n\nSo what's the solution? How do we break these intellectual chains? \u26d3\ufe0f\ud83d\udc94\n\nIt's time for a revolution. A rebirth of true academic freedom. \ud83d\udd25\ud83c\udd93\n\nWe need a new charter, a commitment to protecting dissenting voices and dethroning dominant dogmas. \ud83d\udcdc\ud83d\udee1\ufe0f\n\nTenure should reward original thinking, not ideological obedience. Funding should flow to the intellectually brave, not the boringly compliant. \ud83d\udcb0\ud83e\udde0\n\nIndependent institutes, free from the suffocating grip of narrow-minded departments, must rise to champion real debate. \ud83c\udfdb\ufe0f\ud83d\udde3\ufe0f\n\nIn the battle for the soul of the university, sunlight is the best disinfectant. Bring transparency to the tyranny. \ud83c\udf1e\ud83e\uddfc\n\nThe choice is clear: Encourage the clash of ideas or submit to the dictatorship of thought. \u2694\ufe0f\ud83e\udd14\n\nIt's time to fight. For a university that trains minds, not tames them. \ud83d\udc4a\ud83c\udf93\n\nYou decide. But choose wisely. The future is watching. \ud83d\udd2e\ud83d\udc40\n\n#UnleashIdeas #AcademicFreedom #IntellectualDiversity",
-                                "entity_set": {
-                                  "hashtags": [
-                                    {
-                                      "indices": [
-                                        1353,
-                                        1366
-                                      ],
-                                      "text": "UnleashIdeas"
-                                    },
-                                    {
-                                      "indices": [
-                                        1367,
-                                        1383
-                                      ],
-                                      "text": "AcademicFreedom"
-                                    },
-                                    {
-                                      "indices": [
-                                        1384,
-                                        1406
-                                      ],
-                                      "text": "IntellectualDiversity"
-                                    }
-                                  ],
-                                  "symbols": [],
-                                  "urls": [],
-                                  "user_mentions": []
-                                }
-                              }
-                            }
-                          },
+                          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
                           "quoted_status_result": {
                             "result": {
                               "__typename": "Tweet",
@@ -1398,7 +1398,7 @@
                                       },
                                       "fast_followers_count": 0,
                                       "favourites_count": 6721,
-                                      "followers_count": 497881,
+                                      "followers_count": 497888,
                                       "friends_count": 1133,
                                       "has_custom_timelines": true,
                                       "is_translator": false,
@@ -1406,7 +1406,7 @@
                                       "location": "Stanford, CA, U.S.A.",
                                       "media_count": 263,
                                       "name": "Fei-Fei Li",
-                                      "normal_followers_count": 497881,
+                                      "normal_followers_count": 497888,
                                       "pinned_tweet_ids_str": [
                                         "1721916013732876415"
                                       ],
@@ -1600,7 +1600,7 @@
                               },
                               "is_translatable": false,
                               "views": {
-                                "count": "55273",
+                                "count": "55285",
                                 "state": "EnabledWithCount"
                               },
                               "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -1668,11 +1668,11 @@
                           "legacy": {
                             "bookmark_count": 0,
                             "bookmarked": false,
-                            "created_at": "Sat Feb 15 20:19:24 +0000 2025",
-                            "conversation_id_str": "1890858469311582702",
+                            "created_at": "Sat Feb 15 11:07:12 +0000 2025",
+                            "conversation_id_str": "1890719506407870488",
                             "display_text_range": [
                               0,
-                              273
+                              112
                             ],
                             "entities": {
                               "hashtags": [],
@@ -1683,21 +1683,21 @@
                             },
                             "favorite_count": 0,
                             "favorited": false,
-                            "full_text": "The Ivory Tower or The Ivory Cage? \ud83c\udff0\ud83d\udd12\n\nUniversities claim to be temples of free thought, but they're turning into prisons of the mind. \ud83e\udde0\ud83d\udea8\n\nInstead of exploring ideas, they're enforcing them. Debate is dead, and dissent is dangerous. \u26b0\ufe0f\ud83d\udeab\n\nThe hallowed halls of academia have",
+                            "full_text": "\u65af\u5766\u798f\u5927\u5b66\u524d\u6559\u52a1\u957f\u3001\u65af\u5766\u798fHAI\u8054\u5408\u4e3b\u4efb\uff0c\u7f8e\u56fd\u9ad8\u7b49\u6559\u80b2\u754c\u6700\u5177\u6df1\u5ea6\u7684\u9886\u5bfc\u8005\u4e4b\u4e00\u2014\u2014John Etchemendy \u6559\u6388\uff0c\u6700\u8fd1\u53d1\u8868\u4e86\u4e00\u756a\u6781\u5177\u524d\u77bb\u6027\u7684\u8a00\u8bba\u3002\u8fd9\u4f4d\u8001\u670b\u53cb\u7684\u8bdd\uff0c\u4e0d\u4ec5\u6df1\u523b\uff0c\u8fd8\u5145\u6ee1\u4e86\u8fdc\u89c1\u3002\u4e0d\u5f97\u4e0d\u8bf4\uff0c\u4ed6\u7684\u6d1e\u5bdf\u529b\u603b\u662f\u8ba9\u4eba\u60ca\u53f9\uff01",
                             "is_quote_status": true,
-                            "lang": "en",
+                            "lang": "zh",
                             "quote_count": 0,
                             "quoted_status_id_str": "1890673021376950749",
                             "quoted_status_permalink": {
-                              "url": "https://t.co/gwSMaMxNsp",
+                              "url": "https://t.co/mF7LQSsntG",
                               "expanded": "https://twitter.com/drfeifei/status/1890673021376950749",
                               "display": "x.com/drfeifei/statu\u2026"
                             },
                             "reply_count": 0,
                             "retweet_count": 0,
                             "retweeted": false,
-                            "user_id_str": "16922792",
-                            "id_str": "1890858469311582702"
+                            "user_id_str": "1638784863913545728",
+                            "id_str": "1890719506407870488"
                           }
                         }
                       },
@@ -1713,7 +1713,450 @@
                       "element": "tweet",
                       "details": {
                         "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1891059956725490001",
+                  "sortIndex": "1892143895433707490",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1891059956725490001",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjoxMjkwNzQwMjI0MzU2NzM3MDI2",
+                                "rest_id": "1290740224356737026",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "parody_commentary_fan_label": "None",
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                  "following": false,
+                                  "can_dm": true,
+                                  "can_media_tag": true,
+                                  "created_at": "Tue Aug 04 20:04:08 +0000 2020",
+                                  "default_profile": true,
+                                  "default_profile_image": false,
+                                  "description": "Theoretical physicist",
+                                  "entities": {
+                                    "description": {
+                                      "urls": []
+                                    }
+                                  },
+                                  "fast_followers_count": 0,
+                                  "favourites_count": 26471,
+                                  "followers_count": 541,
+                                  "friends_count": 413,
+                                  "has_custom_timelines": false,
+                                  "is_translator": false,
+                                  "listed_count": 2,
+                                  "location": "",
+                                  "media_count": 541,
+                                  "name": "ASM",
+                                  "normal_followers_count": 541,
+                                  "pinned_tweet_ids_str": [],
+                                  "possibly_sensitive": false,
+                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290740224356737026/1700495392",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1726631105808265216/qav3HUd8_normal.jpg",
+                                  "profile_interstitial_type": "",
+                                  "screen_name": "ASM65617010",
+                                  "statuses_count": 5160,
+                                  "translator_type": "none",
+                                  "verified": false,
+                                  "want_retweets": false,
+                                  "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                              }
+                            }
+                          },
+                          "unmention_data": {},
+                          "edit_control": {
+                            "edit_tweet_ids": [
+                              "1891059956725490001"
+                            ],
+                            "editable_until_msecs": "1739702402000",
+                            "is_edit_eligible": true,
+                            "edits_remaining": "5"
+                          },
+                          "is_translatable": false,
+                          "views": {
+                            "count": "164",
+                            "state": "EnabledWithCount"
+                          },
+                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                          "quoted_status_result": {
+                            "result": {
+                              "__typename": "Tweet",
+                              "rest_id": "1890673021376950749",
+                              "core": {
+                                "user_results": {
+                                  "result": {
+                                    "__typename": "User",
+                                    "id": "VXNlcjoxMzA3NDU1ODk=",
+                                    "rest_id": "130745589",
+                                    "affiliates_highlighted_label": {},
+                                    "has_graduated_access": true,
+                                    "parody_commentary_fan_label": "None",
+                                    "is_blue_verified": true,
+                                    "profile_image_shape": "Circle",
+                                    "legacy": {
+                                      "following": false,
+                                      "can_dm": false,
+                                      "can_media_tag": false,
+                                      "created_at": "Thu Apr 08 05:16:30 +0000 2010",
+                                      "default_profile": false,
+                                      "default_profile_image": false,
+                                      "description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
+                                      "entities": {
+                                        "description": {
+                                          "urls": []
+                                        },
+                                        "url": {
+                                          "urls": [
+                                            {
+                                              "display_url": "svl.stanford.edu",
+                                              "expanded_url": "http://svl.stanford.edu",
+                                              "url": "https://t.co/x7co90bT1c",
+                                              "indices": [
+                                                0,
+                                                23
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      },
+                                      "fast_followers_count": 0,
+                                      "favourites_count": 6721,
+                                      "followers_count": 497888,
+                                      "friends_count": 1133,
+                                      "has_custom_timelines": true,
+                                      "is_translator": false,
+                                      "listed_count": 7241,
+                                      "location": "Stanford, CA, U.S.A.",
+                                      "media_count": 263,
+                                      "name": "Fei-Fei Li",
+                                      "normal_followers_count": 497888,
+                                      "pinned_tweet_ids_str": [
+                                        "1721916013732876415"
+                                      ],
+                                      "possibly_sensitive": false,
+                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/130745589/1691282908",
+                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
+                                      "profile_interstitial_type": "",
+                                      "screen_name": "drfeifei",
+                                      "statuses_count": 2703,
+                                      "translator_type": "none",
+                                      "url": "https://t.co/x7co90bT1c",
+                                      "verified": false,
+                                      "want_retweets": false,
+                                      "withheld_in_countries": []
+                                    },
+                                    "tipjar_settings": {}
+                                  }
+                                }
+                              },
+                              "card": {
+                                "rest_id": "https://t.co/tlrIL1Jp4N",
+                                "legacy": {
+                                  "binding_values": [
+                                    {
+                                      "key": "thumbnail_image",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 144,
+                                          "width": 144,
+                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=144x144_2"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "description",
+                                      "value": {
+                                        "string_value": "Former Provost John Etchemendy, in a recent speech before the Stanford Board of Trustees, outlined challenges higher education is facing in the coming years. Following is an excerpt from that talk.",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "domain",
+                                      "value": {
+                                        "string_value": "news.stanford.edu",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 420,
+                                          "width": 420,
+                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=420x420_2"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_original",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 800,
+                                          "width": 1200,
+                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=orig"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_small",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 100,
+                                          "width": 100,
+                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=100x100_2"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_x_large",
+                                      "value": {
+                                        "image_value": {
+                                          "height": 800,
+                                          "width": 1200,
+                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=png&name=2048x2048_2_exp"
+                                        },
+                                        "type": "IMAGE"
+                                      }
+                                    },
+                                    {
+                                      "key": "vanity_url",
+                                      "value": {
+                                        "scribe_key": "vanity_url",
+                                        "string_value": "news.stanford.edu",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "thumbnail_image_color",
+                                      "value": {
+                                        "image_color_value": {
+                                          "palette": [
+                                            {
+                                              "rgb": {
+                                                "blue": 140,
+                                                "green": 161,
+                                                "red": 206
+                                              },
+                                              "percentage": 31.86
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 42,
+                                                "green": 52,
+                                                "red": 51
+                                              },
+                                              "percentage": 20.08
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 42,
+                                                "green": 71,
+                                                "red": 114
+                                              },
+                                              "percentage": 12.74
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 111,
+                                                "green": 178,
+                                                "red": 255
+                                              },
+                                              "percentage": 9.43
+                                            },
+                                            {
+                                              "rgb": {
+                                                "blue": 35,
+                                                "green": 154,
+                                                "red": 255
+                                              },
+                                              "percentage": 9.41
+                                            }
+                                          ]
+                                        },
+                                        "type": "IMAGE_COLOR"
+                                      }
+                                    },
+                                    {
+                                      "key": "title",
+                                      "value": {
+                                        "string_value": "John Etchemendy: \u2018The threat from within\u2019",
+                                        "type": "STRING"
+                                      }
+                                    },
+                                    {
+                                      "key": "card_url",
+                                      "value": {
+                                        "scribe_key": "card_url",
+                                        "string_value": "https://t.co/tlrIL1Jp4N",
+                                        "type": "STRING"
+                                      }
+                                    }
+                                  ],
+                                  "card_platform": {
+                                    "platform": {
+                                      "audience": {
+                                        "name": "production"
+                                      },
+                                      "device": {
+                                        "name": "Swift",
+                                        "version": "12"
+                                      }
+                                    }
+                                  },
+                                  "name": "summary",
+                                  "url": "https://t.co/tlrIL1Jp4N",
+                                  "user_refs_results": []
+                                }
+                              },
+                              "unmention_data": {},
+                              "edit_control": {
+                                "edit_tweet_ids": [
+                                  "1890673021376950749"
+                                ],
+                                "editable_until_msecs": "1739610149000",
+                                "is_edit_eligible": true,
+                                "edits_remaining": "5"
+                              },
+                              "is_translatable": false,
+                              "views": {
+                                "count": "55285",
+                                "state": "EnabledWithCount"
+                              },
+                              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                              "legacy": {
+                                "bookmark_count": 121,
+                                "bookmarked": false,
+                                "created_at": "Sat Feb 15 08:02:29 +0000 2025",
+                                "conversation_id_str": "1890673021376950749",
+                                "display_text_range": [
+                                  0,
+                                  229
+                                ],
+                                "entities": {
+                                  "hashtags": [],
+                                  "symbols": [],
+                                  "timestamps": [],
+                                  "urls": [
+                                    {
+                                      "display_url": "news.stanford.edu/stories/2017/0\u2026",
+                                      "expanded_url": "https://news.stanford.edu/stories/2017/02/the-threat-from-within",
+                                      "url": "https://t.co/tlrIL1Jp4N",
+                                      "indices": [
+                                        206,
+                                        229
+                                      ]
+                                    }
+                                  ],
+                                  "user_mentions": [
+                                    {
+                                      "id_str": "18036441",
+                                      "name": "Stanford University",
+                                      "screen_name": "Stanford",
+                                      "indices": [
+                                        95,
+                                        104
+                                      ]
+                                    },
+                                    {
+                                      "id_str": "1067218780806307841",
+                                      "name": "Stanford HAI",
+                                      "screen_name": "StanfordHAI",
+                                      "indices": [
+                                        121,
+                                        133
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "favorite_count": 273,
+                                "favorited": false,
+                                "full_text": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
+                                "is_quote_status": false,
+                                "lang": "en",
+                                "possibly_sensitive": false,
+                                "possibly_sensitive_editable": true,
+                                "quote_count": 9,
+                                "reply_count": 13,
+                                "retweet_count": 55,
+                                "retweeted": false,
+                                "user_id_str": "130745589",
+                                "id_str": "1890673021376950749"
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "bookmark_count": 0,
+                            "bookmarked": false,
+                            "created_at": "Sun Feb 16 09:40:02 +0000 2025",
+                            "conversation_id_str": "1891059956725490001",
+                            "display_text_range": [
+                              0,
+                              136
+                            ],
+                            "entities": {
+                              "hashtags": [],
+                              "symbols": [],
+                              "timestamps": [],
+                              "urls": [],
+                              "user_mentions": []
+                            },
+                            "favorite_count": 1,
+                            "favorited": false,
+                            "full_text": "A lucid and profound analysis of the current deep crisis in universities worldwide \u2014 'the thread from within' \u2014 written eight years ago!",
+                            "is_quote_status": true,
+                            "lang": "en",
+                            "quote_count": 0,
+                            "quoted_status_id_str": "1890673021376950749",
+                            "quoted_status_permalink": {
+                              "url": "https://t.co/NhhRgbOzCO",
+                              "expanded": "https://twitter.com/drfeifei/status/1890673021376950749",
+                              "display": "x.com/drfeifei/statu\u2026"
+                            },
+                            "reply_count": 0,
+                            "retweet_count": 0,
+                            "retweeted": false,
+                            "user_id_str": "1290740224356737026",
+                            "id_str": "1891059956725490001"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet"
+                    },
+                    "feedbackInfo": {
+                      "feedbackKeys": [
+                        "1060665035"
+                      ]
+                    },
+                    "clientEventInfo": {
+                      "component": "result",
+                      "element": "tweet",
+                      "details": {
+                        "timelinesDetails": {
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
                         }
                       }
                     }
@@ -1721,7 +2164,7 @@
                 },
                 {
                   "entryId": "tweet-1890984796802715989",
-                  "sortIndex": "1892137315581558754",
+                  "sortIndex": "1892143895433707480",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -1818,7 +2261,7 @@
                           },
                           "is_translatable": false,
                           "views": {
-                            "count": "20042",
+                            "count": "20045",
                             "state": "EnabledWithCount"
                           },
                           "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
@@ -1865,7 +2308,7 @@
                                       },
                                       "fast_followers_count": 0,
                                       "favourites_count": 6721,
-                                      "followers_count": 497881,
+                                      "followers_count": 497888,
                                       "friends_count": 1133,
                                       "has_custom_timelines": true,
                                       "is_translator": false,
@@ -1873,7 +2316,7 @@
                                       "location": "Stanford, CA, U.S.A.",
                                       "media_count": 263,
                                       "name": "Fei-Fei Li",
-                                      "normal_followers_count": 497881,
+                                      "normal_followers_count": 497888,
                                       "pinned_tweet_ids_str": [
                                         "1721916013732876415"
                                       ],
@@ -2067,7 +2510,7 @@
                               },
                               "is_translatable": false,
                               "views": {
-                                "count": "55273",
+                                "count": "55285",
                                 "state": "EnabledWithCount"
                               },
                               "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -2180,7 +2623,7 @@
                       "element": "tweet",
                       "details": {
                         "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACgAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACgAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
                         }
                       }
                     }
@@ -2188,7 +2631,7 @@
                 },
                 {
                   "entryId": "tweet-1890796293007487273",
-                  "sortIndex": "1892137315581558744",
+                  "sortIndex": "1892143895433707470",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -2326,7 +2769,7 @@
                                       },
                                       "fast_followers_count": 0,
                                       "favourites_count": 6721,
-                                      "followers_count": 497881,
+                                      "followers_count": 497888,
                                       "friends_count": 1133,
                                       "has_custom_timelines": true,
                                       "is_translator": false,
@@ -2334,7 +2777,7 @@
                                       "location": "Stanford, CA, U.S.A.",
                                       "media_count": 263,
                                       "name": "Fei-Fei Li",
-                                      "normal_followers_count": 497881,
+                                      "normal_followers_count": 497888,
                                       "pinned_tweet_ids_str": [
                                         "1721916013732876415"
                                       ],
@@ -2528,7 +2971,7 @@
                               },
                               "is_translatable": false,
                               "views": {
-                                "count": "55273",
+                                "count": "55285",
                                 "state": "EnabledWithCount"
                               },
                               "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -2641,450 +3084,7 @@
                       "element": "tweet",
                       "details": {
                         "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
-                        }
-                      }
-                    }
-                  }
-                },
-                {
-                  "entryId": "tweet-1891059956725490001",
-                  "sortIndex": "1892137315581558734",
-                  "content": {
-                    "entryType": "TimelineTimelineItem",
-                    "__typename": "TimelineTimelineItem",
-                    "itemContent": {
-                      "itemType": "TimelineTweet",
-                      "__typename": "TimelineTweet",
-                      "tweet_results": {
-                        "result": {
-                          "__typename": "Tweet",
-                          "rest_id": "1891059956725490001",
-                          "core": {
-                            "user_results": {
-                              "result": {
-                                "__typename": "User",
-                                "id": "VXNlcjoxMjkwNzQwMjI0MzU2NzM3MDI2",
-                                "rest_id": "1290740224356737026",
-                                "affiliates_highlighted_label": {},
-                                "has_graduated_access": true,
-                                "parody_commentary_fan_label": "None",
-                                "is_blue_verified": false,
-                                "profile_image_shape": "Circle",
-                                "legacy": {
-                                  "following": false,
-                                  "can_dm": true,
-                                  "can_media_tag": true,
-                                  "created_at": "Tue Aug 04 20:04:08 +0000 2020",
-                                  "default_profile": true,
-                                  "default_profile_image": false,
-                                  "description": "Theoretical physicist",
-                                  "entities": {
-                                    "description": {
-                                      "urls": []
-                                    }
-                                  },
-                                  "fast_followers_count": 0,
-                                  "favourites_count": 26468,
-                                  "followers_count": 541,
-                                  "friends_count": 413,
-                                  "has_custom_timelines": false,
-                                  "is_translator": false,
-                                  "listed_count": 2,
-                                  "location": "",
-                                  "media_count": 541,
-                                  "name": "ASM",
-                                  "normal_followers_count": 541,
-                                  "pinned_tweet_ids_str": [],
-                                  "possibly_sensitive": false,
-                                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290740224356737026/1700495392",
-                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1726631105808265216/qav3HUd8_normal.jpg",
-                                  "profile_interstitial_type": "",
-                                  "screen_name": "ASM65617010",
-                                  "statuses_count": 5160,
-                                  "translator_type": "none",
-                                  "verified": false,
-                                  "want_retweets": false,
-                                  "withheld_in_countries": []
-                                },
-                                "tipjar_settings": {}
-                              }
-                            }
-                          },
-                          "unmention_data": {},
-                          "edit_control": {
-                            "edit_tweet_ids": [
-                              "1891059956725490001"
-                            ],
-                            "editable_until_msecs": "1739702402000",
-                            "is_edit_eligible": true,
-                            "edits_remaining": "5"
-                          },
-                          "is_translatable": false,
-                          "views": {
-                            "count": "164",
-                            "state": "EnabledWithCount"
-                          },
-                          "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-                          "quoted_status_result": {
-                            "result": {
-                              "__typename": "Tweet",
-                              "rest_id": "1890673021376950749",
-                              "core": {
-                                "user_results": {
-                                  "result": {
-                                    "__typename": "User",
-                                    "id": "VXNlcjoxMzA3NDU1ODk=",
-                                    "rest_id": "130745589",
-                                    "affiliates_highlighted_label": {},
-                                    "has_graduated_access": true,
-                                    "parody_commentary_fan_label": "None",
-                                    "is_blue_verified": true,
-                                    "profile_image_shape": "Circle",
-                                    "legacy": {
-                                      "following": false,
-                                      "can_dm": false,
-                                      "can_media_tag": false,
-                                      "created_at": "Thu Apr 08 05:16:30 +0000 2010",
-                                      "default_profile": false,
-                                      "default_profile_image": false,
-                                      "description": "Prof (CS @Stanford), Co-Director @StanfordHAI, Cofounder/CEO @theworldlabs, #AI #computervision #robotics #AI-healthcare",
-                                      "entities": {
-                                        "description": {
-                                          "urls": []
-                                        },
-                                        "url": {
-                                          "urls": [
-                                            {
-                                              "display_url": "svl.stanford.edu",
-                                              "expanded_url": "http://svl.stanford.edu",
-                                              "url": "https://t.co/x7co90bT1c",
-                                              "indices": [
-                                                0,
-                                                23
-                                              ]
-                                            }
-                                          ]
-                                        }
-                                      },
-                                      "fast_followers_count": 0,
-                                      "favourites_count": 6721,
-                                      "followers_count": 497881,
-                                      "friends_count": 1133,
-                                      "has_custom_timelines": true,
-                                      "is_translator": false,
-                                      "listed_count": 7241,
-                                      "location": "Stanford, CA, U.S.A.",
-                                      "media_count": 263,
-                                      "name": "Fei-Fei Li",
-                                      "normal_followers_count": 497881,
-                                      "pinned_tweet_ids_str": [
-                                        "1721916013732876415"
-                                      ],
-                                      "possibly_sensitive": false,
-                                      "profile_banner_url": "https://pbs.twimg.com/profile_banners/130745589/1691282908",
-                                      "profile_image_url_https": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
-                                      "profile_interstitial_type": "",
-                                      "screen_name": "drfeifei",
-                                      "statuses_count": 2703,
-                                      "translator_type": "none",
-                                      "url": "https://t.co/x7co90bT1c",
-                                      "verified": false,
-                                      "want_retweets": false,
-                                      "withheld_in_countries": []
-                                    },
-                                    "tipjar_settings": {}
-                                  }
-                                }
-                              },
-                              "card": {
-                                "rest_id": "https://t.co/tlrIL1Jp4N",
-                                "legacy": {
-                                  "binding_values": [
-                                    {
-                                      "key": "thumbnail_image",
-                                      "value": {
-                                        "image_value": {
-                                          "height": 144,
-                                          "width": 144,
-                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=144x144_2"
-                                        },
-                                        "type": "IMAGE"
-                                      }
-                                    },
-                                    {
-                                      "key": "description",
-                                      "value": {
-                                        "string_value": "Former Provost John Etchemendy, in a recent speech before the Stanford Board of Trustees, outlined challenges higher education is facing in the coming years. Following is an excerpt from that talk.",
-                                        "type": "STRING"
-                                      }
-                                    },
-                                    {
-                                      "key": "domain",
-                                      "value": {
-                                        "string_value": "news.stanford.edu",
-                                        "type": "STRING"
-                                      }
-                                    },
-                                    {
-                                      "key": "thumbnail_image_large",
-                                      "value": {
-                                        "image_value": {
-                                          "height": 420,
-                                          "width": 420,
-                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=420x420_2"
-                                        },
-                                        "type": "IMAGE"
-                                      }
-                                    },
-                                    {
-                                      "key": "thumbnail_image_original",
-                                      "value": {
-                                        "image_value": {
-                                          "height": 800,
-                                          "width": 1200,
-                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=orig"
-                                        },
-                                        "type": "IMAGE"
-                                      }
-                                    },
-                                    {
-                                      "key": "thumbnail_image_small",
-                                      "value": {
-                                        "image_value": {
-                                          "height": 100,
-                                          "width": 100,
-                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=jpg&name=100x100_2"
-                                        },
-                                        "type": "IMAGE"
-                                      }
-                                    },
-                                    {
-                                      "key": "thumbnail_image_x_large",
-                                      "value": {
-                                        "image_value": {
-                                          "height": 800,
-                                          "width": 1200,
-                                          "url": "https://pbs.twimg.com/card_img/1890223290536587265/62kIeYXa?format=png&name=2048x2048_2_exp"
-                                        },
-                                        "type": "IMAGE"
-                                      }
-                                    },
-                                    {
-                                      "key": "vanity_url",
-                                      "value": {
-                                        "scribe_key": "vanity_url",
-                                        "string_value": "news.stanford.edu",
-                                        "type": "STRING"
-                                      }
-                                    },
-                                    {
-                                      "key": "thumbnail_image_color",
-                                      "value": {
-                                        "image_color_value": {
-                                          "palette": [
-                                            {
-                                              "rgb": {
-                                                "blue": 140,
-                                                "green": 161,
-                                                "red": 206
-                                              },
-                                              "percentage": 31.86
-                                            },
-                                            {
-                                              "rgb": {
-                                                "blue": 42,
-                                                "green": 52,
-                                                "red": 51
-                                              },
-                                              "percentage": 20.08
-                                            },
-                                            {
-                                              "rgb": {
-                                                "blue": 42,
-                                                "green": 71,
-                                                "red": 114
-                                              },
-                                              "percentage": 12.74
-                                            },
-                                            {
-                                              "rgb": {
-                                                "blue": 111,
-                                                "green": 178,
-                                                "red": 255
-                                              },
-                                              "percentage": 9.43
-                                            },
-                                            {
-                                              "rgb": {
-                                                "blue": 35,
-                                                "green": 154,
-                                                "red": 255
-                                              },
-                                              "percentage": 9.41
-                                            }
-                                          ]
-                                        },
-                                        "type": "IMAGE_COLOR"
-                                      }
-                                    },
-                                    {
-                                      "key": "title",
-                                      "value": {
-                                        "string_value": "John Etchemendy: \u2018The threat from within\u2019",
-                                        "type": "STRING"
-                                      }
-                                    },
-                                    {
-                                      "key": "card_url",
-                                      "value": {
-                                        "scribe_key": "card_url",
-                                        "string_value": "https://t.co/tlrIL1Jp4N",
-                                        "type": "STRING"
-                                      }
-                                    }
-                                  ],
-                                  "card_platform": {
-                                    "platform": {
-                                      "audience": {
-                                        "name": "production"
-                                      },
-                                      "device": {
-                                        "name": "Swift",
-                                        "version": "12"
-                                      }
-                                    }
-                                  },
-                                  "name": "summary",
-                                  "url": "https://t.co/tlrIL1Jp4N",
-                                  "user_refs_results": []
-                                }
-                              },
-                              "unmention_data": {},
-                              "edit_control": {
-                                "edit_tweet_ids": [
-                                  "1890673021376950749"
-                                ],
-                                "editable_until_msecs": "1739610149000",
-                                "is_edit_eligible": true,
-                                "edits_remaining": "5"
-                              },
-                              "is_translatable": false,
-                              "views": {
-                                "count": "55273",
-                                "state": "EnabledWithCount"
-                              },
-                              "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                              "legacy": {
-                                "bookmark_count": 121,
-                                "bookmarked": false,
-                                "created_at": "Sat Feb 15 08:02:29 +0000 2025",
-                                "conversation_id_str": "1890673021376950749",
-                                "display_text_range": [
-                                  0,
-                                  229
-                                ],
-                                "entities": {
-                                  "hashtags": [],
-                                  "symbols": [],
-                                  "timestamps": [],
-                                  "urls": [
-                                    {
-                                      "display_url": "news.stanford.edu/stories/2017/0\u2026",
-                                      "expanded_url": "https://news.stanford.edu/stories/2017/02/the-threat-from-within",
-                                      "url": "https://t.co/tlrIL1Jp4N",
-                                      "indices": [
-                                        206,
-                                        229
-                                      ]
-                                    }
-                                  ],
-                                  "user_mentions": [
-                                    {
-                                      "id_str": "18036441",
-                                      "name": "Stanford University",
-                                      "screen_name": "Stanford",
-                                      "indices": [
-                                        95,
-                                        104
-                                      ]
-                                    },
-                                    {
-                                      "id_str": "1067218780806307841",
-                                      "name": "Stanford HAI",
-                                      "screen_name": "StanfordHAI",
-                                      "indices": [
-                                        121,
-                                        133
-                                      ]
-                                    }
-                                  ]
-                                },
-                                "favorite_count": 273,
-                                "favorited": false,
-                                "full_text": "The most incredibly prescient words by my dear friend Prof. John Etchemendy, former Provost of @Stanford , codirector of @StanfordHAI , and one of the most thoughtful leaders of America\u2019s higher education! https://t.co/tlrIL1Jp4N",
-                                "is_quote_status": false,
-                                "lang": "en",
-                                "possibly_sensitive": false,
-                                "possibly_sensitive_editable": true,
-                                "quote_count": 9,
-                                "reply_count": 13,
-                                "retweet_count": 55,
-                                "retweeted": false,
-                                "user_id_str": "130745589",
-                                "id_str": "1890673021376950749"
-                              }
-                            }
-                          },
-                          "legacy": {
-                            "bookmark_count": 0,
-                            "bookmarked": false,
-                            "created_at": "Sun Feb 16 09:40:02 +0000 2025",
-                            "conversation_id_str": "1891059956725490001",
-                            "display_text_range": [
-                              0,
-                              136
-                            ],
-                            "entities": {
-                              "hashtags": [],
-                              "symbols": [],
-                              "timestamps": [],
-                              "urls": [],
-                              "user_mentions": []
-                            },
-                            "favorite_count": 1,
-                            "favorited": false,
-                            "full_text": "A lucid and profound analysis of the current deep crisis in universities worldwide \u2014 'the thread from within' \u2014 written eight years ago!",
-                            "is_quote_status": true,
-                            "lang": "en",
-                            "quote_count": 0,
-                            "quoted_status_id_str": "1890673021376950749",
-                            "quoted_status_permalink": {
-                              "url": "https://t.co/NhhRgbOzCO",
-                              "expanded": "https://twitter.com/drfeifei/status/1890673021376950749",
-                              "display": "x.com/drfeifei/statu\u2026"
-                            },
-                            "reply_count": 0,
-                            "retweet_count": 0,
-                            "retweeted": false,
-                            "user_id_str": "1290740224356737026",
-                            "id_str": "1891059956725490001"
-                          }
-                        }
-                      },
-                      "tweetDisplayType": "Tweet"
-                    },
-                    "feedbackInfo": {
-                      "feedbackKeys": [
-                        "1060665035"
-                      ]
-                    },
-                    "clientEventInfo": {
-                      "component": "result",
-                      "element": "tweet",
-                      "details": {
-                        "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
                         }
                       }
                     }
@@ -3092,7 +3092,7 @@
                 },
                 {
                   "entryId": "tweet-1890696160764953032",
-                  "sortIndex": "1892137315581558724",
+                  "sortIndex": "1892143895433707460",
                   "content": {
                     "entryType": "TimelineTimelineItem",
                     "__typename": "TimelineTimelineItem",
@@ -3212,7 +3212,7 @@
                                       },
                                       "fast_followers_count": 0,
                                       "favourites_count": 6721,
-                                      "followers_count": 497881,
+                                      "followers_count": 497888,
                                       "friends_count": 1133,
                                       "has_custom_timelines": true,
                                       "is_translator": false,
@@ -3220,7 +3220,7 @@
                                       "location": "Stanford, CA, U.S.A.",
                                       "media_count": 263,
                                       "name": "Fei-Fei Li",
-                                      "normal_followers_count": 497881,
+                                      "normal_followers_count": 497888,
                                       "pinned_tweet_ids_str": [
                                         "1721916013732876415"
                                       ],
@@ -3414,7 +3414,7 @@
                               },
                               "is_translatable": false,
                               "views": {
-                                "count": "55273",
+                                "count": "55285",
                                 "state": "EnabledWithCount"
                               },
                               "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
@@ -3721,7 +3721,7 @@
                       "element": "tweet",
                       "details": {
                         "timelinesDetails": {
-                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC37JgTkAY1TwKAAVtwTqG8dfzpAgABgAAAAAKAAf6PK78qU+uggAAAAAA"
+                          "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAACAAAAAAwAAgoAAQAAAAAAAAAACgAC09xY6qMeNjIKAAVtwTqG8dfzpAgABgAAAAAKAAcwx4PRo6F8VwAAAAAA"
                         }
                       }
                     }
@@ -3733,7 +3733,7 @@
                   "content": {
                     "entryType": "TimelineTimelineCursor",
                     "__typename": "TimelineTimelineCursor",
-                    "value": "DAACCgACGkI43RGAJxAKAAMaQjjdEX_Y8AgABAAAAAELAAUAAABoRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUFjYVBhM0NkOXNSN2hvK1pRTHBscUZSR2owYUpCQ1hBY2dhUFM5ZnBWZlFHQm85amlwZld3QWdHajExTmV0V01Ta2FQaUNuWVJjUlZRPT0IAAYAAAAACAAHAAAAAAwACAoAARo9GiQQlwHIAAAA",
+                    "value": "DAACCgACGkI-2Q9AJxAKAAMaQj7ZDz_Y8AgABAAAAAELAAUAAABoRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUFjYVBhM0NkOXNSN2hvK1pRTHBscUZSR2owYUpCQ1hBY2dhUFM5ZnBWZlFHQm85amlwZld3QWdHajExTmV0V01Ta2FQaUNuWVJjUlZRPT0IAAYAAAAACAAHAAAAAAwACAoAARo9GiQQlwHIAAAA",
                     "cursorType": "Top"
                   }
                 },
@@ -3743,7 +3743,7 @@
                   "content": {
                     "entryType": "TimelineTimelineCursor",
                     "__typename": "TimelineTimelineCursor",
-                    "value": "DAACCgACGkI43RGAJxAKAAMaQjjdEX_Y8AgABAAAAAILAAUAAABoRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUFjYVBhM0NkOXNSN2hvK1pRTHBscUZSR2owYUpCQ1hBY2dhUFM5ZnBWZlFHQm85amlwZld3QWdHajExTmV0V01Ta2FQaUNuWVJjUlZRPT0IAAYAAAAACAAHAAAAAAwACAoAARo9GiQQlwHIAAAA",
+                    "value": "DAACCgACGkI-2Q9AJxAKAAMaQj7ZDz_Y8AgABAAAAAILAAUAAABoRW1QQzZ3QUFBZlEvZ0dKTjB2R3AvQUFBQUFjYVBhM0NkOXNSN2hvK1pRTHBscUZSR2owYUpCQ1hBY2dhUFM5ZnBWZlFHQm85amlwZld3QWdHajExTmV0V01Ta2FQaUNuWVJjUlZRPT0IAAYAAAAACAAHAAAAAAwACAoAARo9GiQQlwHIAAAA",
                     "cursorType": "Bottom"
                   }
                 }

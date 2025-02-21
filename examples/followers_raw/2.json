@@ -1,0 +1,284 @@
+{
+  "data": {
+    "user": {
+      "result": {
+        "__typename": "User",
+        "timeline": {
+          "timeline": {
+            "instructions": [
+              {
+                "type": "TimelineAddEntries",
+                "entries": [
+                  {
+                    "entryId": "user-1176678563354824705",
+                    "sortIndex": "1892143848767881164",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxMTc2Njc4NTYzMzU0ODI0NzA1",
+                            "rest_id": "1176678563354824705",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Sep 25 02:03:35 +0000 2019",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Visual Analytics Group\nState Key Lab of CAD&CG, Zhejiang University\nChina",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 0,
+                              "followers_count": 18,
+                              "friends_count": 9,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 0,
+                              "location": "",
+                              "media_count": 0,
+                              "name": "ZJUVAG",
+                              "normal_followers_count": 18,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176678759228788736/0SZJzaPb_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "zjuvag",
+                              "statuses_count": 0,
+                              "translator_type": "none",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowersSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-96791042",
+                    "sortIndex": "1892143848767881163",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo5Njc5MTA0Mg==",
+                            "rest_id": "96791042",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Mon Dec 14 16:24:39 +0000 2009",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Interests include the Internet of Things, Artificial Intelligence, Space Exploration, Environment.... https://t.co/dLuaAheA8r",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "kencraggs.livejournal.com/10438.html",
+                                      "expanded_url": "https://kencraggs.livejournal.com/10438.html",
+                                      "url": "https://t.co/dLuaAheA8r",
+                                      "indices": [
+                                        102,
+                                        125
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "kcraggs.yolasite.com/royalty-slaver\u2026",
+                                      "expanded_url": "http://kcraggs.yolasite.com/royalty-slavery-and-opium.php",
+                                      "url": "https://t.co/uBhDaTmX2m",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1572,
+                              "followers_count": 15636,
+                              "friends_count": 15657,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 399,
+                              "location": "UK",
+                              "media_count": 277,
+                              "name": "Ken Craggs",
+                              "normal_followers_count": 15636,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332654607206637570/7K_v0HTS_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "BetweenMyths",
+                              "statuses_count": 18776,
+                              "translator_type": "none",
+                              "url": "https://t.co/uBhDaTmX2m",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowersSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "user-61124166",
+                    "sortIndex": "1892143848767881162",
+                    "content": {
+                      "entryType": "TimelineTimelineItem",
+                      "__typename": "TimelineTimelineItem",
+                      "itemContent": {
+                        "itemType": "TimelineUser",
+                        "__typename": "TimelineUser",
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjo2MTEyNDE2Ng==",
+                            "rest_id": "61124166",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "parody_commentary_fan_label": "None",
+                            "is_blue_verified": false,
+                            "profile_image_shape": "Circle",
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Wed Jul 29 05:37:57 +0000 2009",
+                              "default_profile": false,
+                              "default_profile_image": false,
+                              "description": "CS PhD / Assistant Professor @ Zhejiang University / Data Visualization, Visual Analytics & HCI / Hobbist Photographer https://t.co/FdHoxzXUfj",
+                              "entities": {
+                                "description": {
+                                  "urls": [
+                                    {
+                                      "display_url": "unsplash.com/@skies457",
+                                      "expanded_url": "https://unsplash.com/@skies457",
+                                      "url": "https://t.co/FdHoxzXUfj",
+                                      "indices": [
+                                        119,
+                                        142
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "dwe.ng",
+                                      "expanded_url": "https://dwe.ng",
+                                      "url": "https://t.co/4X6OOxcJ1R",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 1334,
+                              "followers_count": 419,
+                              "friends_count": 976,
+                              "has_custom_timelines": true,
+                              "is_translator": false,
+                              "listed_count": 2,
+                              "location": "Ningbo, China",
+                              "media_count": 69,
+                              "name": "Di Weng \u7fc1\u837b",
+                              "normal_followers_count": 419,
+                              "pinned_tweet_ids_str": [],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/61124166/1569662244",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561909872496889856/xhZrY5YB_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "dw_vis",
+                              "statuses_count": 377,
+                              "translator_type": "none",
+                              "url": "https://t.co/4X6OOxcJ1R",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "tipjar_settings": {}
+                          }
+                        },
+                        "userDisplayType": "User"
+                      },
+                      "clientEventInfo": {
+                        "component": "FollowersSgs",
+                        "element": "user"
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "cursor-bottom-1892143848767881161",
+                    "sortIndex": "1892143848767881161",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "0|1892143848767881159",
+                      "cursorType": "Bottom"
+                    }
+                  },
+                  {
+                    "entryId": "cursor-top-1892143848767881165",
+                    "sortIndex": "1892143848767881165",
+                    "content": {
+                      "entryType": "TimelineTimelineCursor",
+                      "__typename": "TimelineTimelineCursor",
+                      "value": "-1|1892143848767881165",
+                      "cursorType": "Top"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,10 +1,17 @@
 import json
 import requests
 from util.request import request
+from util.get_cursor_from_instructions import get_cursor_from_instructions
 from typing import Tuple
+
 url = 'https://x.com/i/api/graphql/il0axqlKn9gdWoOuhrfLbQ/UserTweets'
 
 def get_user_tweets(session: requests.Session, user_id: str, count: int = 20, cursor: str = None) -> Tuple[dict, str]:
+    """
+    Get tweets of a user
+
+    rate limit: 50/min
+    """
     variables = {
         "userId": user_id,
         "count": count,
@@ -54,18 +61,7 @@ def get_user_tweets(session: requests.Session, user_id: str, count: int = 20, cu
         })
     }
     data = request(session, url, params=params)
-
-    next_cursor = None
-
     instructions = data["data"]["user"]["result"]["timeline_v2"]["timeline"]["instructions"]
-    for instruction in instructions:
-        if instruction["type"] != "TimelineAddEntries":
-            continue
-        entries = instruction["entries"]
-        for entry in entries:
-            if entry["content"]["entryType"] == "TimelineTimelineCursor"\
-                and entry["content"]["cursorType"] == "Bottom":
-                next_cursor = entry["content"]["value"]
-                break
+    next_cursor = get_cursor_from_instructions(instructions)
         
     return data, next_cursor
